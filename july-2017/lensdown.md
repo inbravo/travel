@@ -45,7 +45,10 @@
 
 ##	10:00 AM Paudi to Lansdowne Road
 *	After riding for around 45 minutes, we finally arrived on the entry gate of Lansdowne but the main place is still 22 kilometers up hills
-*	Spent here some time in capturing mooments
+*	Spent here some time in capturing beautifull mooments
+
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/1.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/10.jpg)
 
 ##  10:45 AM Dugadda
 *	We have crossed Dugadda and now enjoyoing the scenic beauty of hills
@@ -54,12 +57,19 @@
 ##  11:00 AM Kho River
 *	After crossing 6 kilometers from Dugadda, arrived at Kho river pass
 *	Feelings to take bath could not stop us and we were in clean water within few minutes
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/2.jpg)
+
+##  12:00 PM Kho River to Lensdowne
 *	Started climbing the mountain again after getting refreshed
 *	After climbing for another 15 minutes, with a quick jerk, my bullets clutch wire decided to say adios to me
 *	Bike is stopped and i am trying to understand the reason of failure, at the middle of no mans land
 *	Last town to get repaired is 8 kilometers behind, next is 14 kilometers far
 *	Boldness is always rewarded!!! 
 *	I decided to rode uphill without clutch, may sound scary to few but its not that difficult for regular bike riders and a habitual offender
+* We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
+
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/4.jpg)
+
 
 ##  12:30 PM Lansdowne
 *	Finally we arrived at Lansdowne
