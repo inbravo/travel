@@ -69,7 +69,9 @@
 * We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/4.jpg)
-
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/7.jpg)
 
 ##  12:30 PM Lansdowne
-*	Finally we arrived at Lansdowne
+*	Finally we arrived at Lansdownde and our searchfor a mechanic is also ended. My silverado received a new clutch wire within 30 minutes
+
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/5.jpg)
