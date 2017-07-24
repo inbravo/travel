@@ -45,7 +45,7 @@
 
 ##	10:00 AM Paudi to Lansdowne Road
 *	After riding for around 45 minutes, we finally arrived on the entry gate of Lansdowne but the main place is still 22 kilometers up hills
-*	
+*	Spent here some time in capturing mooments
 
 ##  10:45 AM Dugadda
 *	We have crossed Dugadda and now enjoyoing the scenic beauty of hills
@@ -58,7 +58,8 @@
 *	After climbing for another 15 minutes, with a quick jerk, my bullets clutch wire decided to say adios to me
 *	Bike is stopped and i am trying to understand the reason of failure, at the middle of no mans land
 *	Last town to get repaired is 8 kilometers behind, next is 14 kilometers far
-*	Boldness is always rewarded!!! and is decided to rode uphill without clutch, may sound scary but its nothing difficult for regular bike riders
+*	Boldness is always rewarded!!! 
+*	I decided to rode uphill without clutch, may sound scary to few but its not that difficult for regular bike riders and a habitual offender
 
 ##  12:30 PM Lansdowne
 *	Finally we arrived at Lansdowne
