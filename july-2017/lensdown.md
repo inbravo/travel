@@ -50,7 +50,6 @@
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/1.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/10.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/11.jpg)
 
 ##  10:45 AM Dugadda
 *	We have crossed Dugadda and now enjoyoing the scenic beauty of hills
@@ -72,7 +71,6 @@
 *	I decided to rode uphill without clutch, may sound scary to few but its not that difficult for regular bike riders and a habitual offender
 * We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/14.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/4.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/7.jpg)
 
