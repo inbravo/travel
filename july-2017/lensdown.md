@@ -3,6 +3,7 @@
 | Course | Ghaziabad to Lansdowne |
 | Transport | Enfleid Electra |
 | Stay | Kasang Regency Hill Resort, Village Palkot, Lansdowne, Uttarakhand 246155 |
+| Route Map |![](https://github.com/inbravo/travel/blob/master/july-2017/images/route-map.jpg)|
 
 ---
 
