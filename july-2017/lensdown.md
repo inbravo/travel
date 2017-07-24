@@ -50,6 +50,7 @@
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/1.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/10.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/11.jpg)
 
 ##  10:45 AM Dugadda
 *	We have crossed Dugadda and now enjoyoing the scenic beauty of hills
@@ -59,6 +60,8 @@
 *	After crossing 6 kilometers from Dugadda, arrived at Kho river pass
 *	Feelings to take bath could not stop us and we were in clean water within few minutes
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/2.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/12.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/13.jpg)
 
 ##  12:00 PM Kho River to Lensdowne
 *	Started climbing the mountain again after getting refreshed
@@ -69,6 +72,7 @@
 *	I decided to rode uphill without clutch, may sound scary to few but its not that difficult for regular bike riders and a habitual offender
 * We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
 
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/14.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/4.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/7.jpg)
 
