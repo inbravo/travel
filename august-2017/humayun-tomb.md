@@ -3,7 +3,7 @@
 | Course | Ghaziabad to Humayun Tomb |
 | Transport | Enfleid Electra |
 | Stay |  Only a morning excursion |
-| Route Map |![](https://github.com/inbravo/travel/blob/master/august-2017/images/h/route-map.jpg)|
+| Route Map |![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/route-map.jpg)|
 
 ---
 
@@ -18,4 +18,19 @@
 *	Rode for 33 kilometers from our homes, arrived at Humayun Tomb
 *	Entry ticket is 30 rupees per person. No sign of any visitors and few old age morning walkers
 
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/h/route-map.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_073438.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_083557_HDR.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_083526_HDR.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_082124_HDR.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_082132_HDR.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_083257.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_072028.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_5440.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_073704.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_20170805_083825_HDR.jpg)
+![](https://github.com/inbravo/travel/blob/master/august-2017/images/i/IMG_5483.jpg)
+
+
+
+
+
