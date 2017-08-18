@@ -3,7 +3,7 @@
 | Course | Ghaziabad to Lansdowne |
 | Transport | Enfleid Electra |
 | Stay | Kasang Regency Hill Resort, Village Palkot, Lansdowne, Uttarakhand 246155 |
-| Route Map |![](https://github.com/inbravo/travel/blob/master/july-2017/images/route-map.jpg)|
+| Route Map |![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/route-map.jpg)|
 
 ---
 
@@ -48,8 +48,8 @@
 *	After riding for around 45 minutes, we finally arrived on the entry gate of Lansdowne but the main place is still 22 kilometers up hills
 *	Spent here some time in capturing beautifull mooments
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/1.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/10.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/1.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/10.jpg)
 
 ##  10:45 AM Dugadda
 *	We have crossed Dugadda and now enjoyoing the scenic beauty of hills
@@ -64,8 +64,9 @@
 *	A water snake ehnanced our adventure and forced us all to run away. Snake kept starring us, and we kept laughing and joking
 *	We have encashed the cost of long drive so far. Few more people from Delhi, joined us meanwhile
 *	Finally after complete refreshment, we decided to ride again and enjoy the hill beauty
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/12.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/13.jpg)
+
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/12.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/13.jpg)
 
 ##  12:00 PM Kho River to Lensdowne
 *	Started climbing the mountain again after getting refreshed
@@ -73,11 +74,11 @@
 *	Bike is stopped and i am trying to understand the reason of failure, at the middle of no mans land
 *	Last town to get repaired is 8 kilometers behind, next is 14 kilometers far
 *	Boldness is always rewarded!!! 
-*	I decided to rode uphill without clutch, may sound scary to few but its not that difficult for regular bike riders and a habitual offender
+*	I decided to rode uphill without clutch, may sound scary to few but its not that difficult for regular bike riders
 * 	We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/4.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/7.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/4.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/7.jpg)
 
 ##  12:30 PM Lansdowne
 *	Finally we arrived at Lansdownde and our search for a mechanic is also ended. My Prabal (my bullet motercycle) received a new clutch wire within 30 minutes
@@ -88,5 +89,5 @@
 *	City is maintained by India Army, which automatically makes it well governed and maintained
 *	War history of [Garhwal Rifles](https://en.wikipedia.org/wiki/The_Garhwal_Rifles) is worth respect and reverence
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/5.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/9.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/5.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/9.jpg)
