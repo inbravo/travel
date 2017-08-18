@@ -9,13 +9,13 @@
 
 ##  4:10 AM Ghaziabad
 *	Delay of ten minutes from proposed start time, Which is acceptable if initial 100 kilometers are covered before first stop
-*	Me (Enfield Electra), Deepak (Bajaj Avenger) and Digvijay (Bajaj Pulsar) heading for out first stop to Gajraula
+*	Me (Enfield Electra), Deepak (Bajaj Avenger) and Digvijay (Bajaj Pulsar) heading for our first stop to Gajraula
 *	We are riding together first time but with a common interest, called Riding...
 *	I am riding with a helmet as the only protacting gear. Which i later realized, a great risk
 *	Traffic is very light but no sunlight. We are riding with headlights on
 
 ##  5:45 AM Gajraula
-*	Rode for 95 kilometers from our homes, arrived on Chandpur road at Gajraula. Emptied your bladder and restarted
+*	Rode for 95 kilometers from our homes, arrived on Chandpur road at Gajraula. Emptied our bladder and restarted
 *	Next stop Chandpur is 50 kilometers. Road is nice but single sided, which forced us to reduce out top speeds
 *	Took a minor stop of 10 minutes, at some mid point, quickly checked goodle map to avoid any deviation
 
