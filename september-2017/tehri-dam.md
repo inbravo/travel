@@ -28,6 +28,7 @@
 
 ##  11:45 AM Tehri Dam
 
+##  4:00 PM Rishikesh
 
 ![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/)
 
