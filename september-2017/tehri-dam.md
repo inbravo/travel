@@ -8,17 +8,18 @@
 ---
 
 ##  4:10 AM Ghaziabad
-*	As always, early start of day and i am ready with my motercycle
-*	I am riding with my complete gear and heading towards NH-24
-*	Traffic is very light and no sign of sunlight, i am passing through Ghaziabad city and arrived at NH-58
-* 	This is the highway to take me to Uttarakhand, my destination state
-*	Only heavy traffic but light is present on the road, few taxis are also traversing through traffic
+*	As always, early start of day and i am ready with my motercycle, ready with my complete riding gears
+*	Heading towards NH-24, light traffic and no sunlight, i am traversing through Ghaziabad city
+* 	Arrived at NH-58, this is the highway to take me to Uttarakhand, my destination state
+*	Only heavy traffic is present on the road, few taxis are traversing through traffic
 
 ##  4:30 AM Modinagar
-*	Another solo rider, on a Bajaj Pulsar has just passed me, giving me a confidence
+*	Another solo rider, on a Bajaj Pulsar has just passed me, waving me in confidence
 *	I hooked to his tail with my all senses opened to judge, the slitest of movement around my motercycle
-* 	We carefully steered through the traffic around us, and attracted the eyes of many vehicles
+* 	We carefully steered through the traffic around us, and attracted the eyes of many 
 * 	We crossed Modinagar and arrived at Meerut bypass, where i took the lead, and finally throttled my best
+*	Here comes the bullet attitude, but with all senses opened to avoid any mistake
+*	Solo riding makes you more responsibile, to avoid any negligence, and eventually avoiding any disaster
 
 ##  5:00 AM Meerut
 *	Arrived in Meerut but still no sign of sunlight, i am feeling confident to reach my destination within stipiulated time
@@ -74,7 +75,6 @@
 ##  4:00 PM Rishikesh
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_182827.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_193750.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_195706.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_195706.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170910_110448.jpg)
 
