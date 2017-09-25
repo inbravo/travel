@@ -26,58 +26,56 @@
 *	Heading towards Muzaffarnagar, on clear roads
 *	Another large biker group, at a very coordinated and controlled pace, mostly Haryana number plates
 *	I waved the group and accelerated, able to see the sunlight now
-*	
 
 ##  6:00 AM Muzaffarnagar
-*	
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_061102.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_061625.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061102.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
 
 ##  6:50 AM Roorkee
 
 ##  8:00 AM Haridwar
 
 ##  8:45 AM Rishikesh
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_084635.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_084635.jpg)
 
 ##  10:00 AM Narendra Nagar
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_095756.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_095801.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_095902.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_095909.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_095913.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095756.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095801.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095902.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095909.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095913.jpg)
 
 ##  11:00 AM Chamba
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_103054.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_103104.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_105057.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_105132.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_133300.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_133404.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_134045.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_135549.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_135634.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_135641.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103054.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103104.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_105057.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_105132.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_133300.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_133404.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_134045.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_135549.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_135634.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_135641.jpg)
 
 ##  11:45 AM Tehri Dam
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_114419.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_114424.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_114659.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_115303.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_120611.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114419.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114424.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114659.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_115303.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_120611.jpg)
 
 ##  12:45 PM Tehri Dam, Heading back
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_145704.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_145726.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_145824.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_145835.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145704.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145726.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145824.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145835.jpg)
 
 ##  4:00 PM Rishikesh
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_182827.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_193750.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_195706.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170909_195706.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/t/IMG_20170910_110448.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_182827.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_193750.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_195706.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_195706.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170910_110448.jpg)
 
 
 
