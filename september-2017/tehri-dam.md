@@ -63,6 +63,7 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114659.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_115303.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_120611.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114532.jpg)
 
 ##  12:45 PM Tehri Dam, Heading back
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145704.jpg)
