@@ -11,7 +11,7 @@
 *	As always, early start of day and i am ready with my motercycle, ready with my complete riding gears
 *	Heading towards NH-24, light traffic and no sunlight, i am traversing through Ghaziabad city
 * 	Arrived at NH-58, this is the highway to take me to Uttarakhand, my destination state
-*	Only heavy traffic is present on the road, few taxis are traversing through traffic
+*	Only heavy vehicles present on the road but some taxis also riding in speed
 
 ##  4:30 AM Modinagar
 *	Another solo rider, on a Bajaj Pulsar has just passed me, waving me in confidence
