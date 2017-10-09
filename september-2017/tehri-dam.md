@@ -39,9 +39,9 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
 
 ##  6:50 AM Roorkee
-*	Old classical city, has a reputation of one of the top most Engineering Institute of India, known as IIT
+*	Old classical city, has a reputation of one of the top most engineering Institute of India, known as IIT
 *	City is full of life and school busses are ferrying kids and staffs. I can see uniform clad elegant female Army doctors, heading for their work
-*	First sign of Uttarakhand Police, on every corner of city. I am easily traversing through calm roads of city, happy to avoid the notorious traffic jams of this city
+*	I am getting first sign of Uttarakhand Police. I am easily traversing through roads and happy to avoid the notorious traffic jams of this city
 *	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for city of Gods
 
 ##  8:00 AM Haridwar
