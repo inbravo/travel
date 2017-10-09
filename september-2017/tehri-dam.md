@@ -1,4 +1,4 @@
-| Quote | ![](https://github.com/inbravo/travel/blob/master/common/quotes/q-5.jpg)|
+| Quote | “Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.”|
 | :--- | :--- |
 | Distance | 293 kilometers |
 | Course | Ghaziabad to Tehri Dam, Uttarakhand |
@@ -54,8 +54,7 @@
 ##  8:45 AM Rishikesh
 *	Arrived at spiritual capital of India, but soon took a left turn to skip its beautiful ashrams
 *	Hill climb is started, steep turns quickly alerted my throttle hungry mind to slow down
-*	No sign of traffic, I am mostly alone on these curvy roads
-*	The best part of journey is around me now ... Hills!
+*	No sign of traffic, I am mostly alone on these curvy roads. The best part of journey is around me now ... Hills!
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_084635.jpg)
 
