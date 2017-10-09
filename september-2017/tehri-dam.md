@@ -1,4 +1,4 @@
-| | ![](https://github.com/inbravo/travel/blob/master/common/quotes/q-5.jpg)|
+| Quote | ![](https://github.com/inbravo/travel/blob/master/common/quotes/q-5.jpg)|
 | :--- | :--- |
 | Distance | 293 kilometers |
 | Course | Ghaziabad to Tehri Dam, Uttarakhand |
@@ -7,6 +7,12 @@
 | Route Map |![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/route-map.jpg)|
 
 ---
+
+#	Philosophy	
+*	God made each one of us, but some weirds like me, has received immense energies
+*	This high energy has always attracted people towards me, but soon all attractions faded away, after facing my heat
+*	During all these years, i found that motercycle riding is my best way to desipate my high energy
+*	God gave me strong genetics, which i dont want to waste in sedentry life. God gave me energy to let me see the Life!
 
 ##  4:10 AM Ghaziabad
 *	As always, early start of day and i am ready with my motercycle, ready with my complete riding gears
@@ -30,14 +36,33 @@
 *	I waved the group and accelerated, able to see the sunlight now
 
 ##  6:00 AM Muzaffarnagar
+*	Highest cane growing fields of India are, all around me. It gives me proud to born with my agricultural legacy
+*	This new highway is the face of new face of emerging India. 
+*	People in my generation, who are experiencing this change, will have a story to tell to new generations
+*	Slolwy the highway came to end. I am entering the single side rode soon, heading towards Roorkee
+
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061102.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
 
 ##  6:50 AM Roorkee
+*	Old classical city, has a reputation of one of the top most Engineering Institute of India, known as IIT
+*	City is full of life and school busses are ferrying kids are staffs
+*	I can see uniform clad elegant female Army doctors, heading for their work
+*	First sign of Uttarakhand Police, on every cornor of city
+*	I am easily traversing through calm roads of city, happy to skip the worst traffic of this city
+*	Soon back on nice highway again. Throttle is to my maximum cruising speed, heading for cities of Gods
 
 ##  8:00 AM Haridwar
+*	Arrived on time, Hill life is waiting for me, throttled again to max, towards Rishikesh
+*	While crossing the Rajapur sentury, i started feeling the hill vibes
+*	A small pee stop and after collecting my energies, i climbed again on my 9 years old companion
+*	Unstopped untill i arrived on a train crossing, felt good to break all my previous records of covering the maximum distance
+*	A curious lad is questioned by me, he felt respected and helped me to clarify the next road to be taken for Narendra Nagar
 
 ##  8:45 AM Rishikesh
+*	Arrived at spirtual capital of India, but soon took a left turn to skip its abode beautifull ashrams
+*	Hill climb is started, steep turns quickly alerted my throttled hungry mind to slow down
+*	No sign of traffic, i am mostly alone on these roads
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_084635.jpg)
 
 ##  10:00 AM Narendra Nagar
