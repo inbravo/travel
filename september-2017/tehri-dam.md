@@ -1,5 +1,6 @@
-| Distance | 293 kilometers |
+| | ![](https://github.com/inbravo/travel/blob/master/common/quotes/q-5.jpg)|
 | :--- | :--- |
+| Distance | 293 kilometers |
 | Course | Ghaziabad to Tehri Dam, Uttarakhand |
 | Transport | Enfleid Electra |
 | Stay | [Madhuban Ashram](http://www.madhubanashram.org)|
