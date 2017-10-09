@@ -10,9 +10,9 @@
 
 #	Philosophy	
 *	God made each one of us, but some weirds like me, has received immense energies
-*	This high energy has always attracted people towards me, but soon all attractions faded away, after facing my heat
-*	During all these years, i found that motercycle riding is my best way to desipate my high energy
-*	God gave me strong genetics, which i dont want to waste in sedentry life. God gave me energy to let me see the Life!
+*	God gave me strong genetics, which i dont want to waste in sedentry life. I will use this energy and experience the life!
+*	My high energy has always attracted people, but all attractions soons fades away, after facing my heat
+*	During all these years, i found that motercycle riding is my best way to desipate my high energy and stay peacefull with people around me
 
 ##  4:10 AM Ghaziabad
 *	As always, early start of day and i am ready with my motercycle, ready with my complete riding gears
