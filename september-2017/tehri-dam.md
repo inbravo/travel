@@ -33,7 +33,7 @@
 ##  6:00 AM Muzaffarnagar
 *	This new highway is the face of new emerging India. It gives me immense proud to born in such a great period of transformation 
 *	People in my generation, who are experiencing this change, will have a story to tell to new generations
-*	India's highest sugarcane growing fields are, all around me. Slowly the highway came to end. I am entering the single side rode soon, heading towards Roorkee
+*	India's highest sugarcane growing fields are, all around me. Slowly the highway came to end. I am entering the single side road soon, heading towards Roorkee city
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061102.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
@@ -49,7 +49,7 @@
 *	While crossing the Rajaji National Part, I started feeling the hill vibes
 *	A small pee stop and after collecting my energies, I climbed again on my 9 years old companion
 *	Unstopped until I arrived on a train crossing, felt good to break all my previous records of covering the maximum distance
-*	A curious lad is questioned by me, he felt respected and helped me to clarify the next road to be taken for Narendra Nagar
+*	A curious lad is questioned by me, he delightedly clarified me the correct road to Narendra Nagar
 
 ##  8:45 AM Rishikesh
 *	Arrived at spiritual capital of India, but soon took a left turn to skip its beautiful ashrams
@@ -59,10 +59,9 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_084635.jpg)
 
 ##  10:00 AM Narendra Nagar
-*	Still untouched with the commercialization, Narendra Nagar still gives the nostalgic feelings of classical towns
+*	Still untouched with the urbanization, Narendra Nagar still gives the nostalgic feelings of classical towns
 *	After crossing the town, stopped at a small shack, devoured delicious aloo parathas, chat with localities
-*	Next target is Chamba, which is just an hour away from here. I refit myself to the next stop called Tehri Dam
-*	I am experiencing land sliding prone areas more often now and hills have become more whiter now 
+*	Next target is Chamba, which is just an hour away from here. I refit myself to one last push to my destination called Tehri Dam
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095756.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095801.jpg)
@@ -71,6 +70,8 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095913.jpg)
 
 ##  11:00 AM Chamba
+*	A small town, providing further connects to Tehri and Masuri
+
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103054.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103104.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_105057.jpg)
