@@ -62,6 +62,7 @@
 *	Still untouched with the urbanization, Narendra Nagar still gives the nostalgic feelings of classical towns
 *	After crossing the town, stopped at a small shack, devoured delicious aloo parathas, chat with localities
 *	Next target is Chamba, which is just an hour away from here. I refit myself to one last push to my destination called Tehri Dam
+*	I am experiencing road sign of land sliding prone areas more often and hills have become whiter
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095756.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095801.jpg)
