@@ -27,15 +27,13 @@
 ##  5:00 AM Meerut
 *	Arrived in Meerut but still no sign of sunlight, i am feeling confident to reach my destination within stipulated time
 *	At my maximum cruising speed of 80 KMPS, which is only possible in such minimal traffic, in India
-*	Heading towards Muzaffarnagar, on clear roads
-*	Another large biker group, at a very coordinated and controlled pace, mostly Haryana number plates
+*	Heading towards Muzaffarnagar, on clear roads. Another large biker group, at a very coordinated and controlled pace, mostly Haryana number plates
 *	I waved the group and accelerated, able to see the sunlight now
 
 ##  6:00 AM Muzaffarnagar
-*	Highest cane growing fields of India are, all around me. It gives me proud to born with my agricultural legacy
-*	This new highway is the face of new face of emerging India. 
+*	This new highway is the face of new emerging India. It gives me immense proud to born in such a great period of transformation 
 *	People in my generation, who are experiencing this change, will have a story to tell to new generations
-*	Slowly the highway came to end. I am entering the single side rode soon, heading towards Roorkee
+*	India's highest sugarcane growing fields are, all around me. Slowly the highway came to end. I am entering the single side rode soon, heading towards Roorkee
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061102.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
@@ -64,7 +62,10 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_084635.jpg)
 
 ##  10:00 AM Narendra Nagar
-*	Still untouched with the commercialness of 
+*	Still untouched with the commercialization, Narendra Nagar still gives the nostalgic feelings of classical towns
+*	After crossing the town, stopped at a small shack, devoured delicious aloo parathas. Had chit-chat with localities
+*	Next target is Chamba, which is just an hour away from here. I refit myself to the next stop called Tehri Dam
+*	Hills has become more white than earlier. Landsliding areas are arriving more often
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095756.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095801.jpg)
