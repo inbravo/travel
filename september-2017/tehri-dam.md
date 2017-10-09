@@ -40,11 +40,9 @@
 
 ##  6:50 AM Roorkee
 *	Old classical city, has a reputation of one of the top most Engineering Institute of India, known as IIT
-*	City is full of life and school busses are ferrying kids are staffs
-*	I can see uniform clad elegant female Army doctors, heading for their work
-*	First sign of Uttarakhand Police, on every corner of city
-*	I am easily traversing through calm roads of city, happy to skip the worst traffic of this city
-*	Soon back on nice highway again. Throttle is to my maximum cruising speed, heading for cities of Gods
+*	City is full of life and school busses are ferrying kids and staffs. I can see uniform clad elegant female Army doctors, heading for their work
+*	First sign of Uttarakhand Police, on every corner of city. I am easily traversing through calm roads of city, happy to avoid the notorious traffic jams of this city
+*	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for city of Gods
 
 ##  8:00 AM Haridwar
 *	Arrived on time, Hill life is waiting for me, throttled again to max, towards Rishikesh
@@ -63,9 +61,9 @@
 
 ##  10:00 AM Narendra Nagar
 *	Still untouched with the commercialization, Narendra Nagar still gives the nostalgic feelings of classical towns
-*	After crossing the town, stopped at a small shack, devoured delicious aloo parathas. Had chit-chat with localities
+*	After crossing the town, stopped at a small shack, devoured delicious aloo parathas, chat with localities
 *	Next target is Chamba, which is just an hour away from here. I refit myself to the next stop called Tehri Dam
-*	Hills has become more white than earlier. Landsliding areas are arriving more often
+*	I am experiencing land sliding prone areas more often now and hills have become more whiter now 
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095756.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095801.jpg)
