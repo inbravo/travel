@@ -21,8 +21,8 @@
 *	I hooked to his tail with my all senses opened to judge, the slightest of movement around my motorcycle
 * 	We carefully steered through the traffic around us, and attracted the eyes of many 
 * 	We crossed Modinagar and arrived at Meerut bypass, where i took the lead, and finally throttled my best
-*	Here comes the bullet attitude, but with all senses opened to avoid any mistake
-*	Solo riding makes you more responsible, to avoid any negligence, and eventually avoiding any disaster
+*	Finally i was in bullet attitude, but with all senses opened to avoid any mistake and started cutting the traffic
+*	Solo riding makes you more responsible, you have to avoid every small negligence, which eventually helps in avoiding any disaster
 
 ##  5:00 AM Meerut
 *	Arrived in Meerut but still no sign of sunlight, i am feeling confident to reach my destination within stipulated time
@@ -33,7 +33,7 @@
 ##  6:00 AM Muzaffarnagar
 *	This new highway is the face of new emerging India. It gives me immense proud to born in such a great period of transformation 
 *	People in my generation, who are experiencing this change, will have a story to tell to new generations
-*	India's highest sugarcane growing fields are, all around me. Slowly the highway came to end. I am entering the single side road soon, heading towards Roorkee city
+*	India's highest sugarcane growing fields are all around me. Slowly the highway came to end. I am entering the single side road soon, heading towards Roorkee city
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061102.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
