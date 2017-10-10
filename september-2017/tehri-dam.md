@@ -116,15 +116,17 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145835.jpg)
 
 ##  4:00 PM Rishikesh
-*	After experiencing so many hill towns, i realized Rishikesh is nothing, but a city of hotels, ashrams, guest houses and restaurants
-*	Rishikesh is no where close to the the face of real hill city
-*	Checked in at my favourate Iskan temple guest house. Unpacked my gears, took a bath and get on bed to some restaurants
-*	At around 6 o'clock, i started heading towards Parmarth Ashram for evening Aarti
+*	Arrived at busy city with all chorus
+*	After experiencing several hill towns, i realized Rishikesh is no where close to a real hill town
+*	Checked in at my favourate Iskan temple guest house. Unpacked my gears, took bath and get some rest
+*	At around 6 o'clock, i started towards Parmarth Ashram for evening Aarti
 *	Baught some Geeta press books from famous Geeta ashram, before arriving at Parmarth ashram
 *	Aarti is started, and sitting in front of Ganga and thinking of my whole journey
-*	Called my home and some of my friends, ate delecious street food named Chole Kulche and finally at 7:30, I a heading back to guest house
-*	While strolling at the banks of Ganga, i could feel the cool breeze of air, so rejuvinating. Finally the guest house is arrived
-*	A final call to my wife at 8:30 and i went for hibernation, to get refreshed for tomorrows long ride to Delhi
+*	Called my home and some of my friends, ate delecious street food named Chole Kulche and finally at 7:30, headed back to guest house
+*	While strolling at the banks of Ganga, i could feel the cool breeze of air, so rejuvinating. Finally arribed at the guest house
+*	A good night call to my wife at 8:30 before i plan to retire for the day
+*	While trying to sleep, i was thinking of all people, whom i met during my journey and how they live peacefully in this natural abode
+*	I finally forced my eyes to shut and to get refreshed for tomorrows long ride to home
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_182827.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_193750.jpg)
