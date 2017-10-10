@@ -73,7 +73,7 @@
 ##  11:00 AM Chamba
 *	A small town, providing further connects to Tehri and Masuri
 *	Town shows no sign of travelers, only local public curiously starring and trying to judge me
-*	After respectfully enquiring about the road, to be taken, from a police man, I chose the correct road to Tehri Dam
+*	After respectfully enquiring a police man, I chose the correct road to Tehri Dam
 *	Road has become narrow and poor, on my left I have started experiencing the water flow
 *	This water flow got bigger and bigger as I got closer to Dam, and finally the WoW factor arrived
 
@@ -117,7 +117,6 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145835.jpg)
 
 ##  4:00 PM Rishikesh
-*	Arrived at busy city with all chorus
 *	After experiencing several hill towns, I realized Rishikesh is nowhere close to a real hill town
 *	Checked in at my favorite Iskan temple guest house. Unpacked my gears, took bath and get some rest
 *	At around 6 o'clock, I started towards Parmarth Ashram for evening Aarti
