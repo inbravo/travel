@@ -73,7 +73,7 @@
 ##  11:00 AM Chamba
 *	A small town, providing further connects to Tehri and Masuri
 *	Town shows no sign of travelers, only local public curiously starring and trying to judge me
-*	After respectfully enquiring the road to be taken from a police man, I chose the correct road to Tehri Dam
+*	After respectfully enquiring about the road, to be taken, from a police man, I chose the correct road to Tehri Dam
 *	Road has become narrow and poor, on my left I have started experiencing the water flow
 *	This water flow got bigger and bigger as I got closer to Dam, and finally the WoW factor arrived
 
