@@ -42,17 +42,17 @@
 *	Old classical city, has a reputation of one of the top most engineering Institute of India, known as IIT
 *	City is full of life and school busses are ferrying kids and staffs. I can see uniform clad elegant female Army doctors, heading for their work
 *	I am getting first sign of Uttarakhand Police. I am easily traversing through roads and happy to avoid the notorious traffic jams of this city
-*	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for city of Gods
+*	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for the city of Gods
 
 ##  8:00 AM Haridwar
 *	Arrived on time, Hill life is waiting for me, throttled again to max, towards Rishikesh
 *	While crossing the Rajaji National Part, I started feeling the hill vibes
 *	A small pee stop and after collecting my energies, I climbed again on my 9 years old companion
 *	Unstopped until I arrived on a train crossing, felt good to break all my previous records of covering the maximum distance
-*	A curious lad is questioned by me, he delightedly clarified me the correct road to Narendra Nagar
+*	A curious lad is questioned by me, he delightedly guided me towards the road to Narendra Nagar
 
 ##  8:45 AM Rishikesh
-*	Arrived at spiritual capital of India, but soon took a left turn to skip its beautiful ashrams
+*	Arrived at spiritual capital of India, but took a left turn to skip its beautiful ashrams and Ganga ghats
 *	Hill climb is started, steep turns quickly alerted my throttle hungry mind to slow down
 *	No sign of traffic, I am mostly alone on these curvy roads. The best part of journey is around me now ... Hills!
 
@@ -60,8 +60,8 @@
 
 ##  10:00 AM Narendra Nagar
 *	Still untouched with the urbanization, Narendra Nagar still gives the nostalgic feelings of classical towns
-*	After crossing the town, stopped at a small shack, devoured delicious aloo parathas, chat with localities
-*	Next target is Chamba, which is just an hour away from here. I refit myself to one last push to my destination called Tehri Dam
+*	After crossing the town, I stopped at a small shack, devoured delicious aloo parathas and chat with localities
+*	Next city is Chamba, which is just an hour away from here. I refit myself to one last push to my destination called Tehri Dam
 *	I am experiencing road sign of land sliding prone areas more often and hills have become whiter
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095756.jpg)
@@ -72,6 +72,10 @@
 
 ##  11:00 AM Chamba
 *	A small town, providing further connects to Tehri and Masuri
+*	Town shows no sign of travelors, only local public curiously starring at me and trying to judge my status
+*	A respectfull enquiry from a police man, and i tool the road to Tehri Dam
+*	Road has become narrow and poor, on my left i have started experiencing the water flow
+*	This water flow got bigger and bigger as i got more closer to Dam, and finally the WoW factor arrived
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103054.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103104.jpg)
@@ -85,6 +89,12 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_135641.jpg)
 
 ##  11:45 AM Tehri Dam
+*	I arived at Tehri Dam, achived this destination in 7.45 hours, not bad. Feeling realy proud
+*	Access to Dam is restricted by Central Industrial Security Force, i rode to a high point, where i can see the dam
+*	Found a lonely place at one beautiful corner of road, where i can see the dam and be in peace
+*	Parked my stallion, removed all my gears, sit on a bench and thank to God, for rewarding me this journey
+*	Spent around 1 hour there, ate some dry fruits and biscuits, and finally refit myself for the 85 kilometers journey back to Rishikesh
+
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114419.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114424.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114659.jpg)
