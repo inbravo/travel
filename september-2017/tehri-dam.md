@@ -72,10 +72,10 @@
 
 ##  11:00 AM Chamba
 *	A small town, providing further connects to Tehri and Masuri
-*	Town shows no sign of travelors, only local public curiously starring and trying to judge me
-*	A respectfull enquiry from a police man, and i tool the road to Tehri Dam
-*	Road has become narrow and poor, on my left i have started experiencing the water flow
-*	This water flow got bigger and bigger as i got more closer to Dam, and finally the WoW factor arrived
+*	Town shows no sign of travelers, only local public curiously starring and trying to judge me
+*	After respectfully enquiring the road to be taken from a police man, I chose the correct road to Tehri Dam
+*	Road has become narrow and poor, on my left I have started experiencing the water flow
+*	This water flow got bigger and bigger as I got closer to Dam, and finally the WoW factor arrived
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103054.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103104.jpg)
@@ -89,10 +89,10 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_135641.jpg)
 
 ##  11:45 AM Tehri Dam
-*	I arived at Tehri Dam, achived this destination in 7.45 hours, not bad. Feeling realy proud
-*	Access to Dam is restricted by Central Industrial Security Force, i rode to a high point, where i can see the dam
-*	Found a lonely place at one beautiful corner of road, where i can see the dam and be in peace
-*	Parked my stallion, removed all my gears, sit on a bench and thank to God, for rewarding me this journey
+*	Finally arrived at Tehri Dam, ride to this destination took 7.45 hours. Not bad! Feeling really proud!
+*	Access to Dam is restricted by Central Industrial Security Force, I rode to a high point, where i can see the dam
+*	Found a lonely place at one beautiful corner of road, where I can see the dam and be in peace
+*	Parked my stallion, removed all my gears, sit on a bench and thanks to God, for rewarding me this journey
 *	Took some of beautiful pictures, from my phone. Experienced the flora and fauna of region while peacefully sitting there
 *	Spent around 1 hour there, ate some dry fruits and biscuits, and finally refit myself for the 85 kilometers journey back to Rishikesh
 
@@ -105,10 +105,11 @@
 
 ##  12:45 PM Tehri Dam, Heading back
 *	Same route but more heat this time, I am now able to see some of riders, heading towards dam
-*	At a small road side villange named Nagni, i decided to take a bath in small stream of river
+*	At a small road side village named Nagni, I decided to take a bath in small stream of river
 *	Some village kids are playing there, initially scarred with my looks, but soon became comfortable with me
-*	Soon the place where i parked my motercycle, became a picnic spot for a foreigner family
-*	Kids from this family, got curious about me and spent few minutes, looking at my travel gears. Finally i bid adieu to all and headed towards Rishikesh
+*	Soon the place where I parked my motorcycle, became a picnic spot for a foreigner family
+*	Kids from this family, got curious about me and spent few minutes, looking at my travel gears. 
+*	Finally i bid adieu to all and headed towards Rishikesh
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145704.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145726.jpg)
@@ -117,15 +118,15 @@
 
 ##  4:00 PM Rishikesh
 *	Arrived at busy city with all chorus
-*	After experiencing several hill towns, i realized Rishikesh is no where close to a real hill town
-*	Checked in at my favourate Iskan temple guest house. Unpacked my gears, took bath and get some rest
-*	At around 6 o'clock, i started towards Parmarth Ashram for evening Aarti
-*	Baught some Geeta press books from famous Geeta ashram, before arriving at Parmarth ashram
+*	After experiencing several hill towns, I realized Rishikesh is nowhere close to a real hill town
+*	Checked in at my favorite Iskan temple guest house. Unpacked my gears, took bath and get some rest
+*	At around 6 o'clock, I started towards Parmarth Ashram for evening Aarti
+*	Bought some Geeta press books from famous Geeta ashram, before arriving at Parmarth ashram
 *	Aarti is started, and sitting in front of Ganga and thinking of my whole journey
-*	Called my home and some of my friends, ate delecious street food named Chole Kulche and finally at 7:30, headed back to guest house
-*	While strolling at the banks of Ganga, i could feel the cool breeze of air, so rejuvinating. Finally arribed at the guest house
-*	A good night call to my wife at 8:30 before i plan to retire for the day
-*	While trying to sleep, i was thinking of all people, whom i met during my journey and how they live peacefully in this natural abode
+*	Called my home and some of my friends, ate delicious street food named Chole Kulche and finally at 7:30, headed back to guest house
+*	While strolling at the banks of Ganga, I could feel the cool breeze of air, so rejuvenating. Finally arrived at the guest house
+*	A good night call to my wife at 8:30 before I plan to retire for the day
+*	While trying to sleep, I was thinking of all people, whom I met during my journey and how they live peacefully in this natural abode
 *	I finally forced my eyes to shut and to get refreshed for tomorrows long ride to home
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_182827.jpg)
