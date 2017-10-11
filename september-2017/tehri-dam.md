@@ -1,4 +1,4 @@
-| Quote | “Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.”|
+| Motivation Quote | “Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime.”|
 | :--- | :--- |
 | Distance | 293 kilometers |
 | Course | Ghaziabad to Tehri Dam, Uttarakhand |
@@ -9,12 +9,17 @@
 ---
 
 ##  4:10 AM Ghaziabad
-*	During all these years, I found that motorcycling is best way to find peace with myself
-*	I thank to God for giving me strong genetics, which I use to ride almost nonstop, almost untired
+*	We all are bound in some priorities and limitations, but we all wants to enjoy the life of traveler
+*	I did several rides, but never documented it. Some of close friends, always desired to feel my rides vicariously
+*	This travelogue is dedicated to my friends, who want to feel my travel experience and imagine their own journey
+*	I was never thought of doing solo rides, but universe has planned something like this for me
+*	It started several years ago, when I bought my first Royal Enfield in 2008 with the intentions of riding experience
+*	During all these years, I found that solo motorcycling is best way to find peace with myself
+*	I thank to God for giving me strong genetics, which I can use to ride almost nonstop, almost untired
 *	As always, early start of day and I am ready with my motorcycle, ready with my complete riding gears
 *	Heading towards NH-24, light traffic and no sunlight, i am traversing through Ghaziabad city
 * 	Arrived at NH-58, this is the highway to take me to Uttarakhand, my destination state
-*	Only heavy vehicles present on the road but some taxis also riding in speed
+*	Only heavy vehicles present on the road but there are some taxis ferrying interstate travelers
 
 ##  4:30 AM Modinagar
 *	Another solo rider, on a Bajaj Pulsar has just passed me, waving me in confidence
@@ -74,7 +79,7 @@
 *	A small town, providing further connects to Tehri and Masuri
 *	Town shows no sign of travelers, only local public curiously starring and trying to judge me
 *	After respectfully enquiring a police man, I chose the correct road to Tehri Dam
-*	Road has become narrow and poor, on my left I have started experiencing the water flow
+*	Road had become narrow and poor, on my left I have started experiencing the water flow
 *	This water flow got bigger and bigger as I got closer to Dam, and finally the WoW factor arrived
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_103054.jpg)
@@ -92,7 +97,7 @@
 *	Finally arrived at Tehri Dam, ride to this destination took 7.45 hours. Not bad! Feeling really proud!
 *	Access to Dam is restricted by Central Industrial Security Force, I rode to a high point, where i can see the dam
 *	Found a lonely place at one beautiful corner of road, where I can see the dam and be in peace
-*	Parked my stallion, removed all my gears, sit on a bench and thanks to God, for rewarding me this journey
+*	Parked my stallion, removed all my gears, sit on a bench and thanks to God, for rewarding me this healthy journey
 *	Took some of beautiful pictures, from my phone. Experienced the flora and fauna of region while peacefully sitting there
 *	Spent around 1 hour there, ate some dry fruits and biscuits, and finally refit myself for the 85 kilometers journey back to Rishikesh
 
@@ -106,7 +111,7 @@
 ##  12:45 PM Tehri Dam, Heading back
 *	Same route but more heat this time, I am now able to see some of riders, heading towards dam
 *	At a small road side village named Nagni, I decided to take a bath in small stream of river
-*	Some village kids are playing there, initially scarred with my looks, but soon became comfortable with me
+*	Some village kids were playing there, initially scarred with my looks, but soon became comfortable with me
 *	Soon the place where I parked my motorcycle, became a picnic spot for a foreigner family
 *	Kids from this family, got curious about me and spent few minutes, looking at my travel gears. 
 *	Finally i bid adieu to all and headed towards Rishikesh
