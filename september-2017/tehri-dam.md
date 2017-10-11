@@ -9,10 +9,9 @@
 ---
 
 ##  4:10 AM Ghaziabad
-*	We all are bound in some priorities and limitations, but we all wants to enjoy the life of traveler
+*	We all are bound in some priorities and limitations, but we all wants to enjoy the life of a traveler
 *	I did several rides, but never documented it. Some of close friends, always desired to feel my rides vicariously
 *	This travelogue is dedicated to my friends, who want to feel my travel experience and imagine their own journey
-*	I was never thought of doing solo rides, but universe has planned something like this for me
 *	It started several years ago, when I bought my first Royal Enfield in 2008 with the intentions of riding experience
 *	During all these years, I found that solo motorcycling is best way to find peace with myself
 *	I thank to God for giving me strong genetics, which I can use to ride almost nonstop, almost untired
@@ -38,7 +37,6 @@
 ##  6:00 AM Muzaffarnagar
 *	This new highway is the face of new emerging India. It gives me immense proud to born in such a great period of transformation 
 *	People in my generation, who are experiencing this change, will have a story to tell to new generations
-*	India's highest sugarcane growing fields are all around me. Slowly the highway came to end. I am entering the single side road soon, heading towards Roorkee city
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061102.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
@@ -66,7 +64,8 @@
 ##  10:00 AM Narendra Nagar
 *	Still untouched with the urbanization, Narendra Nagar still gives the nostalgic feelings of classical towns
 *	After crossing the town, I stopped at a small shack, devoured delicious aloo parathas and chat with localities
-*	Next city is Chamba, which is just an hour away from here. I refit myself to one last push to my destination called Tehri Dam
+*	Next city is Chamba, which is just an hour away from here
+*	I refit myself to one last push to my destination called Tehri Dam
 *	I am experiencing road sign of land sliding prone areas more often and hills have become whiter
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095756.jpg)
@@ -113,8 +112,8 @@
 *	At a small road side village named Nagni, I decided to take a bath in small stream of river
 *	Some village kids were playing there, initially scarred with my looks, but soon became comfortable with me
 *	Soon the place where I parked my motorcycle, became a picnic spot for a foreigner family
-*	Kids from this family, got curious about me and spent few minutes, looking at my travel gears. 
-*	Finally i bid adieu to all and headed towards Rishikesh
+*	Kids from this family, got curious about me and spent few minutes, looking at my travel gears 
+*	Finally i bid adieu to all kids and headed towards Rishikesh
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145704.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_145726.jpg)
@@ -131,7 +130,7 @@
 *	While strolling at the banks of Ganga, I could feel the cool breeze of air, so rejuvenating. Finally arrived at the guest house
 *	A good night call to my wife at 8:30 before I plan to retire for the day
 *	While trying to sleep, I was thinking of all people, whom I met during my journey and how they live peacefully in this natural abode
-*	I finally forced my eyes to shut and to get refreshed for tomorrows long ride to home
+*	I finally forced my eyes to shut and to tried to sleep. Don't remember when i slept while kept thinking about tomorrows long ride to home
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_182827.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_193750.jpg)
