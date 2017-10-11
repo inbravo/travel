@@ -12,6 +12,7 @@
 *	We all are bound in some priorities and limitations, but we all wants to enjoy the life of a traveler
 *	I did several rides, but never documented it. Some of close friends, always desired to feel my rides vicariously
 *	This travelogue is dedicated to my friends, who want to feel my travel experience and imagine their own journey
+*	I had never thought of doing solo rides, but universe has planned it for me
 *	It started several years ago, when I bought my first Royal Enfield in 2008 with the intentions of riding experience
 *	During all these years, I found that solo motorcycling is best way to find peace with myself
 *	I thank to God for giving me strong genetics, which I can use to ride almost nonstop, almost untired
@@ -37,6 +38,8 @@
 ##  6:00 AM Muzaffarnagar
 *	This new highway is the face of new emerging India. It gives me immense proud to born in such a great period of transformation 
 *	People in my generation, who are experiencing this change, will have a story to tell to new generations
+*	India's highest sugarcane growing fields are all around me. Greenery is the major sign of this region
+*	Slowly the highway came to end, entering the single side road, heading towards Roorkee city
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061102.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
