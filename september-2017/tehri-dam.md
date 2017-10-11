@@ -111,7 +111,7 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114532.jpg)
 
 ##  12:45 PM Tehri Dam, Heading back
-*	Same route but more heat this time, I am now able to see some of riders, heading towards dam
+*	Same route but scoarching sun is eating more energy this time, I am now able to see some of riders, heading towards dam
 *	At a small road side village named Nagni, I decided to take a bath in small stream of river
 *	Some village kids were playing there, initially scarred with my looks, but soon became comfortable with me
 *	Soon the place where I parked my motorcycle, became a picnic spot for a foreigner family
