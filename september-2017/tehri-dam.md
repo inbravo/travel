@@ -78,7 +78,7 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095913.jpg)
 
 ##  11:00 AM Chamba
-*	A small town, providing further connects to Tehri and Masuri
+*	A small town, providing further connects to Tehri and Mussoorie 
 *	Town shows no sign of travelers, only local public curiously starring and trying to judge me
 *	After respectfully enquiring a police man, I chose the correct road to Tehri Dam
 *	Road had become narrow and poor, on my left I have started experiencing the water flow
@@ -125,7 +125,7 @@
 
 ##  4:00 PM Rishikesh
 *	After experiencing several hill towns, I realized Rishikesh is nowhere close to a real hill town
-*	Checked in at my favorite Iskan temple guest house. Unpacked my gears, took bath and get some rest
+*	Checked in at my favorite Iskon temple guest house (Madhuban Ashram). Unpacked my gears, took bath and get some rest
 *	At around 6 o'clock, I started towards Parmarth Ashram for evening Aarti
 *	Bought some Geeta press books from famous Geeta ashram, before arriving at Parmarth ashram
 *	Aarti is started, and sitting in front of Ganga and thinking of my whole journey
