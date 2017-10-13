@@ -1,6 +1,7 @@
 | | “Don’t tell me how educated you are, tell me how much you traveled.”|
 | :--- | :--- |
-| Distance | 293 kilometers |
+| Summary | I did this solo motercycle travel in the mid of Septemer, 2017. Finished the complete journey in 2 days, with 1 days rest in Rishikesh. I started this travel from Ghaziabad, UP, India|
+| Total Distance | ~600 kilometers |
 | Course | Ghaziabad to Tehri Dam, Uttarakhand |
 | Transport | Enfleid Electra |
 | Stay | [Madhuban Ashram](http://www.madhubanashram.org)|
@@ -133,7 +134,7 @@
 *	While strolling at the banks of Ganga, I could feel the cool breeze of air, so rejuvenating. Finally arrived at the guest house
 *	A good night call to my wife at 8:30 before I plan to retire for the day
 *	While trying to sleep, I was thinking of all people, whom I met during my journey and how they live peacefully in this natural abode
-*	I finally forced my eyes to shut and to tried to sleep. Don't remember when i slept while kept thinking about tomorrows long ride to home
+*	I finally forced my eyes to shut and to tried to sleep. Don't remember when did i slept while thinking about tomorrows long ride to home
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_182827.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_193750.jpg)
