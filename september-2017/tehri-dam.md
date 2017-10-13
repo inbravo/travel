@@ -1,10 +1,10 @@
 | | “Don’t tell me how educated you are, tell me how much you traveled...”|
 | :--- | :--- |
-| Summary | I visited world's Highest dam in Septemer, 2017 on my motercycle. I started this solo travel from Ghaziabad, UP, India. Finished the complete journey in 2 days, with 1 day rest in Rishikesh.|
-| Total Distance | ~590 kilometers |
-| Course | Ghaziabad to Tehri Dam, Uttarakhand, India |
+| Summary | This is the story of my solo motercycle travel to world's highest dam 'Tehri Dam', during Septemer, 2017. Finished the journey in 2 days|
+| Total Distance | ~600 kilometers |
+| Course | Ghaziabad to Tehri Dam, Uttarakhand |
 | Transport | Enfleid Electra |
-| Stay | [Madhuban Ashram, Rishikesh, India](http://www.madhubanashram.org)|
+| Stay | [Madhuban Ashram](http://www.madhubanashram.org)|
 | Route Map |![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/route-map.jpg)|
 
 ---
