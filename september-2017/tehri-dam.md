@@ -1,6 +1,6 @@
 | | “People don’t take trips – trips take people.” – John Steinbeck|
 | :--- | :--- |
-| Summary | This is the story of my solo motercycle travel to world's highest dam 'Tehri Dam', during Septemer, 2017. Finished the journey in 2 days|
+| Summary | This is the story of my solo motercycle travel to world's highest dam 'Tehri Dam' in India, during Septemer, 2017.|
 | Total Distance | ~600 kilometers |
 | Course | Ghaziabad to Tehri Dam, Uttarakhand |
 | Transport | Enfleid Electra |
