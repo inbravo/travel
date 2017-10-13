@@ -1,4 +1,4 @@
-| | “Don’t tell me how educated you are, tell me how much you traveled...”|
+| | “People don’t take trips – trips take people.” – John Steinbeck|
 | :--- | :--- |
 | Summary | This is the story of my solo motercycle travel to world's highest dam 'Tehri Dam', during Septemer, 2017. Finished the journey in 2 days|
 | Total Distance | ~600 kilometers |
