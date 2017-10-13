@@ -1,4 +1,4 @@
-| | “Don’t tell me how educated you are, tell me how much you traveled.”|
+| | “Don’t tell me how educated you are, tell me how much you traveled...”|
 | :--- | :--- |
 | Summary | I did this solo motercycle travel in the mid of Septemer, 2017. Finished the complete journey in 2 days, with 1 days rest in Rishikesh. I started this travel from Ghaziabad, UP, India|
 | Total Distance | ~600 kilometers |
