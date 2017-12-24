@@ -1,6 +1,6 @@
 | | “Bizarre travel plans are dancing lessons from God.” – Kurt Vonnegut |
 | :--- | :--- |
-| Summary | This is the story of my solo motercycle ride to Dhanaulti, Uttarakhand in India, during October, 2017. Best part of this journey was to cover 627 kilometers in only 18 hours.|
+| Summary | This is the story of my solo motercycle ride to Dhanaulti, Uttarakhand in India, during October, 2017. Best part of this journey was, that i tracked 627 kilometers in 18 hours only, in a single day.|
 | Total Distance | ~620 kilometers |
 | Course | Ghaziabad to Dhanaulti, Uttarakhand |
 | Transport | Enfleid Electra |
@@ -9,18 +9,14 @@
 
 ---
 
-##  4:30 AM Ghaziabad
-*	We all are bound in some priorities and limitations, but we all wants to enjoy the life of a traveler
-*	I did several rides, but never documented it. Some of close friends, always desired to feel my rides vicariously
-*	This travelogue is dedicated to my friends, who want to feel my travel experience and imagine their own journey
-*	I had never thought of doing solo rides, but universe has planned it for me
-*	It started several years ago, when I bought my first Royal Enfield in 2008 with the intentions of riding experience
-*	During all these years, I found that solo motorcycling is best way to find peace with myself
-*	I thank to God for giving me strong genetics, which I can use to ride almost nonstop, almost untired
-*	As always, early start of day and I am ready with my motorcycle, ready with my complete riding gears
-*	Heading towards NH-24, light traffic and no sunlight, i am traversing through Ghaziabad city
-* 	Arrived at NH-58, this is the highway to take me to Uttarakhand, my destination state
-*	Only heavy vehicles present on the road but there are some taxis ferrying interstate travelers
+##  4:05 AM Ghaziabad
+*	For last few days, i was feeling the intense pulls to ride again. My restless soul is eager to gain some peace from todays long ride 
+*	I read a mesmerizing story [Leh to Kanyakumari in 61 Hours by Balaji](https://www.xbhp.com/talkies/tourer/36273-leh-kanyakumari-61-hours.html) and challanged myself to ride maximum in a single day
+*	I am worried, of uncertainities , which i might face duing the todays long ride. i said nothing to my wife about my todays plan
+*	As always, early start of day and I am ready with my motorcycle, without any compromise with my riding gears
+*	Heading towards NH-24, light traffic and no sunlight, i am traversing through good roads of Ghaziabad, India
+* 	Arrived at NH-58, the state highway, which connects Uttar Pradesh and Uttarakhand in India
+*	Owing to Major festival next wee, named Diwali, traffic is comparatively low from usual
 
 ##  4:30 AM Modinagar
 *	Another solo rider, on a Bajaj Pulsar has just passed me, waving me in confidence
@@ -51,7 +47,7 @@
 *	I am getting first sign of Uttarakhand Police. I am easily traversing through roads and happy to avoid the notorious traffic jams of this city
 *	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for the city of Gods
 
-##  8:00 AM Haridwar
+##  8:00 AM Dehradun
 *	Arrived on time, Hill life is waiting for me, throttled again to max, towards Rishikesh
 *	While crossing the Rajaji National Part, I started feeling the hill vibes
 *	A small pee stop and after collecting my energies, I climbed again on my 9 years old companion
