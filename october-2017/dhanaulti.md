@@ -47,23 +47,21 @@
 *	I am getting first sign of Uttarakhand Police. I am easily traversing through roads and happy to avoid the notorious traffic jams of this city
 *	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for the city of Gods
 
-##  8:00 AM Bhagwanpur
-##  8:00 AM Chhutmalpur
-##  8:00 AM Biharigarh
+##  7:20 AM Bhagwanpur
+##  7:40 AM Chhutmalpur
+##  8:15 AM Biharigarh
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_084248.jpg)
 
-##  8:00 AM Dehradun
+##  9:30 AM Dehradun
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100702.jpg)
 
-##  8:00 AM Mussoorie
+##  10:30 AM Mussoorie
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_103532.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105521.jpg)
-
-##  8:00 AM Dhanaulti
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105526.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105542.jpg)
@@ -88,35 +86,32 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121036.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121045.jpg)
 
-##  8:00 AM Surkanda devi temple
+##  12:30 PM Surkanda Devi
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122126.jpg)
 
-##  8:00 AM Kantal
+##  1:00 PM Kantal
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122423.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124805.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124810.jpg)
 
-##  8:00 AM Chamba
+##  1:30 PM Chamba
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_132354.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_134921.jpg)
 
-##  8:00 AM Nagni
+##  2:30 PM Fakot
+
+##  3:30 PM Nagni
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_144619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105750.jpg)
 
-##  8:00 AM Narendra Nagar
-##  8:00 AM Rishikesh
-##  8:00 AM Haridwar
-##  8:00 AM Roorkee
-##  8:00 AM Muzaffarnagar
-##  8:00 AM Meerut
-##  8:00 AM Modinagar
-##  8:00 AM Ghaziabad
+##  8:00 PM Narendra Nagar
+##  5:30 PM Rishikesh
+##  7:30 PM Roorkee
 
 
 
