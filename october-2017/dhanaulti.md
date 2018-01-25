@@ -110,7 +110,6 @@
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_144619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105750.jpg)
 
 ##  8:00 PM Narendra Nagar
 ##  5:30 PM Rishikesh
@@ -121,7 +120,7 @@
 ##  10:20 PM Modinagar
 ##  10:50 PM Ghaziabad
 
-
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105750.jpg)
 
 
 
