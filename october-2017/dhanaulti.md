@@ -76,6 +76,9 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_111458.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112603.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114425.jpg)
+
+##  12:00 PM Dhanaulti
+
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112613.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113447.jpg)
@@ -111,7 +114,12 @@
 
 ##  8:00 PM Narendra Nagar
 ##  5:30 PM Rishikesh
+##  6:20 PM Haridwar
 ##  7:30 PM Roorkee
+##  8:20 PM Muzaffarnagar
+##  9:35 PM Meerut
+##  10:20 PM Modinagar
+##  10:50 PM Ghaziabad
 
 
 
