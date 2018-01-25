@@ -47,17 +47,24 @@
 *	I am getting first sign of Uttarakhand Police. I am easily traversing through roads and happy to avoid the notorious traffic jams of this city
 *	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for the city of Gods
 
+##  8:00 AM Bhagwanpur
+##  8:00 AM Chhutmalpur
+##  8:00 AM Biharigarh
+
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_084248.jpg)
 
 ##  8:00 AM Dehradun
-*	Arrived on time, Hill life is waiting for me, throttled again to max, towards Rishikesh
-*	While crossing the Rajaji National Part, I started feeling the hill vibes
-*	A small pee stop and after collecting my energies, I climbed again on my 9 years old companion
-*	Unstopped until I arrived on a train crossing, felt good to break all my previous records of covering the maximum distance
-*	A curious lad is questioned by me, he delightedly guided me towards the road to Narendra Nagar
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100702.jpg)
+
+##  8:00 AM Mussoorie
+
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_103532.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105521.jpg)
+
+##  8:00 AM Dhanaulti
+
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105526.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105542.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105820.jpg)
@@ -70,23 +77,51 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_111455.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_111458.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112603.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112607.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114425.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112613.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113447.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113517.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114425.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114702.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114705.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_115910.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121036.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121045.jpg)
+
+##  8:00 AM Surkanda devi temple
+
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122126.jpg)
+
+##  8:00 AM Kantal
+
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122423.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124805.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124810.jpg)
+
+##  8:00 AM Chamba
+
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_132354.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_134921.jpg)
+
+##  8:00 AM Nagni
+
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_144619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105750.jpg)
+
+##  8:00 AM Narendra Nagar
+##  8:00 AM Rishikesh
+##  8:00 AM Haridwar
+##  8:00 AM Roorkee
+##  8:00 AM Muzaffarnagar
+##  8:00 AM Meerut
+##  8:00 AM Modinagar
+##  8:00 AM Ghaziabad
+
+
+
+
+
+
+
+
