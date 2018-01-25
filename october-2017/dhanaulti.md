@@ -38,14 +38,16 @@
 *	India's highest sugarcane growing fields are all around me. Greenery is the major sign of this region
 *	Slowly the highway came to end, entering the single side road, heading towards Roorkee city
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_061102.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_061625.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_062100.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_064853.jpg)
 
 ##  6:50 AM Roorkee
 *	Old classical city, has a reputation of one of the top most engineering Institute of India, known as IIT
 *	City is full of life and school busses are ferrying kids and staffs. I can see uniform clad elegant female Army doctors, heading for their work
 *	I am getting first sign of Uttarakhand Police. I am easily traversing through roads and happy to avoid the notorious traffic jams of this city
 *	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for the city of Gods
+
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_084248.jpg)
 
 ##  8:00 AM Dehradun
 *	Arrived on time, Hill life is waiting for me, throttled again to max, towards Rishikesh
@@ -54,88 +56,44 @@
 *	Unstopped until I arrived on a train crossing, felt good to break all my previous records of covering the maximum distance
 *	A curious lad is questioned by me, he delightedly guided me towards the road to Narendra Nagar
 
-##  8:45 AM Rishikesh
-*	Arrived at spiritual capital of India, but took a left turn to skip its beautiful ashrams and Ganga ghats
-*	Hill climb is started, steep turns quickly alerted my throttle hungry mind to slow down
-*	No sign of traffic, I am mostly alone on these curvy roads. The best part of journey is around me now ... Hills!
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_100702.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_105526.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_105542.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_105750.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_105820.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_105838.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_105852.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_110136.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_110912.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_110929.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_110952.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_111445.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_111455.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_111458.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_112603.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_112607.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_112613.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_112619.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_113447.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_113517.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_114425.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_114702.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_114705.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_115910.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_121036.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_121045.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_122126.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_122423.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_124805.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_124810.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_132354.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_134921.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_144619.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555IMG_20171014_151055.jpg)
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_084635.jpg)
 
-##  10:00 AM Narendra Nagar
-*	Still untouched with the urbanization, Narendra Nagar still gives the nostalgic feelings of classical towns
-*	After crossing the town, I stopped at a small shack, devoured delicious aloo parathas and chat with localities
-*	Next city is Chamba, which is just an hour away from here
-*	I refit myself to one last push to my destination called Tehri Dam
-*	I am experiencing road sign of land sliding prone areas more often and hills have become whiter
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_095756.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_095801.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_095902.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_095909.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_095913.jpg)
-
-##  11:00 AM Chamba
-*	A small town, providing further connects to Tehri and Mussoorie 
-*	Town shows no sign of travelers, only local public curiously starring and trying to judge me
-*	After respectfully enquiring a police man, I chose the correct road to Tehri Dam
-*	Road had become narrow and poor, on my left I have started experiencing the water flow
-*	This water flow got bigger and bigger as I got closer to Dam, and finally the WoW factor arrived
-
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_103054.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_103104.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_105057.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_105132.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_133300.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_133404.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_134045.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_135549.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_135634.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_135641.jpg)
-
-##  11:45 AM Tehri Dam
-*	Finally arrived at Tehri Dam, ride to this destination took 7.45 hours. Not bad! Feeling really proud!
-*	Access to Dam is restricted by Central Industrial Security Force, I rode to a high point, where i can see the dam
-*	Found a lonely place at one beautiful corner of road, where I can see the dam and be in peace
-*	Parked my stallion, removed all my gears, sit on a bench and thanks to God, for rewarding me this healthy journey
-*	Took some of beautiful pictures, from my phone. Experienced the flora and fauna of region while peacefully sitting there
-*	Spent around 1 hour there, ate some dry fruits and biscuits, and finally refit myself for the 85 kilometers journey back to Rishikesh
-
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_114419.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_114424.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_114659.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_115303.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_120611.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_114532.jpg)
-
-##  12:45 PM Tehri Dam, Heading back
-*	Same route but scoarching sun is eating more energy this time, I am now able to see some of riders, heading towards dam
-*	At a small road side village named Nagni, I decided to take a bath in small stream of river
-*	Some village kids were playing there, initially scarred with my looks, but soon became comfortable with me
-*	Soon the place where I parked my motorcycle, became a picnic spot for a foreigner family
-*	Kids from this family, got curious about me and spent few minutes, looking at my travel gears 
-*	Finally i bid adieu to all kids and headed towards Rishikesh
-
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_145704.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_145726.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_145824.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_145835.jpg)
-
-##  4:00 PM Rishikesh
-*	After experiencing several hill towns, I realized Rishikesh is nowhere close to a real hill town
-*	Checked in at my favorite Iskon temple guest house (Madhuban Ashram). Unpacked my gears, took bath and get some rest
-*	At around 6 o'clock, I started towards Parmarth Ashram for evening Aarti
-*	Bought some Geeta press books from famous Geeta ashram, before arriving at Parmarth ashram
-*	Aarti is started, and sitting in front of Ganga and thinking of my whole journey
-*	Called my home and some of my friends, ate delicious street food named Chole Kulche and finally at 7:30, headed back to guest house
-*	While strolling at the banks of Ganga, I could feel the cool breeze of air, so rejuvenating. Finally arrived at the guest house
-*	A good night call to my wife at 8:30 before I plan to retire for the day
-*	While trying to sleep, I was thinking of all people, whom I met during my journey and how they live peacefully in this natural abode
-*	I finally forced my eyes to shut and to tried to sleep. Don't remember when did i slept while thinking about tomorrows long ride to home
-
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_182827.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_193750.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170909_195706.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20170910_110448.jpg)
 
 
 
