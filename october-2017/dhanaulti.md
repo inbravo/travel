@@ -16,40 +16,40 @@
 *	As always, early start of day and I am ready with my motorcycle, without any compromise with my riding gears
 *	Heading towards NH-24, light traffic and no sunlight, i am traversing through good roads of Ghaziabad, India
 * 	Arrived at NH-58, the state highway, which connects Uttar Pradesh and Uttarakhand in India
-*	Owing to Major festival next wee, named Diwali, traffic is comparatively low from usual
+*	Owing to major festival next week, named Diwali, traffic is comparatively low from usual
 
 ##  4:30 AM Modinagar
-*	Another solo rider, on a Bajaj Pulsar has just passed me, waving me in confidence
-*	I hooked to his tail with my all senses opened to judge, the slightest of movement around my motorcycle
-* 	We carefully steered through the traffic around us, and attracted the eyes of many 
-* 	We crossed Modinagar and arrived at Meerut bypass, where i took the lead, and finally throttled my best
-*	Finally i was in bullet attitude, but with all senses opened to avoid any mistake and started cutting the traffic
-*	Solo riding makes you more responsible, you have to avoid every small negligence, which eventually helps in avoiding any disaster
+*	State of solace arrives; internal dialogue between mind and heart is started to culminate
+*	Feeling powerfull again; feeling unattached to any man made classification, i am just a nomadic rider now
+*	All myraid thoughts about reactions, judgements, hates and regrets are passing through my head
+*	Adios all my fears, adios all my worries, i am living in the mooment! 
+*	Not able to see any rider, which i usually encounter on this route, i throttled to ~70 kmps
 
 ##  5:00 AM Meerut
-*	Arrived in Meerut but still no sign of sunlight, i am feeling confident to reach my destination within stipulated time
-*	At my maximum cruising speed of 80 KMPS, which is only possible in such minimal traffic, in India
-*	Heading towards Muzaffarnagar, on clear roads. Another large biker group, at a very coordinated and controlled pace, mostly Haryana number plates
-*	I waved the group and accelerated, able to see the sunlight now
+*	Arrived in Meerut 
 
 ##  6:00 AM Muzaffarnagar
-*	This new highway is the face of new emerging India. It gives me immense proud to born in such a great period of transformation 
-*	People in my generation, who are experiencing this change, will have a story to tell to new generations
-*	India's highest sugarcane growing fields are all around me. Greenery is the major sign of this region
-*	Slowly the highway came to end, entering the single side road, heading towards Roorkee city
+*	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jaggery 
+*	Muzzarnagar is famous for its sugar cane farming. Greenery around is so peacefull in morning time.
+*	And the first encounter with notorious fog!
+*	Trying to stay behind a truck but its risky again for a motercycle. Finally when not able to move, i stopped and took some pictures of infamous north India fog
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_062100.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_064853.jpg)
 
 ##  6:50 AM Roorkee
-*	Old classical city, has a reputation of one of the top most engineering Institute of India, known as IIT
-*	City is full of life and school busses are ferrying kids and staffs. I can see uniform clad elegant female Army doctors, heading for their work
-*	I am getting first sign of Uttarakhand Police. I am easily traversing through roads and happy to avoid the notorious traffic jams of this city
-*	Soon back to the nice highway again. Throttle is to my maximum cruising speed, heading for the city of Gods
+*	Roorkee has a large army base with headquarters for 'Bengal Engineer Group' (BEG), also known as Bengal Sappers
+*	Old classical city, has a reputation of one of the top most engineering institute of India, known as IIT
+*	City is full of life and school kids and service class has started their day
+*	I am bypassing traffic and trying to avoid the notorious traffic jams of this city
+*	Soon took the left turn to the Dehradun road. No sign of any clear road, frequent gear change is ruining my ride
 
 ##  7:20 AM Bhagwanpur
+
 ##  7:40 AM Chhutmalpur
-##  8:15 AM Biharigarh
+
+##  8:15 AM Mohand
+*	And the hills start, i took a pause, gulped some nuts to water and started my action camera
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_084248.jpg)
 
@@ -100,6 +100,11 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124810.jpg)
 
 ##  1:30 PM Chamba
+*	Arrived in Chamba, the lengthy drive has left me hungry
+* 	My eyes are in search of an eatory, which can serve me, something to give me enough energy for another six hours, untill the dinner.
+* 	On the main square of town, found a Janta hotel, typical dhaba style
+* 	Parked my stallion at the front, the staff is curious. I jumped on a vacant bench and ordered the lentils (mix daal) and bread (roti)
+* 	Scrounged enough but limited to avoid any fatigue
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_132354.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_134921.jpg)
