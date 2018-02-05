@@ -112,6 +112,9 @@
 ##  2:30 PM Fakot
 
 ##  3:30 PM Nagni
+*	At a small road side village named Nagni, which also has a petrol pump, took bath in small stream of river, which is flowing adjacent to the road
+*	Filled my belly and my water bottle with mineral rich water, with a thankfull glance on my stallion, i gave the famous mild half kick to it
+*	Roar of enfield is aloud on hills, the famous dug dug makes people curious, school kids waving and recieving the joy back 
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_144619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)

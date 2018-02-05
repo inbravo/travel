@@ -98,7 +98,7 @@
 
 ##  11:45 AM Tehri Dam
 *	Finally arrived at Tehri Dam, ride to this destination took 7.45 hours. Not bad! Feeling really proud!
-*	Access to Dam is restricted by Central Industrial Security Force, I rode to a high point, where i can see the dam
+*	Access to Dam is restricted by Central Industrial Security Force (CISF), I rode to a high point, where i can see the dam
 *	Found a lonely place at one beautiful corner of road, where I can see the dam and be in peace
 *	Parked my stallion, removed all my gears, sit on a bench and thanks to God, for rewarding me this healthy journey
 *	Took some of beautiful pictures, from my phone. Experienced the flora and fauna of region while peacefully sitting there
