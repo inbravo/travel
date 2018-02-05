@@ -1,13 +1,11 @@
 # My Travel Reports
 
-## Delhi, India
+## Delhi/Haryana/Uttar Pradesh, India
 -	[India Gate, Delhi, India](august-2017/india-gate.md)
-
-## Haryana, India
--	[Aravalli, Faridabad, Haryana, India](july-2017/aravalli.md)
 -	[Humayun Tomb, Delhi, India](august-2017/humayun-tomb.md)
+-	[Aravalli, Faridabad, Haryana, India](july-2017/aravalli.md)
 
 ## Uttarakhand, India
--	[Lansdowne, Uttarakhand, India](july-2017/lensdown.md)
--	[Tehri Dam, Uttarakhand, India](september-2017/tehri-dam.md)
--	[Dhanaulti, Uttarakhand, India](october-2017/dhanaulti.md)
+-	[Lansdowne](july-2017/lensdown.md)
+-	[Tehri Dam](september-2017/tehri-dam.md)
+-	[Dhanaulti](october-2017/dhanaulti.md)
