@@ -26,7 +26,8 @@
 *	Not able to see any rider, which i usually encounter on this route, i throttled to ~70 kmps
 
 ##  5:00 AM Meerut
-*	Arrived in Meerut 
+*	Bypassed Meerut, took the new toll way to Haridwar, riding towards Modipuram
+*	This is the road to see the real cruising speed of an Enfield  
 
 ##  6:00 AM Muzaffarnagar
 *	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jaggery 
@@ -102,11 +103,11 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124810.jpg)
 
 ##  1:30 PM Chamba
-*	Arrived in Chamba, the lengthy drive has left me hungry
-* 	My eyes are in search of an eatory, which can serve me, something to give me enough energy for another six hours, untill the dinner.
+*	Arrived in Chamba, the long drive has left me hungry
+* 	My eyes are in search of an eatory, which can serve me enough to survive another six hours
 * 	On the main square of town, found a Janta hotel, typical dhaba style
 * 	Parked my stallion at the front, the staff is curious. I jumped on a vacant bench and ordered the lentils (mix daal) and bread (roti)
-* 	Scrounged enough but limited to avoid any fatigue
+* 	Scrounged good enough but limited to avoid any fatigue
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_132354.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_134921.jpg)
