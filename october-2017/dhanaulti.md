@@ -10,13 +10,13 @@
 ---
 
 ##  4:05 AM Ghaziabad
-*	For last few days, i was feeling the intense pulls to ride again. My restless soul is eager to gain some peace from todays long ride 
+*	For last few days, i was feeling the intense pulls to ride again. My restless soul is eager to gain some peace from a ride
 *	I read a mesmerizing story [Leh to Kanyakumari in 61 Hours by Balaji](https://www.xbhp.com/talkies/tourer/36273-leh-kanyakumari-61-hours.html) and challanged myself to ride maximum in a single day
-*	I am worried, of uncertainities , which i might face duing the todays long ride. i said nothing to my wife about my todays plan
+*	Worried of uncertainities, which i might face duing the todays long ride. i said nothing to my wife about my todays rigorous plan
 *	As always, early start of day and I am ready with my motorcycle, without any compromise with my riding gears
-*	Heading towards NH-24, light traffic and no sunlight, i am traversing through good roads of Ghaziabad, India
+*	Heading towards NH-24, light traffic and no sunlight, i am traversing through good roads of Ghaziabad
 * 	Arrived at NH-58, the state highway, which connects Uttar Pradesh and Uttarakhand in India
-*	Owing to major festival next week, named Diwali, traffic is comparatively low from usual
+*	Owing to major festival (Diwali) next week traffic is comparatively low from usual
 
 ##  4:30 AM Modinagar
 *	State of solace arrives; internal dialogue between mind and heart is started to culminate
@@ -45,11 +45,13 @@
 *	Soon took the left turn to the Dehradun road. No sign of any clear road, frequent gear change is ruining my ride
 
 ##  7:20 AM Bhagwanpur
+*	Usual traffic and bad roads, giving errie feelings. No one is interested in the joy of a man
+*	Relying on honkings and overtakes, slowly steering through this small town
 
 ##  7:40 AM Chhutmalpur
 
 ##  8:15 AM Mohand
-*	And the hills start, i took a pause, gulped some nuts to water and started my action camera
+*	And the hills start, i took a pause, gulped some nuts and started my action camera
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_084248.jpg)
 
@@ -114,7 +116,7 @@
 ##  3:30 PM Nagni
 *	At a small road side village named Nagni, which also has a petrol pump, took bath in small stream of river, which is flowing adjacent to the road
 *	Filled my belly and my water bottle with mineral rich water, with a thankfull glance on my stallion, i gave the famous mild half kick to it
-*	Roar of enfield is aloud on hills, the famous dug dug makes people curious, school kids waving and recieving the joy back 
+*	Tmump of Enfield is aloud on peacefull hills, the famous dug dug makes people curious, school kids waving and recieving the joy back
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_144619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)
