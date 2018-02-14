@@ -48,7 +48,6 @@
 *	After riding for around 45 minutes, we finally arrived on the entry gate of Lansdowne but the main place is still 22 kilometers up hills
 *	Spent here some time in capturing beautifull mooments
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/1.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/10.jpg)
 
 ##  10:45 AM Dugadda
@@ -66,7 +65,14 @@
 *	Finally after complete refreshment, we decided to ride again and enjoy the hill beauty
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/12.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/13.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/13.jpg
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112515.jpg
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112526.jpg
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112535.jpg
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112545.jpg
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112550.jpg
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_113030.jpg
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_113210.jpg
 
 ##  12:00 PM Kho River to Lensdowne
 *	Started climbing the mountain again after getting refreshed
@@ -77,11 +83,11 @@
 *	I decided to rode uphill without clutch, may sound scary to few but its not that difficult for regular bike riders
 * 	We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/4.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/7.jpg)
-
 ##  12:30 PM Lansdowne
 *	Finally we arrived at Lansdownde and our search for a mechanic is also ended. My Prabal (my bullet motercycle) received a new clutch wire within 30 minutes
+
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/5.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/7.jpg)
 
 ##  2:00 PM Lansdowne
 *	Lansdowne, at a height of 5,800 ft (1,800 m) above sea level, is the recruitment centre of the Garhwal Rifles
@@ -89,5 +95,14 @@
 *	City is maintained by India Army, which automatically makes it well governed and maintained
 *	War history of [Garhwal Rifles](https://en.wikipedia.org/wiki/The_Garhwal_Rifles) is worth respect and reverence
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/5.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/9.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20170715_172541_HDR.jpg)
+
+##  6:00 AM Lansdowne Next Morning
+*	Stayed in Kasang Regency and woke up at 6:00 AM to view the beauty of hills
+
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_070239.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072716.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072802.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072809.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072917.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_213852.jpg)
