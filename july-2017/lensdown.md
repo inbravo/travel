@@ -65,14 +65,14 @@
 *	Finally after complete refreshment, we decided to ride again and enjoy the hill beauty
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/12.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/13.jpg
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112515.jpg
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112526.jpg
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112535.jpg
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112545.jpg
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112550.jpg
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_113030.jpg
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_113210.jpg
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/13.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112515.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112526.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112535.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112545.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112550.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_113030.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_113210.jpg)
 
 ##  12:00 PM Kho River to Lensdowne
 *	Started climbing the mountain again after getting refreshed
@@ -105,4 +105,3 @@
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072802.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072809.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072917.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_213852.jpg)
