@@ -8,7 +8,6 @@
 ---
 
 ##  4:10 AM Ghaziabad
-*	Delay of ten minutes from proposed start time, Which is acceptable if initial 100 kilometers are covered before first stop
 *	Me (Enfield Electra), Deepak (Bajaj Avenger) and Digvijay (Bajaj Pulsar) heading for our first stop to Gajraula
 *	We are riding together first time but with a common interest, called Riding...
 *	I am riding with a helmet as the only protacting gear. Which i later realized, a great risk
@@ -20,7 +19,6 @@
 *	Took a minor stop of 10 minutes, at some mid point, quickly checked goodle map to avoid any deviation
 
 ##  6:30 AM Chandpur
-*	Its wee hours and life is comming back on roads. School kids and peasents started to resume the life on road
 *	Chandpur is alive and we crossed it without slightest of traffic snarls
 *	Next stop is 16 kilometers, known as Noorpur, a small town
 *	While riding to Noorpur, i got a bee stung, almost felt like a warm piercing in my left shoulder. Spent 5 minutes to regain my energy and restarted
@@ -35,7 +33,6 @@
 *	Next stop is Nazibabad, which is 50 kilometers
 
 ##  8:20 AM Nazibabad
-*	Nazibabad was slightly busy but it has not taken much time to cross
 *	Finally there came the nature, which our eyes were fervently waiting for since last 3 hours
 *	Passing through jungle road with almost no traffic, soothened our ruffled feathers and reduced our riding fatigue
 *	Next stop is Kotdwar, which is 25 kilometers
