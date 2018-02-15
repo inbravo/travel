@@ -64,6 +64,8 @@
 *	We have encashed the cost of long drive so far. Few more people from Delhi, joined us meanwhile
 *	Finally after complete refreshment, we decided to ride again and enjoy the hill beauty
 
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/2.jpg)
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/3.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/12.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/13.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_112515.jpg)
@@ -100,6 +102,7 @@
 	- Garhwali Mess
 	- St. John’s Church
 
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/1.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20170715_172541_HDR.jpg)
 
 ##  6:00 AM Lansdowne Next Morning
