@@ -79,21 +79,26 @@
 *	After climbing for another 15 minutes, with a quick jerk, my bullets clutch wire decided to say adios to me
 *	Bike is stopped and i am trying to understand the reason of failure, at the middle of no mans land
 *	Last town to get repaired is 8 kilometers behind, next is 14 kilometers far
-*	Boldness is always rewarded!!! 
-*	I decided to rode uphill without clutch, may sound scary to few but its not that difficult for regular bike riders
+*	Boldness is always rewarded!!! I decided to ride uphill without clutch, may sound scary to few but its not that difficult for regular bike riders
 * 	We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
 
 ##  12:30 PM Lansdowne
 *	Finally we arrived at Lansdownde and our search for a mechanic is also ended. My stallion received a new clutch wire within 30 minutes
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/5.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/7.jpg)
 
 ##  2:00 PM Lansdowne
 *	Lansdowne, at a height of 5,800 ft (1,800 m) above sea level, is the recruitment centre of the Garhwal Rifles
-*	Darban Singh Museum, Tiffin Top, Bhulla Lake are some of scenic atrraction of this small cantonment town 
-*	City is maintained by India Army, which automatically makes it well governed and maintained
 *	War history of [Garhwal Rifles](https://en.wikipedia.org/wiki/The_Garhwal_Rifles) is worth respect and reverence
+*	Lansdowne was founded and named after then Viceroy of India (1888-1894), Lord Lansdowne in 1887
+*	The War Memorial (Darban Singh Museum), near the Parade Ground of the Garhwal Rifles Center, is worth a visit, if you love history	
+*	Good part of Lensdown is that its not commercialized, some of its attractions are
+	- Bhulla lake
+	- Tarkeshwar Mahadev Temple
+    - Bhim Pakora
+    - Kaleshwar Mahadev Mandir
+	- Garhwali Mess
+	- St. John’s Church
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20170715_172541_HDR.jpg)
 
