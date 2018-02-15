@@ -84,7 +84,7 @@
 * 	We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
 
 ##  12:30 PM Lansdowne
-*	Finally we arrived at Lansdownde and our search for a mechanic is also ended. My Prabal (my bullet motercycle) received a new clutch wire within 30 minutes
+*	Finally we arrived at Lansdownde and our search for a mechanic is also ended. My stallion received a new clutch wire within 30 minutes
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/5.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/7.jpg)
