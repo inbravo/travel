@@ -1,4 +1,4 @@
-| | Travelling. It leaves you speachless, then turns you into a Storyteller |
+| | “Travelling. It leaves you speachless, then turns you into a Storyteller.” |
 | :--- | :--- |
 | Course | Ghaziabad to Lansdowne |
 | Distance | 250 kilometers |
