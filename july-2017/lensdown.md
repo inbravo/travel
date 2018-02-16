@@ -26,7 +26,7 @@
 *	Chandpur is alive and we crossed it without slightest of traffic snarls
 *	Next stop is 16 kilometers, known as Noorpur, a small town
 *	While riding to Noorpur, i got a bee stung, almost felt like a warm piercing in my left shoulder. Spent 5 minutes to regain my energy and restarted
-*	Lesson learnt from bee stung: Always wear riding jacker with tighly closed neck space
+*	Lesson learnt from bee incident: **Always wear riding jacket and leave no open gates for bugs!!**
 
 ##  6:55 AM Noorpur
 *	Swiftly crossed Noorpur. Nothing slowed our speeds, despite of regular day activities of city
@@ -38,7 +38,7 @@
 
 ##  8:20 AM Nazibabad
 *	Nazibabad was slightly busy but it has not taken much time to cross the town
-*	Finally there came the nature, which our eyes were fervently waiting for since last 3 hours
+*	Eventually the breeze became cooler and roadsides became greener, which our eyes were fervently waiting for since last 3 hours
 *	Passing through jungle road with almost no traffic, soothened our ruffled feathers and reduced our riding fatigue
 *	Next stop is Kotdwar, which is 25 kilometers
 
