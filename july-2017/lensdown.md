@@ -38,7 +38,7 @@
 
 ##  8:20 AM Nazibabad
 *	Nazibabad was slightly busy but it has not taken much time to cross the town
-*	Eventually the breeze became cooler and roadsides became greener, which our eyes were fervently waiting for since last 3 hours
+*	Eventually the breeze became cooler and roadsides became greener, which our eyes were fervently waiting for 3 hours
 *	Passing through jungle road with almost no traffic, soothened our ruffled feathers and reduced our riding fatigue
 *	Next stop is Kotdwar, which is 25 kilometers
 
