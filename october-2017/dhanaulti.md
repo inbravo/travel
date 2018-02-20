@@ -80,7 +80,7 @@
 *	Road to Dhanaulti is exactly before the government inter collage, on your right hand. I missed it and took a U turn after enquiring from locals
 *	Arrived on road to Dhanaulti, its steep and narrow now; which means excitement
 *	I found that road is under construction and with some minor halts here and there, i was peacefully riding uphill 
-*	The more i drove, the more peaceful and lonely it became. Finally i halted at a turn to rest for few minutes and took captured some images
+*	The more i drove, the more peaceful and lonely it became. Finally i halted at a turn to rest and captured some beautifull mooments
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_103532.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105521.jpg)
@@ -99,9 +99,9 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114425.jpg)
 
 ##  12:00 PM Dhanaulti
-#.	Arrived in this beautifull village. It is a natural beauty
-#.	On my right is the famous Dhanaulti Eco Park, stopped for some photes there. Some more riders also resting here
-#.	Restarted again for my next stop Kantal which is the next village
+*	Arrived in this beautifull village. It is a natural beauty
+*	On my right is the famous Dhanaulti Eco Park, stopped for some photes there. Some more riders also resting here
+*	Restarted again for my next stop Kantal which is the next village
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_115910.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112613.jpg)
