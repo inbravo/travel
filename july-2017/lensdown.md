@@ -86,12 +86,11 @@
 *	Boldness is always rewarded!!! I decided to ride uphill without clutch, may sound scary to few but its not that difficult for regular bike riders
 * 	We are riding in clouds now and its magical to feel the chill. Body is drenched with rain and mild drizzling of clouds
 
-##  12:30 PM Lansdowne
+##  1:00 PM Lansdowne
 *	Finally we arrived at Lansdownde and our search for a mechanic is also ended. My stallion received a new clutch wire within 30 minutes
 
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/5.jpg)
 
-##  2:00 PM Lansdowne
 *	Lansdowne, at a height of 5,800 ft (1,800 m) above sea level, is the recruitment centre of the Garhwal Rifles
 *	War history of [Garhwal Rifles](https://en.wikipedia.org/wiki/The_Garhwal_Rifles) is worth respect and reverence
 *	Lansdowne was founded and named after then Viceroy of India (1888-1894), Lord Lansdowne in 1887

@@ -114,7 +114,7 @@
 ##  12:30 PM Surkanda Devi
 *	[Surkanda Devi](https://en.wikipedia.org/wiki/Surkanda_Devi) is a famous temple on the top of hill
 *	The journey to the temple requires you to trek for two kilometers which is quite steep
-*	after few minutes of stoppage their, i headed towards Kantal
+*	After few minutes of stoppage, i headed towards Kantal
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122126.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121036.jpg)
