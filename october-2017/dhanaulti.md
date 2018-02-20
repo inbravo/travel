@@ -32,10 +32,12 @@
 ##  6:00 AM Muzaffarnagar
 *	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jaggery 
 *	Muzzarnagar is famous for its sugar cane farming. Greenery around is so peacefull in morning time.
-*	And the first encounter with notorious fog!
-*	Trying to stay behind a truck but its risky again for a motercycle. Finally when not able to move, i stopped and took some pictures of infamous north India fog
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_062100.jpg)
+
+*	And the first encounter with notorious fog!
+*	Trying to stay behind a truck but its risky again for a motercycle. Finally when not able to move, i stopped and took some pictures of infamous north Indian fog
+
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_064853.jpg)
 
 ##  6:50 AM Roorkee
@@ -52,7 +54,7 @@
 ##  7:40 AM Chhutmalpur
 *	A small town surrounded by several villages, makes it a minor hub of semi urban life
 *	Passing through the sugarcane fields, at a limited speed of ~50
-*	India is the second largest producor of sugarcane in world, after Brazil. This northern part of UP is known as a bawl of sugar
+*	India is the second largest producor of sugarcane in World. This northern part of UP is known as a bowl of sugar
 *	Farmers of this reason are famous for the higest sugarcane production 
 
 ##  8:15 AM Mohand
@@ -75,9 +77,10 @@
 
 ##  10:30 AM Mussoorie
 *	Mussoorie seems so busy now, i thought of my earlier visits to this beautifull city and realized the changes
-*	Road to Dhanaulti is exactly before the government inter collage. I missed it and took a U turn after enquiring from locals
+*	Road to Dhanaulti is exactly before the government inter collage, on your right hand. I missed it and took a U turn after enquiring from locals
 *	Arrived on road to Dhanaulti, its steep and narrow now; which means excitement
-*	I found that road is under construction and with some minor halts here and there, i am peacefully riding uphill 
+*	I found that road is under construction and with some minor halts here and there, i was peacefully riding uphill 
+*	The more i drove, the more peaceful and lonely it became. Finally i halted at a turn to rest for few minutes and took captured some images
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_103532.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105521.jpg)
@@ -96,22 +99,29 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114425.jpg)
 
 ##  12:00 PM Dhanaulti
+#.	Arrived in this beautifull village. It is a natural beauty
+#.	On my right is the famous Dhanaulti Eco Park, stopped for some photes there. Some more riders also resting here
+#.	Restarted again for my next stop Kantal which is the next village
 
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_115910.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112613.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113447.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113517.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114702.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114705.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_115910.jpg)
 
 ##  12:30 PM Surkanda Devi
+*	[Surkanda Devi](https://en.wikipedia.org/wiki/Surkanda_Devi) is a famous temple on the top of hill
+*	The journey to the temple requires you to trek for two kilometers which is quite steep
+*	after few minutes of stoppage their, i headed towards Kantal
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122126.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121036.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121045.jpg)
 
 ##  1:00 PM Kantal
+*	Arrived in Kantal
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122423.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124805.jpg)
@@ -138,13 +148,28 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)
 
 ##  8:00 PM Narendra Nagar
+*	Arrived in Narendra Nagar
+
 ##  5:30 PM Rishikesh
+*	Arrived in Rishikesh
+
 ##  6:20 PM Haridwar
+*	Arrived in Haridwar
+
 ##  7:30 PM Roorkee
+*	Arrived in Roorkee
+
 ##  8:20 PM Muzaffarnagar
+*	Arrived in Muzaffarnagar
+
 ##  9:35 PM Meerut
+*	Arrived in Meerut
+
 ##  10:20 PM Modinagar
+*	Arrived in Modinagar
+
 ##  10:50 PM Ghaziabad
+*	Arrived in Ghaziabad
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105750.jpg)
 
