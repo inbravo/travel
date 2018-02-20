@@ -103,13 +103,13 @@
 	- Garhwali Mess
 	- St. John’s Church
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/1.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20170715_172541_HDR.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171118_152401.jpg)
 
 ##  6:00 AM Lansdowne Next Morning
 *	Stayed in Kasang Regency and woke up at 6:00 AM to view the beauty of hills
 
+![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/1.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_070239.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072716.jpg)
 ![](https://github.com/inbravo/travel/blob/master/july-2017/images/l/IMG_20171119_072917.jpg)
