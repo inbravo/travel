@@ -50,22 +50,37 @@
 *	Relying on honkings and overtakes, slowly steering through this small town
 
 ##  7:40 AM Chhutmalpur
+*	A small town surrounded by several villages, makes it a minor hub of semi urban life
+*	Passing through the sugarcane fields, at a limited speed of ~50
+*	India is the second largest producor of sugarcane in world, after Brazil. This northern part of UP is known as a bawl of sugar
+*	Farmers of this reason are famous for the higest sugarcane production 
 
 ##  8:15 AM Mohand
 *	And the hills start, i took a pause, gulped some nuts and started my action camera
+*	Some local riders are curious about my outlook trying to catch up with my speed
+*	Road is broken at several places but still the peace of driving in hills is worth, to ignore some holes
+*	Arrived at **Daat Kali tunnel** and famous temple. As usual a jam is in my sight. I ignored the rules and try to skip some traffic by riding wrong side
+*	I was able to leave the tunnel behind comparitively quick and throttled towards Dehradun
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_084248.jpg)
 
 ##  9:30 AM Dehradun
+*	Arrived in capital of Uttarakhand, its a typical city, with traffic and enrcoachment
+*	From my earlier visits to this famous hills city, i see a big difference of flyovers and red light based traffic gocernance
+*	I am heading towards Mussoorie and finding that the road to Mussoorie is more commercialized now
+*	Exactly before the hill town, took a pause of few minutes
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100702.jpg)
 
 ##  10:30 AM Mussoorie
+*	Mussoorie seems so busy now, i thought of my earlier visits to this beautifull city and realized the changes
+*	Road to Dhanaulti is exactly before the government inter collage. I missed it and took a U turn after enquiring from locals
+*	Arrived on road to Dhanaulti, its steep and narrow now; which means excitement
+*	I found that road is under construction and with some minor halts here and there, i am peacefully riding uphill 
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_103532.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105521.jpg)
-
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105526.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105542.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105820.jpg)
