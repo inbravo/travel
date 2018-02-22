@@ -97,31 +97,33 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_111458.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112603.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114425.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114702.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114705.jpg)
 
 ##  12:00 PM Dhanaulti
-*	Arrived in this beautifull village. It is a natural beauty
+*	Arrived in this beautifull village. It is a small heaven, far better than higly commercialized Mussoorie
 *	On my right is the famous Dhanaulti Eco Park, stopped for some photes there. Some more riders also resting here
-*	Restarted again for my next stop Kantal which is the next village
+*	The usual noodle (maggi) & tea stalls everywhere on the roadsides. Restarted again for my next stop Kanatal which is the next village
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_115910.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112613.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113447.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113517.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114702.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114705.jpg)
 
 ##  12:30 PM Surkanda Devi
 *	[Surkanda Devi](https://en.wikipedia.org/wiki/Surkanda_Devi) is a famous temple on the top of hill
 *	The journey to the temple requires you to trek for two kilometers which is quite steep
-*	After few minutes of stoppage, i headed towards Kantal
+*	After few minutes of stoppage, i headed towards Kanatal
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122126.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121036.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121045.jpg)
 
-##  1:00 PM Kantal
-*	Arrived in Kantal
+##  1:00 PM Kanatal
+*	Arrived in Kanatal, which is more scnenic and peacefull. It has a famous Mahindra Holiday Home
+*	After a pause of few mintues, i restarted again towards Chamba, passing several holiday homes in my route
+*	
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122423.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124805.jpg)
@@ -132,23 +134,34 @@
 * 	My eyes are in search of an eatory, which can serve me enough to survive another six hours
 * 	On the main square of town, found a Janta hotel, typical dhaba style
 * 	Parked my stallion at the front, the staff is curious. I jumped on a vacant bench and ordered the lentils (mix daal) and bread (roti)
-* 	Scrounged good enough but limited to avoid any fatigue
+* 	Scrounged good enough but limited to avoid any fatigue. Chamba is also the nearest town of famous Tehri Dam, which is only few kilometers away from here
+*	After few minutes of rest, i restarted again towards Rishikesh
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_132354.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_134921.jpg)
 
-##  2:30 PM Fakot
+##  2:15 PM Fakot
+*	Took a halt of few minutes in this small village
+*	I am thinking to halt at Rishikesh tonight. Its is only 2 hours drive from here
 
-##  3:30 PM Nagni
+##  3:00 PM Nagni
 *	At a small road side village named Nagni, which also has a petrol pump, took bath in small stream of river, which is flowing adjacent to the road
-*	Filled my belly and my water bottle with mineral rich water, with a thankfull glance on my stallion, i gave the famous mild half kick to it
-*	Thump of Enfield is aloud on peacefull hills, the famous dug dug makes people curious, school kids waving and recieving the joy back
+*	Filled my belly and my water bottle with rich mineral water, with a thankfull glance at my stallion, i gave the famous mild half kick to it
+*	Thump of Enfield is aloud in hills, the famous dug dug sound makes people curious, school kids waving and recieving the joy back
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_144619.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)
 
-##  8:00 PM Narendra Nagar
-*	Arrived in Narendra Nagar
+##  4:15 PM Narendra Nagar
+*	Arrived in Narendra Nagar, thinking to stop here, but finally i throttled towards Rishikesh
+*	My body is lazy now, i can feel that my brain is tired from this 12 hours continous drive
+*	Food and bath has also affected my brain activity. Its performing slow now
+*	The mistake: at a corner, my calculations went wrong and motercycles front tyre skid into the roadside small ditch 
+*	Lckily my riding gears helped me to skip any big injury except a minor sprain in my left wrist
+*	A gentleman helped me to drag my motercycle and after few minutes of inspection, i climbed my motercycle again
+*	After riding few minutes, i am feeling that my wrist is in acute pain while holding the clutch
+*	Holding the clutch is necessary while driving down in hills. Pain was increasing every mooment 
+*	I took a pause to give some relax to my hand. I learnt a new lesson to **always carry some basic medicines during the rides**
 
 ##  5:30 PM Rishikesh
 *	Arrived in Rishikesh
