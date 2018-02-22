@@ -123,7 +123,6 @@
 ##  1:00 PM Kanatal
 *	Arrived in Kanatal, which is more scnenic and peacefull. It has a famous Mahindra Holiday Home
 *	After a pause of few mintues, i restarted again towards Chamba, passing several holiday homes in my route
-*	
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122423.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124805.jpg)
@@ -153,15 +152,15 @@
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)
 
 ##  4:15 PM Narendra Nagar
-*	Arrived in Narendra Nagar, thinking to stop here, but finally i throttled towards Rishikesh
+*	Arrived in Narendra Nagar, thinking to stop here, but finally throttled towards Rishikesh
 *	My body is lazy now, i can feel that my brain is tired from this 12 hours continous drive
 *	Food and bath has also affected my brain activity. Its performing slow now
-*	The mistake: at a corner, my calculations went wrong and motercycles front tyre skid into the roadside small ditch 
-*	Lckily my riding gears helped me to skip any big injury except a minor sprain in my left wrist
+*	At a turn my turning calculations went wrong and motercycles front tyre skid into the roadside small ditch 
+*	Luckily my riding gears helped me to skip any big injury except a minor sprain in my left wrist
 *	A gentleman helped me to drag my motercycle and after few minutes of inspection, i climbed my motercycle again
-*	After riding few minutes, i am feeling that my wrist is in acute pain while holding the clutch
+*	After riding few minutes, i started feeling that my wrist is in acute pain while holding the clutch
 *	Holding the clutch is necessary while driving down in hills. Pain was increasing every mooment 
-*	I took a pause to give some relax to my hand. I learnt a new lesson to **always carry some basic medicines during the rides**
+*	I took a pause to give some relax to my hand. I learnt the lesson to **Carry basic medicines during the rides**
 
 ##  5:30 PM Rishikesh
 *	Arrived in Rishikesh
