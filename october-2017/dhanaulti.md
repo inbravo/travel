@@ -177,27 +177,27 @@
 
 ##  7:30 PM Roorkee
 *	Arrived in Roorkee, feeling like a big mistake to ride with wrist pain
-*	Laughed on myself, madness is what we call it and realize that life is always beyond madness
-*	Atleast i have a ninor story of courage for myself
+*	Laughed on myself and realize that madness is necessary to live life. Real life is always beyond madness
+*	Atleast i have a story of courage for myself!
 *	My extra lights are not working, sounds like a fault with switch, it made me to open my halmet visor, to see clearly
-*	Trying to mix with local traffic, to avoid facing to any potwhole, on this newly constructed highway
+*	Trying to mix with local traffic, to avoid facing to any potholes, on this newly constructed highway
 *	Wrist is almost dead by this time. Giving me every kind of feelings to accept that i am a big fool!!
 *	Yes, i am a fool but i will be wise if i avoid the same mistake again!
 
 ##  8:20 PM Muzaffarnagar
-*	Arrived in Muzaffarnagar, Reduction in local traffic but lack of road lights is making difficult to drive
-*	Lesson learnt to always have two sets of extra lights, beside of head light. Lights are necessary to stay more vigilant in dark
-*	Paused at the tool tax, emptied my bladder and called home to surprise that i am riding back!
-*	Mild breeze of air is giving a soothing feeling but my hand is like hell and pain spray has no affects on it now
+*	Arrived in Muzaffarnagar, Reduction in local traffic but lack of road lights is making difficult
+*	Lesson learnt that i will install two sets of extra lights, except the head light. Lights are necessary to stay more vigilant in dark
+*	Paused at the toll tax plaza, emptied my bladder and called home to surprise that i am riding back!
+*	Mild breeze of air is giving a soothing feeling but my hand is like hell and pain spray is useless now
 
 ##  9:20 PM Meerut
-*	Arrived in Meerut, limited traffic on road. I am riding at the same ~70. At some places, there are road lights, which makes it easy
-*	My hand is like hell and every mooment is becoming hard for me. With unbearable pain, while pulling the clutch, i gave a final push towards the best place called Home!
+*	Arrived in Meerut, limited traffic on road. I am riding at the same ~70. There are road lights at some places, which makes it easy
+*	My hand is like hell. Every mooment its becoming hard. With unbearable pain of pulling the clutch, i gave a final push towards the best place called Home!
 
 ##  10:10 PM Modinagar
-*	Passing Modinagar with a good speed with mixed feelings of excitement and pain
-*	Traffic lights on my head reminding of old classical hindi songs where the protagonist is restlessly wandering on roads in nights
-*	Thinking lot many todays lessons and with gratitude to the spirits, i am riding on reduced speed now
+*	Passing the small roadside town with a good speed with mixed feelings of excitement and pain
+*	Traffic lights are reminding me the old classical hindi songs where the protagonist is restlessly wandering on roads in nights
+*	With heart full of gratitude to the great riding spirits, i am riding towards my home!
 
 ##  10:30 PM Ghaziabad
 *	Arrived at home. Ate beans and rice, before jumping on bed and lay like dead!
