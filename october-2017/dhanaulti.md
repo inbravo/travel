@@ -117,6 +117,7 @@
 *	After few minutes of stoppage, i headed towards Kanatal
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122126.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122135.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121036.jpg)
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121045.jpg)
 
@@ -160,30 +161,49 @@
 *	A gentleman helped me to drag my motercycle and after few minutes of inspection, i climbed my motercycle again
 *	After riding few minutes, i started feeling that my wrist is in acute pain while holding the clutch
 *	Holding the clutch is necessary while driving down in hills. Pain was increasing every mooment 
-*	I took a pause to give some relax to my hand. I learnt the lesson to **Carry basic medicines during the rides**
+*	I took a pause to give some relax to my hand. I learnt the lesson to **Always carry the basic medicines during the rides**
 
 ##  5:30 PM Rishikesh
-*	Arrived in Rishikesh
+*	Arrived in Rishikesh, and my wrist is giving me a hell of a pain. Time for me to switch on my endurance mode
+*	Stopped near a small fruit juice shack, gulped a big glass of sweet lime juice while chatting this labourous vendor
+*	Within 10 minutes of meeting, he shared about the hardships of his life. How he is struggling to pay off his loans
+*	After buying a pain spray and aplying on my aching wrist, i looked in sky and visualize myself crossing Haridwar before sunset
+*	Wrist is still the same, but my will is more stronger than the pain, Here the bravo rides again
 
 ##  6:20 PM Haridwar
-*	Arrived in Haridwar
+*	Arrived in Haridwar, there is no sign of reduction in wrist pain. Its hurting like hell while i press the clutch
+*	I am constant riding on ~70, Its not excitement now, its craving to reach home and kill this pain
+*	Its getting dark, i ignoted my headlights
 
 ##  7:30 PM Roorkee
-*	Arrived in Roorkee
+*	Arrived in Roorkee, feeling like a big mistake to ride with wrist pain
+*	Laughed on myself, madness is what we call it and realize that life is always beyond madness
+*	Atleast i have a ninor story of courage for myself
+*	My extra lights are not working, sounds like a fault with switch, it made me to open my halmet visor, to see clearly
+*	Trying to mix with local traffic, to avoid facing to any potwhole, on this newly constructed highway
+*	Wrist is almost dead by this time. Giving me every kind of feelings to accept that i am a big fool!!
+*	Yes, i am a fool but i will be wise if i avoid the same mistake again!
 
 ##  8:20 PM Muzaffarnagar
-*	Arrived in Muzaffarnagar
+*	Arrived in Muzaffarnagar, Reduction in local traffic but lack of road lights is making difficult to drive
+*	Lesson learnt to always have two sets of extra lights, beside of head light. Lights are necessary to stay more vigilant in dark
+*	Paused at the tool tax, emptied my bladder and called home to surprise that i am riding back!
+*	Mild breeze of air is giving a soothing feeling but my hand is like hell and pain spray has no affects on it now
 
-##  9:35 PM Meerut
-*	Arrived in Meerut
+##  9:20 PM Meerut
+*	Arrived in Meerut, limited traffic on road. I am riding at the same ~70. At some places, there are road lights, which makes it easy
+*	My hand is like hell and every mooment is becoming hard for me. With unbearable pain, while pulling the clutch, i gave a final push towards the best place called Home!
 
-##  10:20 PM Modinagar
-*	Arrived in Modinagar
+##  10:10 PM Modinagar
+*	Passing Modinagar with a good speed with mixed feelings of excitement and pain
+*	Traffic lights on my head reminding of old classical hindi songs where the protagonist is restlessly wandering on roads in nights
+*	Thinking lot many todays lessons and with gratitude to the spirits, i am riding on reduced speed now
 
-##  10:50 PM Ghaziabad
-*	Arrived in Ghaziabad
+##  10:30 PM Ghaziabad
+*	Arrived at home. Ate beans and rice, before jumping on bed and lay like dead!
+*	I finished my journey! there are going to be more such stories in future, but every story is going to make me a better Man!
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105750.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105657.jpg)
 
 
 
