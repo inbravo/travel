@@ -173,7 +173,7 @@
 ##  6:20 PM Haridwar
 *	Arrived in Haridwar, there is no sign of reduction in wrist pain. Its hurting like hell while i press the clutch
 *	I am constant riding on ~70, Its not excitement now, its craving to reach home and kill this pain
-*	Its getting dark, i ignoted my headlights
+*	Its getting dark, i have switched on my headlights
 
 ##  7:30 PM Roorkee
 *	Arrived in Roorkee, feeling like a big mistake to ride with wrist pain
