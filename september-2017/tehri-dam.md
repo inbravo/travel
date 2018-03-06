@@ -10,7 +10,7 @@
 ---
 
 ##  4:10 AM Ghaziabad
-*	We all are bound in some priorities and limitations, but we all wants to enjoy the life of a traveler
+*	We all are bound in some priorities and limitations, but we all want to enjoy the life of a traveler
 *	I did several rides, but never documented it. Some of close friends, always desired to feel my rides vicariously
 *	This travelogue is dedicated to my friends, who want to feel my travel experience and imagine their own journey
 *	I had never thought of doing solo rides, but universe has planned it for me

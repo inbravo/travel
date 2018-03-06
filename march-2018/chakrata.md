@@ -5,7 +5,7 @@
 | Course | Ghaziabad to Chakrata, Uttarakhand |
 | Transport | Enfleid Electra |
 | Stay | NA |
-| Route Map |![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/route-map.jpg)|
+| Route Map |![](https://github.com/inbravo/travel/blob/master/march-2018/images/t/route-map.jpg)|
 
 ---
 
