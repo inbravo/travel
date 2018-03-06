@@ -1,9 +1,9 @@
 | | “People don’t take trips – trips take people.” – John Steinbeck|
 | :--- | :--- |
-| Summary | This is the story of my solo motercycle travel to world's highest dam 'Tehri Dam' in India, during Septemer, 2017.|
+| Summary | This is the story of my solo motorcycle travel to world's highest dam 'Tehri Dam' in India, during September, 2017.|
 | Total Distance | ~600 kilometers |
 | Course | Ghaziabad to Tehri Dam, Uttarakhand |
-| Transport | Enfleid Electra |
+| Transport | Enfield Electra |
 | Stay | [Madhuban Ashram](http://www.madhubanashram.org)|
 | Route Map |![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/route-map.jpg)|
 
@@ -18,7 +18,7 @@
 *	During all these years, I found that solo motorcycling is best way to find peace with myself
 *	I thank to God for giving me strong genetics, which I can use to ride almost nonstop, almost untired
 *	As always, early start of day and I am ready with my motorcycle, ready with my complete riding gears
-*	Heading towards NH-24, light traffic and no sunlight, i am traversing through Ghaziabad city
+*	Heading towards NH-24, light traffic and no sunlight, I am traversing through Ghaziabad city
 * 	Arrived at NH-58, this is the highway to take me to Uttarakhand, my destination state
 *	Only heavy vehicles present on the road but there are some taxis ferrying interstate travelers
 
@@ -100,7 +100,7 @@
 *	Finally arrived at Tehri Dam, ride to this destination took 7.45 hours. Not bad! Feeling really proud!
 *	Access to Dam is restricted by Central Industrial Security Force (CISF), I rode to a high point, where i can see the dam
 *	Found a lonely place at one beautiful corner of road, where I can see the dam and be in peace
-*	Parked my stallion, removed all my gears, sit on a bench and thanks to God, for rewarding me this healthy journey
+*	Parked my stallion, removed all my gears, sit on a bench and thanked to the riding spirits, for rewarding me this journey
 *	Took some of beautiful pictures, from my phone. Experienced the flora and fauna of region while peacefully sitting there
 *	Spent around 1 hour there, ate some dry fruits and biscuits, and finally refit myself for the 85 kilometers journey back to Rishikesh
 
@@ -140,11 +140,3 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_193750.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_195706.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170910_110448.jpg)
-
-
-
-
-
-
-
-
