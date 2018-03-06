@@ -97,8 +97,8 @@
 *	Good part of Lansdowne is that its not commercialized, some of its attractions are
 	- Bhulla lake
 	- Tarkeshwar Mahadev Temple
-    	- Bhim Pakora
-   	 - Kaleshwar Mahadev Mandir
+	- Bhim Pakora
+   	- Kaleshwar Mahadev Mandir
 	- Garhwali Mess
 	- St. John’s Church
 
