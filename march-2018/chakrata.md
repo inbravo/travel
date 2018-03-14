@@ -1,21 +1,13 @@
 | | “A good traveler has no fixed plans and is not intent on arriving.” – Lao Tzu |
 | :--- | :--- |
 | Summary | This is the story of my motercycle ride to Tiger Fall, Chakrata, Uttarakhand in India, during March, 2018|
-| Total Distance | ~620 kilometers |
+| Total Distance | ~685 kilometers |
 | Course | Ghaziabad to Chakrata, Uttarakhand |
 | Transport | Enfleid Electra |
 | Stay | NA |
 | Route Map |![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/route-map.jpg)|
 
 ---
-
-##  4:05 AM Ghaziabad
-
-##  4:30 AM Modinagar
-
-##  5:00 AM Meerut
-
-##  6:00 AM Muzaffarnagar
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/start.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
