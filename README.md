@@ -9,3 +9,4 @@
 -	[Lansdowne](july-2017/lensdown.md)
 -	[Tehri Dam](september-2017/tehri-dam.md)
 -	[Dhanaulti](october-2017/dhanaulti.md)
+-	[Tiger Fall, Chakrata](march-2018/chakrata.md)
