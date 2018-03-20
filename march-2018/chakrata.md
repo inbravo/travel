@@ -4,7 +4,7 @@
 | Total Distance | ~685 kilometers |
 | Course | Ghaziabad to Tiger Fall, Chakrata, Uttarakhand |
 | Transport | Enfleid Electra 350 |
-| Stay | NA |
+| Stay | Hotel MRB Residency |
 | Route Map |![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/route-map.jpg)|
 
 ---
@@ -32,12 +32,22 @@
 
 ##  6:00 AM Muzaffarnagar
 *	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jiggery 
-*	Decided to take a minor stop
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
 
 ##  6:50 AM Roorkee
 *	Roorkee has a large army base with headquarters for 'Bengal Engineer Group' (BEG), also known as Bengal Sappers
+
+##  7:45 AM Haridwar
+##  8:15 AM Raiwala
+##  9:15 AM Rampur
+##  9:45 AM Sahaspur
+##  10:30 AM Kalsi
+##  11:15 AM Sahiya
+##  12:15 PM Koruwa
+##  12:45 PM Kaliyana
+##  1:40 PM Chakrata
+##  4:50 PM Tiger Fall
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_113130.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/glance.jpg)
