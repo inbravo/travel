@@ -28,6 +28,7 @@
 ##  5:00 AM Meerut
 *	Bypassed Meerut, took the new toll way to Haridwar, riding towards Modipuram
 
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/mzfrngr.jpg)
 
 ##  6:00 AM Muzaffarnagar
 *	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jiggery 
