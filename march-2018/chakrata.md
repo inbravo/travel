@@ -28,15 +28,18 @@
 ##  5:00 AM Meerut
 *	Bypassed Meerut, took the new toll way to Haridwar, riding towards Modipuram
 
+
 ##  6:00 AM Muzaffarnagar
 *	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jiggery 
+*	Decided to take a minor stop
+
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
 
 ##  6:50 AM Roorkee
 *	Roorkee has a large army base with headquarters for 'Bengal Engineer Group' (BEG), also known as Bengal Sappers
 
-
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_113130.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/glance.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_115053.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_122136.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_122158.jpg)
