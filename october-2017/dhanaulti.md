@@ -30,7 +30,7 @@
 *	This is the perfect road to experience the real cruising speed of an Enfield  
 
 ##  6:00 AM Muzaffarnagar
-*	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jiggery 
+*	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jaggery 
 *	Muzzarnagar is famous for its sugar cane farming. Greenery around is so peaceful in morning time
 
 ![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_062100.jpg)
