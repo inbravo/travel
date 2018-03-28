@@ -11,27 +11,36 @@
 
 ##  4:00 AM Ghaziabad
 *	Its been four months of hibernation, no riding since November last year
-*	Slept around 4 hours, i woke up at 3 o'clock. All packings were done before sleeping
+*	Slept for four hours and woke up at 3 o'clock. All packings were done before sleeping
 *	My bag full of most of things, which i wish never to use like puncure kits, spare parts, first aid etc
 *	Several new additions in my kit, from the learnings from last mistakes e.g. first aid kit
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/prep.jpg)
 
-*	Eager to throttle again, I am ready to track another hill of Uttarakhand; my favourite place to hang out
+*	Eager to throttle again, I am ready to track another hill of Uttarakhand; my favourite place to find peace and happiness
 *	Few glasses of water and a tea, before heading out alone with nine years old companion; my Enfleid Electra
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/start.jpg)
 
 ##  4:30 AM Modinagar
+*	This is the one of the notorious highway; famous for its traffic jams
+*	I want to skip the rush of plane and glide into the heavenly abode of mountains
 *	State of solace arrives; internal dialogue between mind and heart is started to culminate
+*	I am connected with my motercycle, and able to feel the healthy thump of its engine
+*	Newly installed fog lights are doing magic and i dont feel any need of the main headlamp
+*	Not able to see any long distance rider, but i know there are many souls i will meet on the way
 
 ##  5:00 AM Meerut
-*	Bypassed Meerut, took the new toll way to Haridwar, riding towards Modipuram
+*	Bypassed Meerut city, took the left turn and riding on a better road to Haridwar
+*	No sign of sun lights, some village boys are doing morning run, aspiring to join armed forces of india
+*	I was recalling my old days, when i use to run barefoot and testing my physical endurance
+*	And i am passed by few riders on KTM Duke motercycle, gone like a wind
+*	There are variious types of rider spirits; i am the slowest one!
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/mzfrngr.jpg)
 
 ##  6:00 AM Muzaffarnagar
-*	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jiggery 
+*	Bypassing one of the oldest city of Uttar Pradesh, famous for its sugar and jaggery 
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
 
