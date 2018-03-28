@@ -35,12 +35,12 @@
 *	No sign of sun lights, some village boys are doing morning run, aspiring to join armed forces of india
 *	I was recalling my old days, when i use to run barefoot and testing my physical endurance
 *	And i am passed by few riders on KTM Duke motercycle, gone like a wind
-*	There are variious types of rider spirits; i am the slowest one!
+*	There are various types of rider spirits; i felt like that i am the slowest one!
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/mzfrngr.jpg)
 
 ##  6:00 AM Muzaffarnagar
-*	Bypassing one of the oldest city of Uttar Pradesh, famous for its sugar and jaggery 
+*	Bypassing one of the oldest city of Uttar Pradesh, 
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
 
