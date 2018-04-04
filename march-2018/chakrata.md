@@ -70,7 +70,6 @@
 ##  4:50 PM Tiger Fall
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_113130.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/glance.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_115053.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_122136.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_122158.jpg)
@@ -89,8 +88,6 @@
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_154103.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_163851.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_165423.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_185343.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/morning.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112235.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112257.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_114952.jpg)
@@ -100,10 +97,20 @@
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_124804.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_130836.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_152939.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_122539.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_135718.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_141537.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_172000.jpg)
+
+##	Stay: Hotel MRB Chakrata
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_104931.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_185343.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/morning.jpg)
+
+##	Food: Sher-E-Punjab (Lion of Punjab) Hotel in Chakrata
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_140549.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_135149.jpg)
+
+##	The Rider 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/face.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/glance.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_122539.jpg)
