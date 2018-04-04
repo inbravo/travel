@@ -35,20 +35,32 @@
 *	No sign of sun lights, some village boys are doing morning run, aspiring to join armed forces of india
 *	I was recalling my old days, when i use to run barefoot and testing my physical endurance
 *	And i am passed by few riders on KTM Duke motercycle, gone like a wind
-*	There are various types of rider spirits; i felt like that i am the slowest one!
+*	There are various types of rider spirits; i felt like i am the slowest one!
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/mzfrngr.jpg)
 
 ##  6:00 AM Muzaffarnagar
-*	Bypassing one of the oldest city of Uttar Pradesh, 
+*	Bypassing one of the oldest city of Uttar Pradesh
+*	Its the last days of north Indian winter and i am stiff like log. I am using the famous breathing techniques of The Iceman [Wim Hoff](https://en.wikipedia.org/wiki/Wim_Hof) 
+*	Few minor stops to empty my bladder and take pictures of growing wheat crop
+*	
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
 
 ##  6:50 AM Roorkee
-*	Roorkee has a large army base with headquarters for 'Bengal Engineer Group' (BEG), also known as Bengal Sappers
+*	Roorkee has a large Indian Army base; which is home of the famous Bengal Sappers
+*	Decided to take a long course this time and headed towards Haridwar
+*	Took some time to cross the city; the bypass is still in making, hope to avoid this city one day
+*	Arrived on the highway, which is still in construction mode, but still its far better than the previous single lane
+*	Crossing famous Patanjali, an overbridge is under construction here, slowing down the traffic 
 
 ##  7:45 AM Haridwar
+*	Arrived in the famous city of Gods. Crossing the tall Statue of Lord Shiva and heading towards Rishikesh through Rajaji National Park
+*	Minor stop on the Railway crossing and attracted few school going kids, which are for sure dreaming themselves like me someday
+
 ##  8:15 AM Raiwala
+*	My sunglasses are out to avoid the glare. Stopped at the petrol pump to fillup the tank before taking the left turn to Dehradun road
+
 ##  9:15 AM Rampur
 ##  9:45 AM Sahaspur
 ##  10:30 AM Kalsi
