@@ -43,7 +43,6 @@
 *	Bypassing one of the oldest city of Uttar Pradesh
 *	Its the last days of north Indian winter and i am stiff like log. I am using the famous breathing techniques of The Iceman [Wim Hoff](https://en.wikipedia.org/wiki/Wim_Hof) 
 *	Few minor stops to empty my bladder and take pictures of growing wheat crop
-*	
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
 
@@ -100,7 +99,10 @@
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_122032.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_124804.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_130836.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_152939.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_135718.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_141537.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_172000.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_140549.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_135149.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/face.jpg)
