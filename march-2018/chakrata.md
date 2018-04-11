@@ -1,9 +1,9 @@
 | | “A good traveler has no fixed plans and is not intent on arriving.” – Lao Tzu |
 | :--- | :--- |
-| Summary | This is the story of my motercycle ride to Tiger Fall, Chakrata, Uttarakhand in India, during March, 2018 |
+| Summary | This is the story of my motorcycle ride to Tiger Fall, Chakrata, Uttarakhand in India, during March, 2018 |
 | Total Distance | ~685 kilometers |
 | Course | Ghaziabad to Tiger Fall, Chakrata, Uttarakhand |
-| Transport | Enfleid Electra 350 |
+| Transport | Enfield Electra 350 |
 | Stay | Hotel MRB Residency |
 | Route Map |![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/route-map.jpg)|
 
@@ -12,29 +12,29 @@
 ##  4:00 AM Ghaziabad
 *	Its been four months of hibernation, no riding since November last year
 *	Slept for four hours and woke up at 3 o'clock. All packings were done before sleeping
-*	My bag full of most of things, which i wish never to use like puncure kits, spare parts, first aid etc
+*	My bag full of most of things, which i wish never to use like puncture kits, spare parts, first aid etc
 *	Several new additions in my kit, from the learnings from last mistakes e.g. first aid kit
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/prep.jpg)
 
-*	Eager to throttle again, I am ready to track another hill of Uttarakhand; my favourite place to find peace and happiness
-*	Few glasses of water and a tea, before heading out alone with nine years old companion; my Enfleid Electra
+*	Eager to throttle again, I am ready to track another hill of Uttarakhand; my favorite place to find peace and happiness
+*	Few glasses of water and a tea, before heading out alone with nine years old companion; my Enfield Electra
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/start.jpg)
 
 ##  4:30 AM Modinagar
 *	This is the one of the notorious highway; famous for its traffic jams
 *	I want to skip the rush of plane and glide into the heavenly abode of mountains
-*	State of solace arrives; internal dialogue between mind and heart is started to culminate
-*	I am connected with my motercycle, and able to feel the healthy thump of its engine
-*	Newly installed fog lights are doing magic and i dont feel any need of the main headlamp
+*	State of solace arrives; internal dialog between mind and heart is started to culminate
+*	I am connected with my motorcycle, and able to feel the healthy thump of its engine
+*	Newly installed fog lights are doing magic and i don't feel any need of the main headlamp
 *	Not able to see any long distance rider, but i know there are many souls i will meet on the way
 
 ##  5:00 AM Meerut
 *	Bypassed Meerut city, took the left turn and riding on a better road to Haridwar
-*	No sign of sun lights, some village boys are doing morning run, aspiring to join armed forces of india
+*	No sign of sun lights, some village boys are doing morning run, aspiring to join armed forces of India
 *	I was recalling my old days, when i use to run barefoot and testing my physical endurance
-*	And i am passed by few riders on KTM Duke motercycle, gone like a wind
+*	And i am passed by few riders on KTM Duke motorcycle, gone like a wind
 *	There are various types of rider spirits; i felt like i am the slowest one!
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/mzfrngr.jpg)
@@ -51,14 +51,17 @@
 *	Decided to take a long course this time and headed towards Haridwar
 *	Took some time to cross the city; the bypass is still in making, hope to avoid this city one day
 *	Arrived on the highway, which is still in construction mode, but still its far better than the previous single lane
-*	Crossing famous Patanjali, an overbridge is under construction here, slowing down the traffic 
+*	Crossing famous Patanjali, an over bridge is under construction here, slowing down the traffic 
 
 ##  7:45 AM Haridwar
 *	Arrived in the famous city of Gods. Crossing the tall Statue of Lord Shiva and heading towards Rishikesh through Rajaji National Park
 *	Minor stop on the Railway crossing and attracted few school going kids, which are for sure dreaming themselves like me someday
 
 ##  8:15 AM Raiwala
-*	My sunglasses are out to avoid the glare. Stopped at the petrol pump to fillup the tank before taking the left turn to Dehradun road
+*	Pulled my sunglasses out to face the scorching sun. Stopped at the petrol pump to fill up the tank before taking the left turn to my next stop Dehradun
+*	It’s getting hot now and another 100 kilometers of ride ahead. Taking few minor stops here and there for hydration and pee
+*	I always try to avoid less during my rides. I carry a small box of dry fruits for deferring the hunger
+*	These rides are my way to test my physical and psychological endurance; I am always thankful to spirits, for always taking care of me
 
 ##  9:15 AM Rampur
 ##  9:45 AM Sahaspur
