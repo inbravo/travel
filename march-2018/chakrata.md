@@ -60,11 +60,16 @@
 ##  8:15 AM Raiwala
 *	Pulled my sunglasses out to face the scorching sun. Stopped at the petrol pump to fill up the tank before taking the left turn to my next stop Dehradun
 *	It’s getting hot now and another 100 kilometers of ride ahead. Taking few minor stops here and there for hydration and pee
-*	I always try to avoid less during my rides. I carry a small box of dry fruits for deferring the hunger
-*	These rides are my way to test my physical and psychological endurance; I am always thankful to spirits, for always taking care of me
+*	These rides are the best way to increase my psychological and physical limits; I am always thankful to spirits, for always taking care of me
 
-##  9:15 AM Rampur
-##  9:45 AM Sahaspur
+##  8:50 AM Chidderwala
+*	A small town which is witnessing the growth story of Indian highways. The road is under construction here
+*	I eat minimal while i ride; to cultivate my physical and mental endurance. Keeping a bottle of water and a small box of dry fruits to survive
+*	Quickly consumed some dry fruits for deferring the hunger at a minor stop
+*	Wheat is growing in fields and its almost a month away before its ripening
+
+##  9:30 AM Rampur
+##  9:50 AM Sahaspur
 ##  10:30 AM Kalsi
 ##  11:15 AM Sahiya
 ##  12:15 PM Koruwa
