@@ -65,17 +65,37 @@
 ##  8:50 AM Chidderwala
 *	A small town which is witnessing the growth story of Indian highways. The road is under construction here
 *	I eat minimal while i ride; to cultivate my physical and mental endurance. Keeping a bottle of water and a small box of dry fruits to survive
-*	Quickly consumed some dry fruits for deferring the hunger at a minor stop
-*	Wheat is growing in fields and its almost a month away before its ripening
+*	Took a stop and consumed some dry fruits for deferring the hunger while watching the growing wheat crop in fields which is almost a month away before its ripening
 
 ##  9:30 AM Rampur
+*	Passing this small town and watching the houses coated with different colors
+*	Life is slow at such distant places. So lucky are the people of such places; who live in the pollution free zones
+
 ##  9:50 AM Sahaspur
+*	
+
 ##  10:30 AM Kalsi
+*
+
 ##  11:15 AM Sahiya
+*	
+
 ##  12:15 PM Koruwa
+*	
+
 ##  12:45 PM Kaliyana
+*	
+
 ##  1:40 PM Chakrata
+*	Arrived in the town, home of one of the special unit of Indian Army named [Special Frontier Force](https://en.wikipedia.org/wiki/Special_Frontier_Force)
+*	Rode to the mid of city where found an old eatery named Shere Punjab Hotel. Ordered Rajma (Kidney Beans) and Paneer (Cheese) 
+*	After killing my hunger, it's time to find a place to rest, soon my search ended at MRB residency 
+*	Quickly checked in and unloaded my motorcycle before a quick bath in hot water
+*	And my mind started calculating to decide where to go next either Tiger Fall or Devban. Decided to visit Tiger Fall
+*	Dragged my motorcycle again to take me another distant place where one of the highest fall of this region is situated
+
 ##  4:50 PM Tiger Fall
+*	
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_113130.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_115053.jpg)
