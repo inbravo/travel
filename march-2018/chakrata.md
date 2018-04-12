@@ -72,10 +72,13 @@
 *	Life is slow at such distant places. So lucky are the people of such places; who live in the pollution free zones
 
 ##  9:50 AM Sahaspur
-*	
+*	Crossing this small town to find the Vikas Nagar Chakrata road, which is going to take us to our destination
+*	Stopped for few minutes on the big river crossing from the town
+
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_130836.jpg)
 
 ##  10:30 AM Kalsi
-*
+*	A Small town with lot many fruit vendors flocking the road
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_113130.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_115053.jpg)
@@ -90,10 +93,6 @@
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_121800.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_122002.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_122032.jpg)
-
-##  12:15 PM Koruwa
-*	
-
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_123514.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_123730.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_123736.jpg)
@@ -128,7 +127,6 @@
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112257.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_114952.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_124804.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_130836.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_135718.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_141537.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_172000.jpg)
