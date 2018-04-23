@@ -107,11 +107,6 @@
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_124842.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_124846.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_124929.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_165423.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112235.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112257.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_114952.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_124804.jpg)
 
 ##  1:40 PM Chakrata
 *	Arrived in the town, home of one of the special unit of Indian Army named [Special Frontier Force](https://en.wikipedia.org/wiki/Special_Frontier_Force)
@@ -137,6 +132,9 @@
 
 *	Spend around an hour there, just sitting idle and doing nothing
 *	Talked with the guard of fall named Dayaram, talks with him reveals the beautiful nature of mountain natives
+
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_165423.jpg)
+
 *	Finally when the darkness starting taking cover, i decided to ride back to the Chakrata town
 *	Took around 45 minutes to return back to Chakrata. After unpacking my gears, i headed for the same restaurant where i ate lunch	
 *	Came back to hotel at around 8 o'clock. Finally sitting in peace and thinking about entire day
@@ -147,6 +145,10 @@
 *	around 9 hours ride in front of me, this time i am taking different route, which is comparatively shorter from the previous one  
 *	Took pictures of several places while returning back. After all pictures are the only source of remembering these beautiful moments of my life 
 
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112235.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112257.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_114952.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_124804.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_135718.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_141537.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_172000.jpg)
