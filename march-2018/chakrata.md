@@ -131,7 +131,7 @@
 *	Its a near by place, you need to track down for the water fall for around five hundred meters 
 *	Beautiful raw scenic place with almost no commercial activity. Its evening and there was very limited people
 *	Spend around an hour there, took a bath in chilly water of fall, very relaxing and peaceful
-*	Entire days tiredness is lost after a tea at small shack near to fall
+*	Entire days tiredness is lost after a tea at small nearby shack 
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_163851.jpg)
 
@@ -145,7 +145,7 @@
 ##  Next day 10:00 AM Chakrata
 *	Packed my belongings and wore all my gears, before kicking my motorcycle
 *	around 9 hours ride in front of me, this time i am taking different route, which is comparatively shorter from the previous one  
-*	Took here and there at several places while returning back
+*	Took pictures of several places while returning back. After all pictures are the only source of remembering these beautiful moments of my life 
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_135718.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_141537.jpg)
