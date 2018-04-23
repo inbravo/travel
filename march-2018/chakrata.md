@@ -107,6 +107,11 @@
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_124842.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_124846.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_124929.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_165423.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112235.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112257.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_114952.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_124804.jpg)
 
 ##  1:40 PM Chakrata
 *	Arrived in the town, home of one of the special unit of Indian Army named [Special Frontier Force](https://en.wikipedia.org/wiki/Special_Frontier_Force)
@@ -118,25 +123,30 @@
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_132212.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_132256.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_152939.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_153241.jpg)
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_154103.jpg)
 
 ##  4:50 PM Tiger Fall
 *	Its a near by place, you need to track down for the water fall for around five hundred meters 
 *	Beautiful raw scenic place with almost no commercial activity. Its evening and there was very limited people
 *	Spend around an hour there, took a bath in chilly water of fall, very relaxing and peaceful
 *	Entire days tiredness is lost after a tea at small shack near to fall
+
+![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_163851.jpg)
+
 *	Spend around an hour there, just sitting idle and doing nothing
+*	Talked with the guard of fall named Dayaram, talks with him reveals the beautiful nature of mountain natives
 *	Finally when the darkness starting taking cover, i decided to ride back to the Chakrata town
 *	Took around 45 minutes to return back to Chakrata. After unpacking my gears, i headed for the same restaurant where i ate lunch	
+*	Came back to hotel at around 8 o'clock. Finally sitting in peace and thinking about entire day
+*	Next morning i will head out to my home, i will ride slow as much as possible to enjoy the journey 
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_152939.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_153241.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_154103.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_163851.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_165423.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112235.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_112257.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_114952.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_124804.jpg)
+##  Next day 10:00 AM Chakrata
+*	Packed my belongings and wore all my gears, before kicking my motorcycle
+*	around 9 hours ride in front of me, this time i am taking different route, which is comparatively shorter from the previous one  
+*	Took here and there at several places while returning back
+
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_135718.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_141537.jpg)
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_172000.jpg)
