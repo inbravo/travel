@@ -34,15 +34,14 @@
 *	Bypassed Meerut city, took the left turn and riding on a better road to Haridwar
 *	No sign of sun lights, some village boys are doing morning run, aspiring to join armed forces of India
 *	I was recalling my old days, when i use to run barefoot and testing my physical endurance
-*	And i am passed by few riders on KTM Duke motorcycle, gone like a wind
-*	There are various types of rider spirits; i felt like i am the slowest one!
+*	Few riders on KTM Duke motorcycle, passed me like a wind. There are various types of rider spirits; i felt like i am the slowest one!
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/mzfrngr.jpg)
 
 ##  6:00 AM Muzaffarnagar
 *	Bypassing one of the oldest city of Uttar Pradesh, back in days very famous for crimes
-*	It’s the last days of north Indian winter and i am stiff like log. I am using the famous breathing techniques of The Iceman [Wim Hoff](https://en.wikipedia.org/wiki/Wim_Hof) 
-*	Few minor stops to empty my bladder and take pictures of growing wheat crop
+*	It’s the last days of north Indian winter and i am stiff like log owing to the cold winds. Using the breathing techniques of [Wim Hoff](https://en.wikipedia.org/wiki/Wim_Hof) 
+*	Few minor stops to empty my bladder and take pictures of fields with growing wheat crop
 
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180310_073031.jpg)
 
@@ -78,7 +77,7 @@
 ![](https://github.com/inbravo/travel/blob/master/march-2018/images/c/IMG_20180311_130836.jpg)
 
 ##  10:30 AM Kalsi
-*	A small town with lot many fruit vendors flocking the road, crossed it to quickly cover the route
+*	A small town with lot many fruit vendors flocking the road, crossed it quickly to proceed on my journey
 *	Air is cold now, nature is mixed with rocks and greenery 
 *	Minimal traffic on road, road construction in progress. Took few halts here and there owing to construction machines
 
