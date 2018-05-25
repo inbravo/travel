@@ -10,3 +10,4 @@
 -	[Tehri Dam](september-2017/tehri-dam.md)
 -	[Dhanaulti](october-2017/dhanaulti.md)
 -	[Tiger Fall, Chakrata](march-2018/chakrata.md)
+-	[Shivpuri, Rishikesh](may-2018/shivpuri.md)
