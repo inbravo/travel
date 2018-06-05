@@ -40,7 +40,7 @@
 *	This new highway is the face of new emerging India. It gives me immense proud to born in such a great period of transformation 
 *	People in my generation, who are experiencing this change, will have a story to tell to new generations
 *	India's highest sugarcane growing fields are all around me. Greenery is the major sign of this region
-*	Slowly the highway came to end, entering the single side road, heading towards Roorkee city
+*	Slowly the highway came to end, entering the single lane road, heading towards Roorkee city
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061102.jpg)
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_061625.jpg)
@@ -67,9 +67,9 @@
 
 ##  10:00 AM Narendra Nagar
 *	Still untouched with the urbanization, Narendra Nagar still gives the nostalgic feelings of classical towns
-*	After crossing the town, I stopped at a small shack, devoured delicious aloo parathas and chat with localities
-*	Next city is Chamba, which is just an hour away from here
-*	I refit myself to one last push to my destination called Tehri Dam
+*	After crossing the town, I stopped at a small shack, devoured delicious aloo parathas and chat with locals
+*	Next town is Chamba, which is just an hour away from here
+*	I refit myself to one last push to my destination Tehri Dam
 *	I am experiencing road sign of land sliding prone areas more often and hills have become whiter
 
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_095756.jpg)
@@ -81,7 +81,7 @@
 ##  11:00 AM Chamba
 *	A small town, providing further connects to Tehri and Mussoorie 
 *	Town shows no sign of travelers, only local public curiously starring and trying to judge me
-*	After respectfully enquiring a police man, I chose the correct road to Tehri Dam
+*	After respectfully inquiring a police man, I chose the correct road to Tehri Dam
 *	Road had become narrow and poor, on my left I have started experiencing the water flow
 *	This water flow got bigger and bigger as I got closer to Dam, and finally the WoW factor arrived
 
@@ -112,7 +112,7 @@
 ![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_114532.jpg)
 
 ##  12:45 PM Tehri Dam, Heading back
-*	Same route but scoarching sun is eating more energy this time, I am now able to see some of riders, heading towards dam
+*	Same route but scorching sun is eating more energy this time, I am now able to see some of riders, heading towards dam
 *	At a small road side village named Nagni, I decided to take a bath in small stream of river
 *	Some village kids were playing there, initially scarred with my looks, but soon became comfortable with me
 *	Soon the place where I parked my motorcycle, became a picnic spot for a foreigner family

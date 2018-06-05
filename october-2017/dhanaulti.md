@@ -161,7 +161,7 @@
 *	A gentleman helped me to drag my motorcycle and after few minutes of inspection, I climbed my motorcycle again
 *	After riding few minutes, i started feeling that my wrist is in acute pain while holding the clutch
 *	Holding the clutch is necessary while driving down in hills. Pain was increasing every moment 
-*	I took a pause to give some relax to my hand. I learnt the lesson to **Always carry the basic medicines during the rides**
+*	I took a pause to give some relax to my hand. I learned the lesson to **Always carry the basic medicines during the rides**
 
 ##  5:30 PM Rishikesh
 *	Arrived in Rishikesh, and my wrist is giving me a hell of a pain. Time for me to switch on my endurance mode

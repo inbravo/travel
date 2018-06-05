@@ -10,25 +10,14 @@
 ---
 
 ##  4:00 AM Ghaziabad
-*	We all are bound in some priorities and limitations, but we all want to enjoy the life of a traveler
-*	I did several rides, but never documented it. Some of close friends, always desired to feel my rides vicariously
-*	This travelogue is dedicated to my friends, who want to feel my travel experience and imagine their own journey
-*	I had never thought of doing solo rides, but universe has planned it for me
-*	It started several years ago, when I bought my first Royal Enfield in 2008 with the intentions of riding experience
-*	During all these years, I found that solo motorcycling is best way to find peace with myself
-*	I thank to God for giving me strong genetics, which I can use to ride almost nonstop, almost untired
-*	As always, early start of day and I am ready with my motorcycle, ready with my complete riding gears
-*	Heading towards NH-24, light traffic and no sunlight, I am traversing through Ghaziabad city
-* 	Arrived at NH-58, this is the highway to take me to Uttarakhand, my destination state
-*	Only heavy vehicles present on the road but there are some taxis ferrying interstate travelers
+*	This time some of the office colleagues are traveling with us. Two motorcycles and two cars
+*	As usual we have decided to start early today to avoid the scorching sun of north India
+*	After few calls of coordination with other group travelers, we have decided to start earlier than cars and later join them in Haridwar
+*	Heading towards Meerut bypass with headlights on and throttle at around ~70
+*	This month is very popular for the kids summer vacations and i am sure to see large traffic soon
 
 ##  4:30 AM Modinagar
-*	Another solo rider, on a Bajaj Pulsar has just passed me, waving me in confidence
-*	I hooked to his tail with my all senses opened to judge, the slightest of movement around my motorcycle
-* 	We carefully steered through the traffic around us, and attracted the eyes of many 
-* 	We crossed Modinagar and arrived at Meerut bypass, where i took the lead, and finally throttled my best
-*	Finally i was in bullet attitude, but with all senses opened to avoid any mistake and started cutting the traffic
-*	Solo riding makes you more responsible, you have to avoid every small negligence, which eventually helps in avoiding any disaster
+*	A
 
 ##  5:00 AM Meerut
 *	Arrived in Meerut but still no sign of sunlight, i am feeling confident to reach my destination within stipulated time
