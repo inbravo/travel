@@ -17,7 +17,8 @@
 *	This month is very popular for the kids summer vacations and i am sure to see large traffic soon
 
 ##  4:30 AM Modinagar
-*	A
+*	As usual lots of Delhi numbered cars heading towards Uttarakhand
+*	
 
 ##  5:00 AM Meerut
 *	Arrived in Meerut but still no sign of sunlight, i am feeling confident to reach my destination within stipulated time
