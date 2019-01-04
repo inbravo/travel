@@ -1,0 +1,55 @@
+#.	Electronics
+	#.	2 Mobile phones
+	#.	Power backup
+	#.	Selfy stick
+#.	Clothes
+	#.	Upper
+		#.	2 Inner thermals
+		#.	2 T-shirts full arm
+		#.	2 Fleeces
+		#.	Wind cum rain jacket
+		#.	Warm cap and cotton hat
+		#.	Muff1ler
+		#.	Gloves
+		#.	2 Bandanna
+	#.	Lower
+		#.	2 Polyester pants
+		#.	1 Polyester lower
+		#.	2 Inner thermals
+		#.	Hiking shoes
+		#.	3 Socks
+#.	Tracking essentials
+	#.	Hiking bag 
+	#.	Sleeping bag
+	#.	Tracking pole
+	#.	Water bottles
+	#.	Knife
+	#.	Slippers
+	#.	Sunglass
+	#.	Spoon
+	#.	Mug
+	#.	Lunch box
+	#.	Dry fruits
+	#.	Desi ghee
+	#.	Gur	gazzak
+	#.	Electrolyte
+#.	Medicines
+	#.	Cold/Cough (ACC) drops
+	#.	Indigestion drops
+	#.	Kanthika throat relief tablets
+	#.	Dark Rum
+	#.	Cloves/Elaichi
+	#.	Chew gum and toffees
+#.	Toiletries
+	#.	Sunscreen and lipbam
+	#.	Deodorant
+	#.	Razor/Shave Gel/Brush
+	#.	Small Mirror
+	#.	Tooth paste/brush
+	#.	Shampoo pouches
+	#.	2 Towels
+	#.	2 set of Underwear
+	#.	Small hand towel
+	#.	Toilet paper
+	#.	Hand sanitizer
+	#.	Dettol soap
