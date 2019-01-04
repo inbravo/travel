@@ -1,9 +1,9 @@
 # My Travel Reports
 
 ## India
--	[India Gate, Delhi, India](august-2017/india-gate.md)
--	[Humayun Tomb, Delhi, India](august-2017/humayun-tomb.md)
--	[Aravalli, Faridabad, Haryana, India](july-2017/aravalli.md)
+-	[India Gate, Delhi](august-2017/india-gate.md)
+-	[Humayun Tomb, Delhi](august-2017/humayun-tomb.md)
+-	[Aravalli, Faridabad, India](july-2017/aravalli.md)
 -	[Lansdowne](july-2017/lensdown.md)
 -	[Tehri Dam](september-2017/tehri-dam.md)
 -	[Dhanaulti](october-2017/dhanaulti.md)
