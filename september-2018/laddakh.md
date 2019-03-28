@@ -23,4 +23,18 @@
 *	Only heavy vehicles present on the road but there are some taxis ferrying interstate travelers
 
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_084635.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_062839.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_064428.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_094334.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_113216.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_113714.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_115352.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_131255.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_131324.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_141806.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_141826.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_141828.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_175908.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181001_175915.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181002_113316.jpg)
+![](https://github.com/inbravo/travel/blob/master/september-2018/images/IMG_20181002_134551.jpg)
