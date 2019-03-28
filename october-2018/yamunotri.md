@@ -1,26 +1,44 @@
 | | “People don’t take trips – trips take people.” – John Steinbeck|
 | :--- | :--- |
-| Summary | This is the story of my tracking to mount 'Kedarkantha' in Uttarakhand, India during January, 2019.|
+| Summary | This is the story of my tracking to 'Yamunotri' in Uttarakhand, India during October, 2018.|
 | Total Distance | ~600 kilometers |
-| Course | Ghaziabad to Kedarkantha Uttarakhand India |
-| Transport | Train,jJeep and tracking |
+| Course | Ghaziabad to Yamunotri Uttarakhand India |
+| Transport | Jeep and tracking |
 | Stay | [Himalyan home stay Sankri](http://www.madhubanashram.org)|
 | Route Map |![](https://github.com/inbravo/travel/blob/master/january-2019/images/k/route-map.jpg)|
 
 ---
 
-##  4:10 AM Ghaziabad
-*	We all are bound in some priorities and limitations, but we all want to enjoy the life of a traveler
-*	I did several rides, but never documented it. Some of close friends, always desired to feel my rides vicariously
-*	This travelogue is dedicated to my friends, who want to feel my travel experience and imagine their own journey
-*	I had never thought of doing solo rides, but universe has planned it for me
-*	It started several years ago, when I bought my first Royal Enfield in 2008 with the intentions of riding experience
-*	During all these years, I found that solo motorcycling is best way to find peace with myself
-*	I thank to God for giving me strong genetics, which I can use to ride almost nonstop, almost untired
-*	As always, early start of day and I am ready with my motorcycle, ready with my complete riding gears
-*	Heading towards NH-24, light traffic and no sunlight, I am traversing through Ghaziabad city
-* 	Arrived at NH-58, this is the highway to take me to Uttarakhand, my destination state
-*	Only heavy vehicles present on the road but there are some taxis ferrying interstate travelers
+##  4:30 AM Ghaziabad
+*	Waiting for Raghvendra to arrive
 
-
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/t/IMG_20170909_084635.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_092026.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_092204.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_092704.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_092710.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_160206.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_160253.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_165537.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_165555.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181012_165604.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_062846.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_063256.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_065648.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_073458.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_073505.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_073938.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_081936.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_091006.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_092711.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_122008.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_132601.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_133451.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_133507.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_133514.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_133915.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_142539.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_142543.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181013_142554.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181014_060944.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181014_073807.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2018/images/IMG_20181014_074019.jpg)
