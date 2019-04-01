@@ -1,6 +1,5 @@
-![](https://github.com/inbravo/travel/blob/master/june-2019/images/delhi-manali-route-map.jpg)
-Delhi to Manali
-##  DAY-1 / Ghaziabad to Manali / 14-HOURS / 570-KILOMETERS
+
+##  DAY-1 / Ghaziabad to Manali / 14-HOURS / 570-KILOMETERS ![](https://github.com/inbravo/travel/blob/master/june-2019/images/delhi-manali-route-map.jpg)
 1. **Ghaziabad -> Sonipat** [70 kms via Eastern Peripheral]
 2. **Sonipat -> Panipat** [53 kms via NH 44]
 3. **Panipat -> Karnal** [73 kms via NH 44]
@@ -12,8 +11,7 @@ Delhi to Manali
 9. **Mandi -> Kullu** [70 kms via NH 3]
 10. **Kullu -> Manali** [40 kms via NH 3]
 
-##  DAY-2 / Manali to Jispa / 6-HOURS / 140-KMS
-![](https://github.com/inbravo/travel/blob/master/june-2019/images/route-map.jpg)
+##  DAY-2 / Manali to Jispa / 6-HOURS / 140-KMS ![](https://github.com/inbravo/travel/blob/master/june-2019/images/route-map.jpg)
 
 1. **Manali -> Marhi** [33 kms]
 	* Altitude elevation from 6,400 to 10,800 ft 
