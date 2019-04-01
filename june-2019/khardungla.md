@@ -46,25 +46,24 @@
 	* Altitude 10,860 ft, good road. Can stay here
 
 ##  DAY-3 / Jispa to Leh / 11-HOURS / 336-KMS
-1. **Jispa -> Darcha** [6 kms]
-	* Altitude at 11,020 ft. All tourists have to register at the police check post here. Mixed road-offroad-decent road
-2. **Darcha -> Zingzingbar** [26 kms]
-	* Altitude at 14,010 ft. The steep ascent to Baralacha La starts at Zingzingbar and mixed road
-3. **Zingzingbar -> Baralacha La pass** [18 km]
-	* Altitude at 16,500 ft. It is a steady climb and offroad
+1. **Jispa -> Darcha** [6 kms and altitude at 11,020 ft]
+	* All tourists have to register at the police check post here. Mixed road-offroad-decent road
+2. **Darcha -> Zingzingbar** [26 kms and altitude at 16,500 ft]
+	* The steep ascent to Baralacha La starts at Zingzingbar and mixed road
+3. **Zingzingbar -> Baralacha La pass** [18 km and altitude at 16,500 ft]
+	* It is a steady climb and offroad
 	* Both the Bhaga river and the Chandra river originate from melting snow at opposite sides of Baralacha La, finally to merge at Tandi
 4. **Baralacha La -> Bharatpur** [2 kms]
 	* It is a steady descent and offroad
-5. **Bharatpur -> Sarchu** [38 kms]
-	* Altitude at 14,100 ft and offroad. Himachal Pradesh state ends here. Ladakh region of Jammu and Kashmir state starts here
+5. **Bharatpur -> Sarchu** [38 kms and altitude at 14,100 ft]
+	* Himachal Pradesh state ends here. Ladakh region of Jammu and Kashmir state starts here. Mostly offroad
 	* Sarchu is a military base and has a police check post. Register at the police check post here 
-6. **Sarchu -> Pang** [80 kms]
-	* Altitude at 15,100 ft and offroad
-	* Climbing 500 m through the Gata loops (22 hairpin bends) at 13,750 ft elevation 
+6. **Sarchu -> Pang** [80 kms and altitude at 15,100 ft]
+	* Offroad climbing 500 m through the Gata loops (22 hairpin bends) at 13,750 ft elevation 
 	* Nakee La pass at 15,547 ft and Lachulung La pass at 16,616 ft
 	* Register at the check post at Pang
-7. **Pang -> Tanglang La pass** [ 69 kms]
-	* Altitude elevation to 17,480 ft through a 15,400 ft plateau called 'Morey plains'
+7. **Pang -> Tanglang La pass** [69 kms and altitude at 17,480 ft]
+	* Pass through a 15,400 ft plateau called 'Morey plains'
 8. **Tanglang La pass -> Upshi** [60 km]
 	* Brilliant roads. Upshi has a Customs and Excise taxation check post before crossing the river. Stop here for checking of vehicles
 	* Then cross Indus river to reach Upshi village on the right bank (north) of the river 
@@ -72,6 +71,5 @@
 9. **Upshi -> Karu** [16 km] 
 	* After crossing Indus river, the highway is on the right bank (north) of the river from Upshi to Leh
 	* Turn left at Upshi for Karu. Do not take the right turn that leads to the east towards Tibet. Good road
-10. **Karu -> Leh** [35 km]
-	* Altitude elevation to 11,483 ft. Continue on the highway towards Leh
-	* Do not take the right turn just before Karu that leads to Shyok. Good road
+10. **Karu -> Leh** [35 km and altitude at 11,483 ft]
+	* Continue on the highway towards Leh. Do not take the right turn just before Karu that leads to Shyok. Good road
