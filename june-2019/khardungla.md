@@ -4,8 +4,8 @@
 | Total Distance | ~2100 kilometers |
 | Course | Ghaziabad to Khardungla, J&K India |
 | Transport | Enfield Bullet |
-| Route Map |![](https://github.com/inbravo/travel/blob/master/january-2019/route.md)|
-| Trip carry list |![](https://github.com/inbravo/travel/blob/master/january-2019/carry-list.md)|
+| Route Map | [Khardungla](january-2019/route.md)|
+| Items carry list | [Khardungla](january-2019/carry-list.md)|
 
 ---
 
