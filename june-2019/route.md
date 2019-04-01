@@ -1,5 +1,4 @@
-
-##  DAY-1 / Ghaziabad to Manali / 14-HOURS / 570-KILOMETERS ![](https://github.com/inbravo/travel/blob/master/june-2019/images/delhi-manali-route-map.jpg)
+##  DAY-1 / Ghaziabad to Manali / 14-HOURS / 570-KILOMETERS
 1. **Ghaziabad -> Sonipat** [70 kms via Eastern Peripheral]
 2. **Sonipat -> Panipat** [53 kms via NH 44]
 3. **Panipat -> Karnal** [73 kms via NH 44]
@@ -10,9 +9,8 @@
 8. **Swarghat -> Mandi** [104 kms via NH 205/154]
 9. **Mandi -> Kullu** [70 kms via NH 3]
 10. **Kullu -> Manali** [40 kms via NH 3]
-
-##  DAY-2 / Manali to Jispa / 6-HOURS / 140-KMS ![](https://github.com/inbravo/travel/blob/master/june-2019/images/route-map.jpg)
-
+ 
+##  DAY-2 / Manali to Jispa / 6-HOURS / 140-KMS
 1. **Manali -> Marhi** [33 kms]
 	* Altitude elevation from 6,400 to 10,800 ft 
 	* It is a steady climb but Good roads
@@ -65,3 +63,5 @@
 	* Turn left at Upshi for Karu. Do not take the right turn that leads to the east towards Tibet. Good road
 10. **Karu -> Leh** [35 km and altitude at 11,483 ft]
 	* Continue on the highway towards Leh. Do not take the right turn just before Karu that leads to Shyok. Good road
+![](https://github.com/inbravo/travel/blob/master/june-2019/images/route-map.jpg)
+	
