@@ -12,3 +12,4 @@
 -	[Yamunotri](october-2018/yamunotri.md)
 -	[Shivpuri, Rishikesh](may-2018/shivpuri.md)✗
 -	[Kedarkantha](january-2019/kedarkantha.md)✗
+-	[Kedarkantha](january-2019/kedarkantha.md)✗
