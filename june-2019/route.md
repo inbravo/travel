@@ -1,4 +1,4 @@
-##  DAY-1 / Ghaziabad to Manali / 14-HOURS / 570-KILOMETERS
+## **Day 1**: 14 hours journey of 570 kilometers between Ghaziabad to Manali 
 1. **Ghaziabad -> Sonipat** [70 kms via Eastern Peripheral]
 2. **Sonipat -> Panipat** [53 kms via NH 44]
 3. **Panipat -> Karnal** [73 kms via NH 44]
@@ -10,7 +10,7 @@
 9. **Mandi -> Kullu** [70 kms via NH 3]
 10. **Kullu -> Manali** [40 kms via NH 3]
  
-##  DAY-2 / Manali to Jispa / 6-HOURS / 140-KMS
+## **Day 2**: 6 hours journey of 140 kilometers between Manali to Jispa 
 1. **Manali -> Marhi** [33 kms]
 	* Altitude elevation from 6,400 to 10,800 ft 
 	* It is a steady climb but Good roads
@@ -35,7 +35,7 @@
 8. **Keylong -> Jispa** [22 kms]
 	* Altitude 10,860 ft, good road. Can stay here
 
-##  DAY-3 / Jispa to Leh / 11-HOURS / 336-KMS
+##  **Day 3**: 11 hours journey of 336 kilometers between Jispa to Leh 
 1. **Jispa -> Darcha** [6 kms and altitude at 11,020 ft]
 	* All tourists have to register at the police check post here. Mixed road-offroad-decent road
 2. **Darcha -> Zingzingbar** [26 kms and altitude at 16,500 ft]
