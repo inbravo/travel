@@ -1,4 +1,4 @@
-| Route Map |![](https://github.com/inbravo/travel/blob/master/january-2019/images/k/route-map.jpg)|
+| Route Map |![](https://github.com/inbravo/travel/blob/master/june-2019/images/route-map.jpg)|
 
 ---
 
