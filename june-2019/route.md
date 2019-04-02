@@ -67,6 +67,7 @@
 	* Turn left at Upshi for Karu. Do not take the right turn that leads to the east towards Tibet. Good road
 10. **Karu -> Leh** [35 km and altitude at 11,483 ft]
 	* Continue on the highway towards Leh. Do not take the right turn just before Karu that leads to Shyok. Good road
+	
 ![](https://github.com/inbravo/travel/blob/master/june-2019/images/manali-to-leh.jpg)
 
 ##  **Day 4**: rest, acclimatize and get innerline permit from Leh district office
@@ -75,9 +76,9 @@
 ##  **Day 5**: 8 hours journey of 200 kilometers between Leh to Turtuk
 1. **Leh -> Khardungla Pass** [35 kms and altitude at 17,582 ft]
 	* This pass is strategically important to India as it is used to carry supplies to the Siachen Glacier 
-2. **Khardungla Pass -> Khardungla ** [35 kms]
+2. **Khardungla Pass -> Khardungla** [35 kms]
 	* Its a beautiful village, can eat here 
-3. **Khardungla -> Diskit Monastery ** [41 kms and altitude at 10,310 ft]
+3. **Khardungla -> Diskit Monastery** [41 kms and altitude at 10,310 ft]
 	* Diskit Monastery is the oldest and largest Buddhist monastery in the Nubra Valley of Ladakh, northern India
 	* The monastery has a 32 meter statue of Maitreya Buddha facing down the Shyok River towards Pakistan
 4. **Diskit Monastery -> Hundar** [9 kms and altitude at 10,310 ft]
@@ -89,6 +90,7 @@
 	* It is the only Balti region under the Indian administration and was under Pakistan's control until 1971
 	* Turtuk is the last outpost of India at Thang after which Pakistan-controlled Gilgit-Baltistan begins
 	* Stay at Turtuk at night, its a less explored area in Ladakh region
+	
 ![](https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-turtuk.jpg)
 
 ##  **Day 6**: 10 hours journey of 320 kilometers between Turtuk to Pangong Tso
@@ -100,6 +102,7 @@
 ##  **Day 7**: 6 hours journey of 223 kilometers between Pangong Tso to Leh
 * Start very early from Pangong and arrive by noon at Leh
 * Stay at Leh and take complete rest, to start riding back home
+
 ![](https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-pangong-tso.jpg)
 	
 ##  **Day 8**: 8 hours journey of 251 kilometers between Leh to Sarchu
