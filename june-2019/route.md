@@ -91,7 +91,7 @@
 	* Turtuk is the last outpost of India at Thang after which Pakistan-controlled Gilgit-Baltistan begins
 	* Stay at Turtuk at night, its a less explored area in Ladakh region
 
-<p align="center"><img src="/june-2019/images/leh-to-turtuk.jpg" width="700"></p>
+<p align="center"><img src="/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
 
 ##  [**Day 6**] 10 hours journey (320 kilometers between Turtuk to Pangong Tso)
 * Start very early from Turtuk and arrive at Pangong Tso
