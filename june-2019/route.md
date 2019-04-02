@@ -105,15 +105,15 @@
 
 <p align="center"><img src="/june-2019/images/leh-to-pangong-tso.jpg" width="700"></p>
 
-##  **Day 8**: 8 hours journey (251 kilometers between Leh to Sarchu)
-1. **Leh -> Tanglang La Pass** [<> kms and altitude at <> ft]
-2. **Tanglang La Pass -> Pang** [<> kms and altitude at <> ft]
-3. **Pang -> Sarchu** [<> kms and altitude at <> ft]
+##  **Day 8**: 8 hours journey (270 kilometers between Leh to Sarchu)
+1. **Leh -> Tanglang La Pass** [108 km via Keylong-Leh Rd/Leh Manali Hwy]
+2. **Tanglang La Pass -> Pang** [87 kms via Leh Manali Hwy]
+3. **Pang -> Sarchu** [75 kms via Leh Manali Hwy]
 		
-##  **Day 9**: 8 hours journey of 275 kilometers between Sarchu to Manali
-1. **Sarchu -> Baralacha La Pass** [<> kms and altitude at <> ft]
-2. **Baralacha La Pass -> Rohtang Pass** [<> kms and altitude at <> ft]
-3. **Rohtang Pass -> Manali** [<> kms and altitude at <> ft]
+##  **Day 9**: 8 hours journey of 230 kilometers between Sarchu to Manali
+1. **Sarchu -> Baralacha La Pass (Keylong)** [105 kms via Keylong-Leh Rd/Leh Manali Hwy]
+2. **Baralacha La Pass -> Rohtang Pass** [65 kms via Keylong-Leh Rd/Leh Manali Hwy]
+3. **Rohtang Pass -> Manali** [55 kms via Keylong-Leh Rd/Leh Manali Hwy]
 		
 ##  **Day 10**: 14 hours journey (570 kilometers between Manali to Ghaziabad) 
 1. **Manali -> Kullu** [40 kms via NH 3]
