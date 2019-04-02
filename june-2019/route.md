@@ -70,7 +70,7 @@
 ![](https://github.com/inbravo/travel/blob/master/june-2019/images/manali-to-leh.jpg)
 
 ##  **Day 4**: rest, acclimatize and get innerline permit from Leh district office
-	* Leh local: leh palace, war memorial, shanti stupa, magnetic hill, gurudwara pathar sahib, market etc
+*	Leh local: leh palace, war memorial, shanti stupa, magnetic hill, gurudwara pathar sahib, market etc
 	
 ##  **Day 5**: 8 hours journey of 200 kilometers between Leh to Turtuk
 1. **Leh -> Khardungla Pass** [35 kms and altitude at 17,582 ft]
@@ -92,21 +92,21 @@
 ![](https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-turtuk.jpg)
 
 ##  **Day 6**: 10 hours journey of 320 kilometers between Turtuk to Pangong Tso
-	* Start very early from Turtuk and arrive at Pangong Tso
-	* It has a 134 km long lake which extends from India to China
-	* Approximately 60% of the length of the lake lies in China. During winter the lake freezes completely
-	* Pangong Tso is in disputed territory. The Line of Actual Control passes through the lake
+* Start very early from Turtuk and arrive at Pangong Tso
+* It has a 134 km long lake which extends from India to China
+* Approximately 60% of the length of the lake lies in China. During winter the lake freezes completely
+* Pangong Tso is in disputed territory. The Line of Actual Control passes through the lake
 
 ##  **Day 7**: 6 hours journey of 223 kilometers between Pangong Tso to Leh
-	* Start very early from Pangong and arrive by noon at Leh
-	* Stay at Leh and take complete rest, to start riding back home
+* Start very early from Pangong and arrive by noon at Leh
+* Stay at Leh and take complete rest, to start riding back home
 ![](https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-pangong-tso.jpg)
 	
 ##  **Day 8**: 8 hours journey of 251 kilometers between Leh to Sarchu
-	* <>
+* <>
 		
 ##  **Day 9**: 8 hours journey of 275 kilometers between Sarchu to Manali
-	* <>
+* <>
 		
 ##  **Day 10**: 8 hours journey of 275 kilometers between Manali to Delhi
-	* <>
+* <>
