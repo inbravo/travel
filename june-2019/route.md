@@ -1,4 +1,4 @@
-## **Day 1**: 14 hours journey (570 kilometers between Ghaziabad to Manali) 
+## [**Day 1**] 14 hours journey (570 kilometers between Ghaziabad to Manali) 
 1. **Ghaziabad -> Sonipat** [70 kms via Eastern Peripheral]
 2. **Sonipat -> Panipat** [53 kms via NH 44]
 3. **Panipat -> Karnal** [73 kms via NH 44]
@@ -10,7 +10,7 @@
 9. **Mandi -> Kullu** [70 kms via NH 3]
 10. **Kullu -> Manali** [40 kms via NH 3]
  
-## **Day 2**: 6 hours journey (140 kilometers between Manali to Jispa) 
+## [**Day 2**] 6 hours journey (140 kilometers between Manali to Jispa) 
 1. **Manali -> Marhi** [33 kms]
 	* Altitude elevation from 6,400 to 10,800 ft 
 	* It is a steady climb but good road
@@ -37,7 +37,7 @@
 8. **Keylong -> Jispa** [22 kms]
 	* Altitude 10,860 ft, good road. Can stay here
 
-##  **Day 3**: 11 hours journey (336 kilometers between Jispa to Leh) 
+##  [**Day 3**] 11 hours journey (336 kilometers between Jispa to Leh) 
 1. **Jispa -> Darcha** [6 kms and altitude at 11,020 ft]
 	* All tourists have to register at the police check post here. Mixed road-offroad-decent road
 2. **Darcha -> Zingzingbar** [26 kms and altitude at 16,500 ft]
@@ -70,10 +70,10 @@
 	
 <p align="center"><img src="/june-2019/images/manali-to-leh.jpg" width="700"></p>
 
-##  **Day 4**: rest, acclimatize and get innerline permit from Leh district office
+##  [**Day 4**] rest, acclimatize and get innerline permit from Leh district office
 *	Leh local: leh palace, war memorial, shanti stupa, magnetic hill, gurudwara pathar sahib, market etc
 	
-##  **Day 5**: 8 hours journey (200 kilometers between Leh to Turtuk)
+##  [**Day 5**] 8 hours journey (200 kilometers between Leh to Turtuk)
 1. **Leh -> Khardungla Pass** [35 kms and altitude at 17,582 ft]
 	* This pass is strategically important to India as it is used to carry supplies to the Siachen Glacier 
 2. **Khardungla Pass -> Khardungla** [35 kms]
@@ -93,29 +93,29 @@
 
 <p align="center"><img src="/june-2019/images/leh-to-turtuk.jpg" width="700"></p>
 
-##  **Day 6**: 10 hours journey (320 kilometers between Turtuk to Pangong Tso)
+##  [**Day 6**] 10 hours journey (320 kilometers between Turtuk to Pangong Tso)
 * Start very early from Turtuk and arrive at Pangong Tso
 * It has a 134 km long lake which extends from India to China
 * Approximately 60% of the length of the lake lies in China. During winter the lake freezes completely
 * Pangong Tso is in disputed territory. The Line of Actual Control passes through the lake
 
-##  **Day 7**: 6 hours journey of 223 kilometers between Pangong Tso to Leh
+##  [**Day 7**] 6 hours journey of 223 kilometers between Pangong Tso to Leh
 * Start very early from Pangong and arrive by noon at Leh
 * Stay at Leh and take complete rest, to start riding back home
 
 <p align="center"><img src="/june-2019/images/leh-to-pangong-tso.jpg" width="700"></p>
 
-##  **Day 8**: 8 hours journey (270 kilometers between Leh to Sarchu)
+##  [**Day 8**] 8 hours journey (270 kilometers between Leh to Sarchu)
 1. **Leh -> Tanglang La Pass** [108 km via Keylong-Leh Rd/Leh Manali Hwy]
 2. **Tanglang La Pass -> Pang** [87 kms via Leh Manali Hwy]
 3. **Pang -> Sarchu** [75 kms via Leh Manali Hwy]
 		
-##  **Day 9**: 8 hours journey of 230 kilometers between Sarchu to Manali
+##  [**Day 9**] 8 hours journey of 230 kilometers between Sarchu to Manali
 1. **Sarchu -> Baralacha La Pass (Keylong)** [105 kms via Keylong-Leh Rd/Leh Manali Hwy]
 2. **Baralacha La Pass -> Rohtang Pass** [65 kms via Keylong-Leh Rd/Leh Manali Hwy]
 3. **Rohtang Pass -> Manali** [55 kms via Keylong-Leh Rd/Leh Manali Hwy]
 		
-##  **Day 10**: 14 hours journey (570 kilometers between Manali to Ghaziabad) 
+##  [**Day 10**] 14 hours journey (570 kilometers between Manali to Ghaziabad) 
 1. **Manali -> Kullu** [40 kms via NH 3]
 2. **Kullu -> Mandi** [70 kms via NH 3]
 3. **Mandi -> Swarghat** [104 kms via NH 205/154]
