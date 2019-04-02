@@ -13,7 +13,7 @@
 ## **Day 2**: 6 hours journey of 140 kilometers between Manali to Jispa 
 1. **Manali -> Marhi** [33 kms]
 	* Altitude elevation from 6,400 to 10,800 ft 
-	* It is a steady climb but Good roads
+	* It is a steady climb but good road
 2. **Marhi -> Rohtang Pass** [18 kms]
 	* 13,060 ft and its is a steady climb
 3. **Rohtang -> Gramphu** [19 kms]
@@ -31,6 +31,8 @@
 	* Cross the Bhaga river over the bridge towards the right, take the right turn at the fork and the road again starts climbing
 7. **Tandi -> Keylong** [9 kms]
 	* Altitude at 10,100 ft but good road
+	* Keylong is the administrative center of the Lahaul and Spiti district in the Indian state of Himachal Pradesh
+	* Keylong faces the famous Kardang Monastery, the largest and most important monastery in Lahaul
 	* Can stay here or Jispa
 8. **Keylong -> Jispa** [22 kms]
 	* Altitude 10,860 ft, good road. Can stay here
@@ -47,7 +49,9 @@
 	* It is a steady descent and offroad
 5. **Bharatpur -> Sarchu** [38 kms and altitude at 14,100 ft]
 	* Himachal Pradesh state ends here. Ladakh region of Jammu and Kashmir state starts here. Mostly offroad
-	* Sarchu is a military base and has a police check post. Register at the police check post here 
+	* Sarchu is a military base and has a police check post. Register at the police check post here
+	* Sarchu is on the boundary between Himachal Pradesh and Ladakh, Jammu and Kashmir
+	* It is situated between Baralacha La (16,040 ft) to the south and Lachulung La 16,600 ft to the north, at an altitude of 14,070 ft
 6. **Sarchu -> Pang** [80 kms and altitude at 15,100 ft]
 	* Offroad climbing 500 m through the Gata loops (22 hairpin bends) at 13,750 ft elevation 
 	* Nakee La pass at 15,547 ft and Lachulung La pass at 16,616 ft
@@ -63,5 +67,46 @@
 	* Turn left at Upshi for Karu. Do not take the right turn that leads to the east towards Tibet. Good road
 10. **Karu -> Leh** [35 km and altitude at 11,483 ft]
 	* Continue on the highway towards Leh. Do not take the right turn just before Karu that leads to Shyok. Good road
-![](https://github.com/inbravo/travel/blob/master/june-2019/images/route-map.jpg)
+![](https://github.com/inbravo/travel/blob/master/june-2019/images/manali-to-leh.jpg)
+
+##  **Day 4**: rest, acclimatize and get innerline permit from Leh district office
+	* Leh local: leh palace, war memorial, shanti stupa, magnetic hill, gurudwara pathar sahib, market etc
 	
+##  **Day 5**: 8 hours journey of 200 kilometers between Leh to Turtuk
+1. **Leh -> Khardungla Pass** [35 kms and altitude at 17,582 ft]
+	* This pass is strategically important to India as it is used to carry supplies to the Siachen Glacier 
+2. **Khardungla Pass -> Khardungla ** [35 kms]
+	* Its a beautiful village, can eat here 
+3. **Khardungla -> Diskit Monastery ** [41 kms and altitude at 10,310 ft]
+	* Diskit Monastery is the oldest and largest Buddhist monastery in the Nubra Valley of Ladakh, northern India
+	* The monastery has a 32 meter statue of Maitreya Buddha facing down the Shyok River towards Pakistan
+4. **Diskit Monastery -> Hundar** [9 kms and altitude at 10,310 ft]
+	* Between Hundar and Diskit lie several kilometres of sand dunes, and (two-humped) bactrian camels graze in the neighboring forests
+5. **Hundar -> Changmar** [45 kms]
+	* The area of the Shayok river past Hundar, including the three villages of Changmar, Bogdan and Turtuk, were only opened to foreign tourists in 2010
+6. **Changmar -> Turtuk** [50 kms]
+	* Turtuk is the northernmost village of India, on the banks of the Shyok River
+	* It is the only Balti region under the Indian administration and was under Pakistan's control until 1971
+	* Turtuk is the last outpost of India at Thang after which Pakistan-controlled Gilgit-Baltistan begins
+	* Stay at Turtuk at night, its a less explored area in Ladakh region
+![](https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-turtuk.jpg)
+
+##  **Day 6**: 10 hours journey of 320 kilometers between Turtuk to Pangong Tso
+	* Start very early from Turtuk and arrive at Pangong Tso
+	* It has a 134 km long lake which extends from India to China
+	* Approximately 60% of the length of the lake lies in China. During winter the lake freezes completely
+	* Pangong Tso is in disputed territory. The Line of Actual Control passes through the lake
+
+##  **Day 7**: 6 hours journey of 223 kilometers between Pangong Tso to Leh
+	* Start very early from Pangong and arrive by noon at Leh
+	* Stay at Leh and take complete rest, to start riding back home
+![](https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-pangong-tso.jpg)
+	
+##  **Day 8**: 8 hours journey of 251 kilometers between Leh to Sarchu
+	* <>
+		
+##  **Day 9**: 8 hours journey of 275 kilometers between Sarchu to Manali
+	* <>
+		
+##  **Day 10**: 8 hours journey of 275 kilometers between Manali to Delhi
+	* <>
