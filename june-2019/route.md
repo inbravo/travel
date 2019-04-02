@@ -68,7 +68,7 @@
 10. **Karu -> Leh** [35 km and altitude at 11,483 ft]
 	* Continue on the highway towards Leh. Do not take the right turn just before Karu that leads to Shyok. Good road
 	
-![](https://github.com/inbravo/travel/blob/master/june-2019/images/manali-to-leh.jpg)
+<p align="center"><img src="/images/manali-to-leh.jpg" width="700"></p>
 
 ##  **Day 4**: rest, acclimatize and get innerline permit from Leh district office
 *	Leh local: leh palace, war memorial, shanti stupa, magnetic hill, gurudwara pathar sahib, market etc
@@ -90,8 +90,8 @@
 	* It is the only Balti region under the Indian administration and was under Pakistan's control until 1971
 	* Turtuk is the last outpost of India at Thang after which Pakistan-controlled Gilgit-Baltistan begins
 	* Stay at Turtuk at night, its a less explored area in Ladakh region
-	
-![](https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-turtuk.jpg)
+
+<p align="center"><img src="/images/leh-to-turtuk.jpg" width="700"></p>
 
 ##  **Day 6**: 10 hours journey of 320 kilometers between Turtuk to Pangong Tso
 * Start very early from Turtuk and arrive at Pangong Tso
@@ -103,8 +103,8 @@
 * Start very early from Pangong and arrive by noon at Leh
 * Stay at Leh and take complete rest, to start riding back home
 
-![](https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-pangong-tso.jpg)
-	
+<p align="center"><img src="/images/leh-to-pangong-tso.jpg" width="700"></p>
+
 ##  **Day 8**: 8 hours journey of 251 kilometers between Leh to Sarchu
 * <>
 		
