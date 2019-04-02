@@ -99,7 +99,7 @@
 * Approximately 60% of the length of the lake lies in China. During winter the lake freezes completely
 * Pangong Tso is in disputed territory. The Line of Actual Control passes through the lake
 
-##  [**Day 7**] 6 hours journey of 223 kilometers between Pangong Tso to Leh
+##  [**Day 7**] 6 hours journey (223 kilometers between Pangong Tso to Leh)
 * Start very early from Pangong and arrive by noon at Leh
 * Stay at Leh and take complete rest, to start riding back home
 
@@ -110,7 +110,7 @@
 2. **Tanglang La Pass -> Pang** [87 kms via Leh Manali Hwy]
 3. **Pang -> Sarchu** [75 kms via Leh Manali Hwy]
 		
-##  [**Day 9**] 8 hours journey of 230 kilometers between Sarchu to Manali
+##  [**Day 9**] 8 hours journey (230 kilometers between Sarchu to Manali)
 1. **Sarchu -> Baralacha La Pass (Keylong)** [105 kms via Keylong-Leh Rd/Leh Manali Hwy]
 2. **Baralacha La Pass -> Rohtang Pass** [65 kms via Keylong-Leh Rd/Leh Manali Hwy]
 3. **Rohtang Pass -> Manali** [55 kms via Keylong-Leh Rd/Leh Manali Hwy]
