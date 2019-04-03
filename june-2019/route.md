@@ -126,9 +126,3 @@
 8. **Karnal -> Panipat** [73 kms via NH 44]
 9. **Panipat -> Sonipat** [53 kms via NH 44]
 10. **Sonipat -> Ghaziabad** [70 kms via Eastern Peripheral]
-
-
-### References
-* [Leh Manali Highway](https://en.wikipedia.org/wiki/Leh%E2%80%93Manali_Highway)
-* [Ladakh Planner by DK Pundit-9958068681](dk-pandit-guidance.md)
-* [DevilsonWheels.com](http://devilonwheels.com/traveling-to-ladakh-top-12-myths)

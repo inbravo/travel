@@ -8,7 +8,7 @@
 
 ---
 
-## 
+## Our Ladakh journey will start on June 1, 2019, and that includes following high level plan
 * Route: Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad 
 * Permits
 	* Rohtang pass requires a permit, which can be obtained [online](https://rohtangpermits.nic.in)
@@ -23,4 +23,9 @@
 	
 ## DON'T
 * Prepaid connections don't work in J&K
-* Avoid crossing MANALI-ROHTANG-KOKSAR on Tuesday, its closed for maintenance
+* Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
+
+### References
+* [Ladakh Planner by DK Pundit-9958068681](dk-pandit-guidance.md)
+* [DevilsonWheels.com](http://devilonwheels.com)
+* [Leh Manali Highway](https://en.wikipedia.org/wiki/Leh%E2%80%93Manali_Highway)
