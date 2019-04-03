@@ -13,6 +13,4 @@
 ##  Permits
 ##  Stay
 ##  Items carried
-##   
-
 
