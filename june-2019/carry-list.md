@@ -1,20 +1,20 @@
 ## Clothes (this list is suitable for 10 day ride in month of June)
 * Upper
- * Tracking grade inner thermals
- * Polyester t-shirts full arm
- * Fleeces or any other warm sweater
- * Poncho/rain jacket
- * Warm cap and cotton hat
- * Muff1ler
- * Gloves for normal usage
- * 2 Bandannas or balaclava
+	* Tracking grade inner thermals
+	* Polyester t-shirts full arm
+	* Fleeces or any other warm sweater
+	* Poncho/rain jacket
+	* Warm cap and cotton hat
+	* Muff1ler
+	* Gloves for normal usage
+	* 2 Bandannas or balaclava
 * Lower
- * Tracking grade inner thermals
- * Riding pant and tracking pant
- * Polyester lower for sleeping
- * Inner thermals
- * Gum boots and tracking shoes
- * Socks
+	* Tracking grade inner thermals
+	* Riding pant and tracking pant
+	* Polyester lower for sleeping
+	* Inner thermals
+	* Gum boots and tracking shoes
+	* Socks
 
 ##  Carry items for a motorcycle rider
 * Spark plug
