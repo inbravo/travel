@@ -5,7 +5,7 @@
 	* Fleeces or any other warm sweater
 	* Poncho/rain jacket
 	* Warm cap and cotton hat
-	* Muff1ler
+	* Muffler
 	* Gloves for normal usage
 	* 2 Bandannas or balaclava
 * Lower

@@ -3,8 +3,8 @@
 | Summary | This is the story of my motorcycle ride to highest moterable point, Khardungla and visit Turtuk, India during June, 2019.|
 | Total Distance | ~2500 kilometers |
 | Course | Ghaziabad to Khardungla and Turtuk, Balti Region J&K India |
-| Route Map | [Turtuk Route](route.md)|
-| Items carry list | [Riding Carry List](carry-list.md)|
+| Route Map | [Turtuk](route.md)|
+| Carried items | [List](carry-list.md)|
 
 ---
 
