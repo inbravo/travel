@@ -243,15 +243,15 @@ ANY BIKE OF 150CC OR ABOVE IS BEST FOR THE LADAKH RIDE. DO NOT THINK TWICE ON TH
 SAACH PASS & LAHAUL SPITI -
 {BASED ON RIDE DONE IN FIRST WEEK OF SEPTEMBER}
 
-DAY 1: DELHI TO DALHOUSIE ROAD: 500 KM ( The roads are in good condition four lane roads, Lots of staying option available. We stayed in a temple crossing Pathankot on the Krishna Jayanti day with lungar food )
-DAY 2: DALHOUSIE ROAD TO BAIRARGARH ( 150 KM) single lane roads are in good condition with sharp curves, Petrol to be filled before bairargarh and carry some extra fuel too.Few water falls before bairargarh, You can take shower if u have enough time for the day.From Bairargarh Off road starts and u will enter no network zone BSNL works at some place. Roads will be uphill with big boulders, Knife like stones.
+* DAY 1: DELHI TO DALHOUSIE ROAD: 500 KM ( The roads are in good condition four lane roads, Lots of staying option available. We stayed in a temple crossing Pathankot on the Krishna * Jayanti day with lungar food )
+* DAY 2: DALHOUSIE ROAD TO BAIRARGARH ( 150 KM) single lane roads are in good condition with sharp curves, Petrol to be filled before bairargarh and carry some extra fuel too.Few water falls before bairargarh, You can take shower if u have enough time for the day.From Bairargarh Off road starts and u will enter no network zone BSNL works at some place. Roads will be uphill with big boulders, Knife like stones.
 Staying option and food available at Shathrundi check post ( 100 per head for bed)
-Day 3: Sathrundi to TINDI ( 101 KM) Forest guest house available, We camped since the rooms were booked .Try covering till Udaipur (123km) for the day. Have lot of staying options.Bairargarh to Udaipur 140 km compete off road some water crossings, Boulder roads and of course good scenery
-DAY 4: TINDI TO SHATHRU OR BATAL – Roads are good from Udaipur onwards till koksar. Grampoo to Batal off roads with water crossings
-DAY 5: SHATHRU TO CHANDERTAAL TO LOSAR: off road track, Not bad as sach pass roads LOSAR TO KAZA – good roads
-DAY 6: KAZA TO MUDH (PIN VALLEY) good tarred roads , PIN VALLEY to TABO ( Little off roading)
-DAY 7: SUMDO TO RAMPUR ( Varying road condtions But the roads are better than earlier. Around 30 kms off road u can experience
-DAY 8: RAMPUR TO DELHI : GOOD ROADS
+* Day 3: Sathrundi to TINDI ( 101 KM) Forest guest house available, We camped since the rooms were booked .Try covering till Udaipur (123km) for the day. Have lot of staying options.Bairargarh to Udaipur 140 km compete off road some water crossings, Boulder roads and of course good scenery
+* DAY 4: TINDI TO SHATHRU OR BATAL – Roads are good from Udaipur onwards till koksar. Grampoo to Batal off roads with water crossings
+* DAY 5: SHATHRU TO CHANDERTAAL TO LOSAR: off road track, Not bad as sach pass roads LOSAR TO KAZA – good roads
+* DAY 6: KAZA TO MUDH (PIN VALLEY) good tarred roads , PIN VALLEY to TABO ( Little off roading)
+* DAY 7: SUMDO TO RAMPUR ( Varying road condtions But the roads are better than earlier. Around 30 kms off road u can experience
+* DAY 8: RAMPUR TO DELHI : GOOD ROADS
 Ride safe. Cheers.
 The places are less connected with basic amenities. Light, Mobile network, Bike mechanic, Spares, Food too. Be prepared.
 --------------------------------------------------------------------------------------------
@@ -276,11 +276,11 @@ MANALI-ROHTANG-KOKSAR road remains closed on every TUESDAY during working hours 
 • If riding in group, change the position of every rider as often as possible so that you can have a fair idea of every rider.
 • Once you have entered J & K, the prepaid connections won’t work at all and even the post paid signals would be found quite weak or at places complete nil so need to stay as close as possible in the ride in J & K and Ladakh region.
 • Try to start your ride by early hours, be it solo or in groups. As in groups, it is very difficult to keep them focused once you have entered Leh. Quite often the ego problem, or attitude issues of difference of opinion of destination occurs and soon you might find 2 or 3 groups with different opinions within the whole group. Result: By the end of the ride, you might be riding alone or in a small group of 2 or three riders each.
-• It is advisable to become a part of an organised group if you are not quite sure of going solo or in small groups. It is always better to complete the big ride since the organiser groups have lot of experience and are always there to help you. They are just like an institution giving degree to its students. They may charge a little more than your expected budget but better be a successful finisher than being a drop out. While riding with organised groups, they keep a tight schedule of each day and try to start at the scheduled time.
+• It is advisable to become a part of an organized group if you are not quite sure of going solo or in small groups. It is always better to complete the big ride since the organiser groups have lot of experience and are always there to help you. They are just like an institution giving degree to its students. They may charge a little more than your expected budget but better be a successful finisher than being a drop out. While riding with organized groups, they keep a tight schedule of each day and try to start at the scheduled time.
 • Stop for at least 10 minutes after every 150 to 200kms to cool down your engine as well as the tyres.
 • If opting for Srinagar route, follow the road signs closely once you have entered Punjab as most of them are in Gurmukhi.
 • Only on day one, whether on Delhi Srinagar route or on Delhi Manali route you can cover over 600 kms in one day. From day 2 you would be riding for around 250 kms max for each day and your average speed of the day would go down to around 35 kms – 40 kms. This is considered good speed in high terrains of ladakh.
-• If you have opted Manali route top up the fuel tank the night before as the real test of your riding skill starts from day 2. Start at 4.00 a.m. so that you don’t encounter too much traffic upto Rohtang or upto Marhi. Do check the Map you are carrying as often as possible during the ride now for the next 10 days of your ride minimum.
+• If you have opted Manali route top up the fuel tank the night before as the real test of your riding skill starts from day 2. Start at 4.00 a.m. so that you don’t encounter too much traffic up to Rohtang or up to Marhi. Do check the Map you are carrying as often as possible during the ride now for the next 10 days of your ride minimum.
 • When going uphill, change into proper gear before every turn so that you need not change the gear. While taking a left turn since you are bound to take a sharp upward turn to keep yourself in the left side of the road, that is the most crucial moment. Just keep a close watch on the traffic come from the opposite side and if you have a good chance, then take a complete turn and you might have to move towards the extreme right side of the road before coming back to the left side. While riding at single lane road, always try to be away from the cliff.
 • While riding through the slush, do not accelerate too much since you might damage your clutch assembly. Just be cool and ask your co riders to push the bike out of the slush. Same is the case while crossing huge water streams. Do not change gears when you are inside the thick of the stream. Move at a constant speed and at low gear while crossing the streams. If got stuck, take the help of the co-riders to push the bike out of the stream. Your shoes and socks might get wet but your bike and luggage would be safe. Remove the socks when you have crossed the stream and change them with a new dry pair of socks. Must carry a bunch of safety pins. Squeeze the extra water from the socks and pin them up with the luggage properly. They would dry within next 30 minutes of your onward ride.
 • If carrying own 2-T tent, try to avoid its use enroute Manali Leh highway as it would be extremely cold at night. Better take rest in the make-shift restaurants with sleeping beds. It is quite cheap.
@@ -342,12 +342,12 @@ WINTER CHADAR TREK & WINTER DRIVE TO PANGONG/K.TOP
 FEW SUGGESTIONS FOR CHADAR TREK -
 WINTER IN LADAKH
 
-IMPORTANT NOTE: All trekkers for chadar will now have to get themselves medically examined at SNM Hospital Leh between 2-3 p.m. on second day of their arrival in leh. This medical examination shall be made mandatory from 2019 Chadar trek seson in its absence no trekker will be able to cross chilling check post.
+IMPORTANT NOTE: All trekkers for chadar will now have to get themselves medically examined at SNM Hospital Leh between 2-3 p.m. on second day of their arrival in leh. This medical examination shall be made mandatory from 2019 Chadar trek season in its absence no trekker will be able to cross chilling check post.
 
 BEST TIME : 7th January to 7th February
 AIR FARE DELHI-LEH-LED : Approx 6000-7000 if booked well in time Must dress adequately before alighting from plane in leh.
 
-MOBILE BATTERY : Doesn't drain fast if kept in inside pockets of jacket or sleepingbag at night. But do carry Power Bank of 10,000+ mh and keep them inside pocket of jackets. Handling of DSLRs is a tricky affair as one slip on ice or from cliff hanger can damage it.
+MOBILE BATTERY : Doesn't drain fast if kept in inside pockets of jacket or sleeping bag at night. But do carry Power Bank of 10,000+ mh and keep them inside pocket of jackets. Handling of DSLRs is a tricky affair as one slip on ice or from cliff hanger can damage it.
 INTERNET/MOBILE NETWORK : No network at all once you enter the trek region beyond Nimmu i.e. the confluence of Indus and Zanskar River.
 
 1. Budget : Rs. 17500/- onwards depending on which group you have opted for. Excluding air fare. Keep extra cash and debit card for incidental expenses.
