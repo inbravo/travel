@@ -26,6 +26,6 @@
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
 
 ### References
-* [Ladakh Planner by DK Pundit from Ladakh Return forum on facebook](dk-pandit-guidance.md)
+* [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](dk-pandit-guidance.md)
 * [Dheeraj Sharma from devilsonwheels.com](http://devilonwheels.com)
 * [Wiki](https://en.wikipedia.org/wiki/Leh%E2%80%93Manali_Highway)
