@@ -5,11 +5,12 @@
 
 ---
 
-## Following is the complete ride plan
+## Route stay, food and motorcycle maintenance facility
 * Route: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
 * [A riders list of items to carry](carry-list.md)
 * Stay: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
-* Food: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang, Jispa
+* Food: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang
+* Mechanic:
 
 ## Permits
 * Rohtang pass requires a permit, which can be obtained [online](https://rohtangpermits.nic.in)
@@ -24,11 +25,11 @@
 	* Validity of the inner line permit, is 1 week for Indians and 1 week for foreigners
 	* You need to mention all places enroute so that you are not sent back from any post
 		
-## Key things to remember
+## Remember
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
-* Heavy rains during July to August. Plan accordingly
-* Stay prepared for Acute Mountain Sickness (AMS), its symptoms are headache, dizziness, fever or vomiting
+* Heavy rains during July to August
+* Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting
 
 ### References
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](dk-pandit-guidance.md)
