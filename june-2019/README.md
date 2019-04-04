@@ -1,16 +1,16 @@
 | | “I believe in one religion, I believe in Traveling!”|
 | :--- | :--- |
-| Summary | This is the travel plan to Khardungla and Turtuk, Ladakh, J&K India during June, 2019|
+| Summary | This is my ride plan to Khardungla and Turtuk, Ladakh, J&K India during June, 2019|
 | Total Distance | ~2500 kilometers |
 
 ---
 
-## Route stay, food and motorcycle maintenance facility
+## Essentials
 * Route: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
-* [A riders list of items to carry](carry-list.md)
 * Stay: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
 * Food: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang
-* Mechanic:
+* Mechanic: Manali, Leh
+* A motorcycle riders [list of items](carry-list.md) to carry
 
 ## Permits
 * Rohtang pass requires a permit, which can be obtained [online](https://rohtangpermits.nic.in)
