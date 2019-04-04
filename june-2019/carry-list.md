@@ -16,6 +16,7 @@
 	* Socks
 
 ## Carry items for a motorcycle rider
+* Small knife
 * Spark plug
 * Clutch lever and wire
 * Accelerator wire 
@@ -24,11 +25,10 @@
 * Chain lubricant and chain locks
 * M.Seal and duct tape
 * Plastic sheets to cover the baggage and also to cover you in case of intermittent rains
-* Puncture kit and tyre inflater
+* Puncture kit, air pump/tyre inflater
 * Torch, match box or lighter
 * Fuel pipe to transfer fuel from other bikes
 * Bungee cords to hold the bags
-* Air pump
 * Small stool, can be used to sit anywhere
 * Spanner, plier and key set, specially to open your tyres in case of puncture
 * Electric wire 2 meter, in case of any electrical failure
@@ -38,9 +38,7 @@
 * Riding jacket and pant
 * Riding gloves
 * Leg and arm protector
-* Helmet
-* Sunglass
-* Knife
+* Helmet and Sunglass
 
 ## Hygiene
 * Sleeping bag and small tent, in case of rain/dirty bed lining
@@ -56,7 +54,14 @@
 * Cloves/Elaichi, very effective in taste change
 * Chew gum and toffees
 
+## Toiletries
+* Sunscreen and lipbam
+* Deodorant and shaving kit (razor/shave gel/brush/mirror)
+* Tooth paste and brush
+* Shampoo pouches
+* Bath and hand towels
+* Hand sanitizer and soap
+	
 ## Eatables
 * Ready to eat food items
 * Dry fruits 
-* 
