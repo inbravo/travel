@@ -5,7 +5,7 @@
 
 ---
 
-## Following is complete the ride plan
+## Following is the complete ride plan
 * Route: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
 * [A riders list of items to carry](carry-list.md)
 * Stay: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
