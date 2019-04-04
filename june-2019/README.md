@@ -5,14 +5,14 @@
 
 ---
 
-## Essentials
-* Route: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
-* Stay: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
-* Food: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang
-* Mechanic: Manali, Leh
-* A motorcycle riders [list of items](carry-list.md) to carry
+## **Essentials**
+* **Route**: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
+* **Stay**: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
+* **Food**: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang
+* **Mechanic**: Manali, Leh
+* A motorcycle riders [**list of items**](carry-list.md) to carry
 
-## Permits
+## **Permits**
 * Rohtang pass requires a permit, which can be obtained [online](https://rohtangpermits.nic.in)
 	* Permit can be obtained two days in advance
 * Leh inner line permit to visit further in Ladakh region, which can be obtained [online](http://www.lahdclehpermit.in)
@@ -25,13 +25,13 @@
 	* Validity of the inner line permit, is 1 week for Indians and 1 week for foreigners
 	* You need to mention all places enroute so that you are not sent back from any post
 		
-## Remember
+## **Remember**
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
 * Heavy rains during July to August
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting
 
-### References
+### **References**
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](dk-pandit-guidance.md)
 * [Dheeraj Sharma from devilsonwheels.com](http://devilonwheels.com)
 * [Wikipedia](https://en.wikipedia.org/wiki/Leh%E2%80%93Manali_Highway)
