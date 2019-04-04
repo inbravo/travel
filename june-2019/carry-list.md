@@ -24,7 +24,7 @@
 * Chain lubricant and chain locks
 * M.Seal and duct tape
 * Plastic sheets to cover the baggage and also to cover you in case of intermittent rains
-* Puncture kit or tyre inflater
+* Puncture kit and tyre inflater
 * Torch, match box or lighter
 * Fuel pipe to transfer fuel from other bikes
 * Bungee cords to hold the bags
@@ -46,17 +46,17 @@
 * Sleeping bag and small tent, in case of rain/dirty bed lining
 * Personal water filter and water bottles
 * Spoon and mug
-* Small lunch box
+* Lunch box
 
-## Medicines
-* Electrol
+## Medicines and fresheners
+* Electral (oral rehydration salt:ORS) pouches
 * Cold/Cough related medicines
-* Indigestion drops
-* Throat relief tablets
+* Indigestion related medicines
 * Quarter of dark rum, only if your believe in medicine power of alcohol
-* Cloves/Elaichi
+* Cloves/Elaichi, very effective in taste change
 * Chew gum and toffees
 
 ## Eatables
 * Ready to eat food items
 * Dry fruits 
+* 
