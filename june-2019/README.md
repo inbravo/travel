@@ -1,16 +1,15 @@
-| | “People don’t take trips – trips take people.” – John Steinbeck|
+| | “I believe in one religion, I believe in Traveling!”|
 | :--- | :--- |
-| Summary | This is the story of my motorcycle ride to highest moterable point, Khardungla and visit Turtuk, India during June, 2019.|
+| Summary | This is the travel plan to Khardungla and Turtuk, Ladakh, J&K India during June, 2019|
 | Total Distance | ~2500 kilometers |
-| Course | Ghaziabad to Khardungla and Turtuk, Balti Region J&K India |
 
 ---
 
-## Following is our Ladakh ride plan
+## Following is complete the ride plan
 * Route: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
 * [A riders list of items to carry](carry-list.md)
 * Stay: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
-* Food: 
+* Food: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang, Jispa
 
 ## Permits
 * Rohtang pass requires a permit, which can be obtained [online](https://rohtangpermits.nic.in)
