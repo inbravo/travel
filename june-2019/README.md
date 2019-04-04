@@ -16,7 +16,9 @@
 * Rohtang pass requires a permit, which can be obtained [online](https://rohtangpermits.nic.in)
 	* Permit can be obtained two days in advance
 * Leh inner line permit to visit further in Ladakh region, which can be obtained [online](http://www.lahdclehpermit.in)
-	* Leh DC office (near polo ground) provides permits between 9-5 PM but accepts applications for permit up to 3PM only
+	* Leh DC office (near polo ground) provides permits between 9-5PM
+	* J&K Tourist Information Center (near Car Parking) also provides permits between 9-5PM
+	* Inner line permit applications are accepted up to 3PM only
 	* Pay The inner line permit cost as mentioned in the form
 	* Self attested photocopies of identity, is necessary
 	* Besides permit application form, you need to write an application addressing Leh DC
