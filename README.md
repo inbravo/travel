@@ -7,9 +7,9 @@
 -	[Tehri Dam, Uttarakhand, India](september-2017/tehri-dam.md)
 -	[Dhanaulti, Uttarakhand, India](october-2017/dhanaulti.md)
 -	[Tiger Fall, Chakrata, Uttarakhand, India](march-2018/chakrata.md)
+-	[Shivpuri, Rishikesh, Uttarakhand, India](may-2018/shivpuri.md)✗
 -	[Laddakh, J&K, India](september-2018/laddakh.md)
 -	[Yamunotri, Uttarakhand, India](october-2018/yamunotri.md)
--	[Shivpuri, Rishikesh, Uttarakhand, India](may-2018/shivpuri.md)✗
 -	[Kedarkantha, Uttarakhand, India](january-2019/kedarkantha.md)✗
 -	[Vashishth Gufa, Rishikesh, Uttarakhand, India](february-2019/vashisth-gufa.md)✗
 -	[Turtuk, J&K, India](june-2019/README.md)✗
