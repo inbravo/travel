@@ -12,7 +12,7 @@
 * Permits
 	* Rohtang pass requires a permit, which can be obtained [online](https://rohtangpermits.nic.in)
 	* Leh inner line permit to visit further in Ladakh region, which can be obtained [online](http://www.lahdclehpermit.in)
-* Stay:
+* Stay
 	* Manali:
 	* Keylong:
 	* Leh:
@@ -20,9 +20,11 @@
 	* Pangong:
 	* Sarchu:
 	
-## DON'T
+## Key things to remember
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
+* Heavy rains during July to August. Please accordingly
+* Stay prepared in case of any sign of headache, dizziness, fever and vomiting. It is owing to acute mountain sickness (AMS)
 
 ### References
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](dk-pandit-guidance.md)
