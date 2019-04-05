@@ -10,7 +10,7 @@
 * **Stay**: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
 * **Food**: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang
 * **Mechanic**: Manali, Leh
-* A motorcycle riders [**list of items**](carry-list.md) to carry
+* A motorcycle riders [list of items](carry-list.md) to carry
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
@@ -32,6 +32,7 @@
 * Early start is best to avoid any traffic
 * Try to avoid a pillion rider on this ride
 * Heavy rains during July to August. Plan accordingly
+* Stay friendly with everyone, you encounter on your ride
 * Take small pauses every 150kms to cool down your machine
 * Honk on every turn and never drive in wrong lane, on hills
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
@@ -43,7 +44,6 @@
 * Daily morning checks: engine/gear oil, engine oil bolt, fuel, shocker oil leakage
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
-* 
 
 ### **References**
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](dk-pandit-guidance.md)
