@@ -1,9 +1,9 @@
-| “The most beautiful place is the One I’ve Never Been To" |
+| "Adventure Without Risk Is Disneyland!" |
 | :--- |
-| ![](https://github.com/inbravo/travel/blob/master/january-2019/images/route-map.jpg)|
+| This is the story of tracking trip to Kedarkantha, Uttarakhand in India, during January, 2019 |
+| Stayed at home stay in Sankari village | 
 
 ---
 
-##  4:10 AM Ghaziabad
+##  <>
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_084635.jpg)

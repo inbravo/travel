@@ -1,5 +1,6 @@
 |  "Travel makes one modest. You see what a tiny place you occupy in the world" - Gustav Flaubert |
 | :--- |
+| This is the story of my motorcycle ride to India Gate. Delhi, India during August, 2017 |
 | ![](https://github.com/inbravo/travel/blob/master/august-2017/images/route-map.jpg)|
 
 ---
