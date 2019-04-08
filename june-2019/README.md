@@ -26,17 +26,18 @@
 	* You need to mention all places enroute so that you are not sent back from any post
 		
 ## **Remember**
-* Always pack baggage before sleeping
 * Try to avoid a pillion on this ride
+* Always pack baggage before sleeping
+* Early start is best to avoid any traffic
 * Carry only the most essential luggage
 * Control your ego while riding in groups
-* Early start is best to avoid any traffic
+* Take small pauses every 150kms to cool down
 * Stay friendly with everyone, you encounter while riding
+* Water and food is the key to health, drink and eat wisely
 * Honk on every turn and never drive in wrong lane, on hills
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
 * Fill up your tanks every night, to avoid any delay in morning 
 * Do not ride in the outer most lane, its where the animal roams
-* Take small pauses every 150kms to cool down you and your machine
 * Avoid any bravery while crossing the water streams (nala), take help
 * Fog light at fronts and reflecting tapes at the back, best is hazard light
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
