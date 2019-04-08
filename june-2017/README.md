@@ -1,6 +1,7 @@
-|  "Take only memories, leave only footprints” – Chief Seattle |
+|  "Take only memories, leave only footprints" – Chief Seattle |
 | :---  |
-| Route Map ![](https://github.com/inbravo/travel/blob/master/august-2017/images/route-map.jpg)|
+| This is the story of my motorcycle ride to India Gate. Delhi, India during June, 2017 |
+| ![](https://github.com/inbravo/travel/blob/master/august-2017/images/route-map.jpg)|
 
 ---
 

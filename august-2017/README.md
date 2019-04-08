@@ -1,6 +1,6 @@
-|  “ Travel makes one modest. You see what a tiny place you occupy in the world” - Gustav Flaubert |
+|  "Travel makes one modest. You see what a tiny place you occupy in the world" - Gustav Flaubert |
 | :--- |
-| Route Map ![](https://github.com/inbravo/travel/blob/master/august-2017/images/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/blob/master/august-2017/images/route-map.jpg)|
 
 ---
 

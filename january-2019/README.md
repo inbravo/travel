@@ -1,6 +1,6 @@
-| | “The most beautiful place is the One I’ve Never Been To" |
+| “The most beautiful place is the One I’ve Never Been To" |
 | :--- |
-| Route Map ![](https://github.com/inbravo/travel/blob/master/january-2019/images/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/blob/master/january-2019/images/route-map.jpg)|
 
 ---
 

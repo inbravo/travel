@@ -1,5 +1,7 @@
+| "I am not running 'from', i am running 'To'" |
 | :--- |
-| Route Map ![](https://github.com/inbravo/travel/blob/master/july-2017/images/route-map.jpg)|
+| This is the story of my motorcycle ride to Shivpuri, Rishikesh, Uttarakhand in India, during May, 2018 |
+| ![](https://github.com/inbravo/travel/blob/master/july-2017/images/route-map.jpg)|
 
 ---
 

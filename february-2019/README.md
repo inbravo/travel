@@ -1,6 +1,6 @@
-| “People don’t take trips – trips take people.” – John Steinbeck|
+| "People don’t take trips – trips take people." – John Steinbeck|
 | :--- |
-| Route Map ![](https://github.com/inbravo/travel/blob/master/january-2019/images/k/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/blob/master/january-2019/images/k/route-map.jpg)|
 
 ---
 

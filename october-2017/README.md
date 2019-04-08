@@ -1,11 +1,7 @@
-| | “Bizarre travel plans are dancing lessons from God.” – Kurt Vonnegut |
-| :--- | :--- |
-| Summary | This is the story of my solo motercycle ride to Dhanaulti, Uttarakhand in India, during October, 2017. Best part of this journey was, that i tracked 627 kilometers in 18 hours only, in a single day.|
-| Total Distance | ~620 kilometers |
-| Course | Ghaziabad to Dhanaulti, Uttarakhand |
-| Transport | Enfleid Electra |
-| Stay | NA |
-| Route Map |![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/route-map.jpg)|
+| "Bizarre travel plans are dancing lessons from God" – Kurt Vonnegut |
+| :--- |
+| This is the story of my solo motorcycle ride to Dhanaulti, Uttarakhand in India, during October, 2017. Best part of this journey was, that i tracked 627 kilometers in 18 hours only, in a single day|
+| ![](https://github.com/inbravo/travel/blob/master/october-2017/images/route-map.jpg)|
 
 ---
 
@@ -21,7 +17,7 @@
 ##  4:30 AM Modinagar
 *	State of solace arrives; internal dialogue between mind and heart is started to culminate
 *	Feeling powerful again; feeling unattached to any man made classification, I am just a nomadic rider now
-*	All myriad thoughts about reactions, judgements, hates and regrets are passing through my head
+*	All myriad thoughts about reactions, judgments, hates and regrets are passing through my head
 *	Adios all my fears, adios all my worries, I am living in the moment! 
 *	Not able to see any  long distance rider, which I usually encounter on this route, I throttled to ~70 kmps
 
@@ -33,12 +29,12 @@
 *	Bypassing the famous city of Uttar Pradesh, India. Famous for its sugar and jaggery 
 *	Muzzarnagar is famous for its sugar cane farming. Greenery around is so peaceful in morning time
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_062100.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_062100.jpg)
 
 *	And the first encounter with notorious fog!
 *	Trying to stay behind a truck but it’s risky for a motorcycle. When not able to move completely, i stopped and took some pictures of infamous north Indian fog
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_064853.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_064853.jpg)
 
 ##  6:50 AM Roorkee
 *	Roorkee has a large army base with headquarters for 'Bengal Engineer Group' (BEG), also known as Bengal Sappers
@@ -64,7 +60,7 @@
 *	Arrived at **Daat Kali tunnel** and famous temple. As usual a jam is in my sight. I ignored the rules and try to skip some traffic by riding wrong side
 *	I was able to leave the tunnel behind comparatively quick and throttled towards Dehradun
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_084248.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_084248.jpg)
 
 ##  9:30 AM Dehradun
 *	Arrived in capital of Uttarakhand, it’s a typical city, with traffic and encroachment
@@ -72,8 +68,8 @@
 *	I am heading towards Mussoorie and finding that the road to Mussoorie is more commercialized now
 *	Exactly before the hill town, took a pause of few minutes
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100555.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_100702.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_100555.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_100702.jpg)
 
 ##  10:30 AM Mussoorie
 *	Mussoorie seems so busy now, I thought of my earlier visits to this beautiful city and realized the changes
@@ -82,52 +78,52 @@
 *	I found that road is under construction and with some minor halts here and there, i was peacefully riding uphill 
 *	The more I drove, the more peaceful and lonely it became. Finally i halted at a turn to rest and captured some beautiful moments
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_103532.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105521.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105526.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105542.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105820.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105838.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105852.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_110912.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_110929.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_110952.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_111445.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_111455.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_111458.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112603.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114425.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114702.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_114705.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_103532.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_105521.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_105526.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_105542.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_105820.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_105838.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_105852.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_110912.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_110929.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_110952.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_111445.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_111455.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_111458.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_112603.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_114425.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_114702.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_114705.jpg)
 
 ##  12:00 PM Dhanaulti
 *	Arrived in this beautiful village. It is a small heaven, far better than highly commercialized Mussoorie
 *	On my right is the famous Dhanaulti Eco Park, stopped for some photos there. Some more riders also resting here
 *	The usual noodle (maggi) & tea stalls everywhere on the roadsides. Restarted again for my next stop Kanatal which is the next village
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_115910.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112613.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_112619.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113447.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_113517.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_115910.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_112613.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_112619.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_113447.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_113517.jpg)
 
 ##  12:30 PM Surkanda Devi
 *	[Surkanda Devi](https://en.wikipedia.org/wiki/Surkanda_Devi) is a famous temple on the top of hill
 *	The journey to the temple requires you to trek for two kilometers which is quite steep
 *	After few minutes of stoppage, i headed towards Kanatal
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122126.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122135.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121036.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_121045.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_122126.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_122135.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_121036.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_121045.jpg)
 
 ##  1:00 PM Kanatal
 *	Arrived in Kanatal, which is more scenic and peaceful. It has a famous Mahindra Holiday Home
 *	After a pause of few minutes, i restarted again towards Chamba, passing several holiday homes in my route
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_122423.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124805.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_124810.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_122423.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_124805.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_124810.jpg)
 
 ##  1:30 PM Chamba
 *	Arrived in Chamba, the long drive has left me hungry
@@ -137,8 +133,8 @@
 * 	Scrounged good enough but limited to avoid any fatigue. Chamba is also the nearest town of famous Tehri Dam, which is only few kilometers away from here
 *	After few minutes of rest, i restarted again towards Rishikesh
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_132354.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_134921.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_132354.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_134921.jpg)
 
 ##  2:15 PM Fakot
 *	Took a halt of few minutes in this small village
@@ -149,8 +145,8 @@
 *	Filled my belly and my water bottle with rich mineral water, with a thankful glance at my stallion, i gave the famous mild half kick to it
 *	Thump of Enfield is aloud in hills, the famous dug dug sound makes people curious, school kids waving and receiving the joy back
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_144619.jpg)
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_151055.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_144619.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_151055.jpg)
 
 ##  4:15 PM Narendra Nagar
 *	Arrived in Narendra Nagar, thinking to stop here, but finally throttled towards Rishikesh
@@ -203,4 +199,4 @@
 *	Arrived at home. Ate beans and rice, before jumping on bed and lay like dead!
 *	I finished my journey! there are going to be more such stories in future, but every story is going to make me a better Man!
 
-![](https://github.com/inbravo/travel/blob/master/october-2017/images/t/IMG_20171014_105657.jpg)
+![](https://github.com/inbravo/travel/blob/master/october-2017/images/IMG_20171014_105657.jpg)
