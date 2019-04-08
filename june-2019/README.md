@@ -1,7 +1,7 @@
-| | “I believe in one religion, I believe in Traveling!”|
-| :--- | :--- |
-| Summary | This is my motorcycle riding plan to Khardungla and Turtuk, Ladakh, J&K India during June, 2019|
-| Total Distance | ~2500 kilometers |
+| “I believe in one religion, I believe in Traveling!”|
+| :--- |
+| This is my motorcycle riding plan to Khardungla and Turtuk, Ladakh, J&K India during June, 2019|
+| Total Distance:  ~2500 kilometers |
 
 ---
 
@@ -27,20 +27,20 @@
 		
 ## **Remember**
 * Always pack baggage before sleeping
+* Try to avoid a pillion on this ride
 * Carry only the most essential luggage
 * Control your ego while riding in groups
 * Early start is best to avoid any traffic
-* Try to avoid a pillion rider on this ride
-* Heavy rains during July to August. Plan accordingly
-* Stay friendly with everyone, you encounter on your ride
-* Take small pauses every 150kms to cool down your machine
+* Stay friendly with everyone, you encounter while riding
 * Honk on every turn and never drive in wrong lane, on hills
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
 * Fill up your tanks every night, to avoid any delay in morning 
 * Do not ride in the outer most lane, its where the animal roams
-* Avoid any bravery while crossing the streams, take help from others
+* Take small pauses every 150kms to cool down you and your machine
+* Avoid any bravery while crossing the water streams (nala), take help
 * Fog light at fronts and reflecting tapes at the back, best is hazard light
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
+* Keep all necessary documents at an easily traceable place e.g. tank bag etc
 * Daily morning checks: engine/gear oil, engine oil bolt, fuel, shocker oil leakage
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
