@@ -28,8 +28,8 @@
 ## **Remember**
 * Try to avoid a pillion on this ride
 * Always pack baggage before sleeping
-* Early start is best to avoid any traffic
 * Carry only the most essential luggage
+* Early start is best to avoid any traffic
 * Control your ego while riding in groups
 * Take small pauses every 150kms to cool down
 * Stay friendly with everyone, you encounter while riding
