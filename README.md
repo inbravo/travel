@@ -2,7 +2,7 @@
 
 -	[India Gate, Delhi, India](august-2017/README.md)
 -	[Humayun Tomb, Delhi, India](june-2017/README.md)
--	[Aravalli, Faridabad, India](july-2017/README.md)
+-	[Aravalli, Faridabad, India](may-2017/README.md)
 -	[Lansdowne, Uttarakhand, India](july-2017/README.md)
 -	[Tehri Dam, Uttarakhand, India](september-2017/README.md)
 -	[Dhanaulti, Uttarakhand, India](october-2017/README.md)

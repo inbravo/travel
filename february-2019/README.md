@@ -1,11 +1,6 @@
-| | “People don’t take trips – trips take people.” – John Steinbeck|
-| :--- | :--- |
-| Summary | This is the story of my tracking to mount 'Kedarkantha' in Uttarakhand, India during January, 2019.|
-| Total Distance | ~600 kilometers |
-| Course | Ghaziabad to Kedarkantha Uttarakhand India |
-| Transport | Train,jJeep and tracking |
-| Stay | [Himalyan home stay Sankri](http://www.madhubanashram.org)|
-| Route Map |![](https://github.com/inbravo/travel/blob/master/january-2019/images/k/route-map.jpg)|
+| “People don’t take trips – trips take people.” – John Steinbeck|
+| :--- |
+| Route Map ![](https://github.com/inbravo/travel/blob/master/january-2019/images/k/route-map.jpg)|
 
 ---
 
