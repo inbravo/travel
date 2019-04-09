@@ -1,7 +1,7 @@
 | "To Travel is to embrace the unknown" |
 | :--- |
 | This is the story of my tracking to 'Yamunotri' in Uttarakhand, India during October, 2018|
-| ![](https://github.com/inbravo/travel/blob/master/january-2019/images/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/blob/master/october-2018/images/route-map.jpg)|
 
 ---
 
