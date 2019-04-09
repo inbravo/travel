@@ -8,10 +8,10 @@
 ## **Essentials**
 * **Route**: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
 * **Stay**: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
-* **Food**: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang
-* **Mechanic**: Manali, Leh
-* A motorcycle riders [list of items](carry-list.md) to carry
-* A detailed [list of all checks](check-list.md) for Enfield Motorcycles, before starting the ride
+* **Food**: TODO
+* **Mechanic**: TODO
+* [**List of items**](carry-list.md) to be carried by a motorcycle rider 
+* [**List of checks**](check-list.md) for an Enfield motorcycle, prior to the ride
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
