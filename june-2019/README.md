@@ -11,6 +11,7 @@
 * **Food**: Manali, Jispa, Keylong, Leh, Khardungla, Diskit, Turtuk, Nubra, Pangong, Sarchu, Pang
 * **Mechanic**: Manali, Leh
 * A motorcycle riders [list of items](carry-list.md) to carry
+* A detailed [list of all checks](check-list.md) for Enfield Motorcycles, before starting the ride
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
