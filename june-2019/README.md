@@ -11,13 +11,13 @@
 
 ## **Passes**
 * Manali-Leh route has 5 passes
-    * Rohtang La (at 13,050ft): between the stretch of Marhi and Sissu
-    * Baralacha La (at 16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
-    * Nakee La (15,647ft): located between Sarchu and Pang. The ascent to the pass is called 21 'Gata loops'
-    * Lungalacha La (at 16,600ft): located some 54 km from Sarchu and 24 km from Pang
-    * Tanglang La (at 17,480ft): after crossing 'More plains'. Start descending from here 
-* Leh-Nubra route has Khardungla pass (at 17,582ft): highest moterable pass 
-* Pangong-Leh route has Changla pass (at 17,590ft): second highest moterable pass
+    * Rohtang La (@13,050ft): between the stretch of Marhi and Sissu
+    * Baralacha La (@16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
+    * Nakee La (@15,647ft): located between Sarchu and Pang. The ascent to the pass is called 21 'Gata loops'
+    * Lungalacha La (@16,600ft): located some 54 km from Sarchu and 24 km from Pang
+    * Tanglang La (@17,480ft): after crossing 'More plains'. Start descending from here 
+* Leh-Nubra route has Khardungla pass (@17,582ft): highest moterable pass 
+* Pangong-Leh route has Changla pass (@17,590ft): second highest moterable pass
 
 ## Checks		
 * [**List of carry items**](carry-list.md) & [**List of motorcycle checks**](check-list.md) for a rider
@@ -45,6 +45,7 @@
 * Tighten your spare fuel can with carrier
 * Take small pauses every 1-2 hours to cool down
 * Stay friendly with everyone, you encounter while riding
+* Remember the cold starting your motorcycle every morning
 * Water and food is the key to health, drink and eat wisely
 * Honk on every turn and never drive in wrong lane, on hills
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
@@ -60,7 +61,6 @@
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
 * Keep all necessary documents at an easily traceable place e.g. tank bag etc
 * Water streams (nala) are easier to cross in morning, owing to less water flow
-* Daily morning checks: engine/gear oil, engine oil bolt, fuel, shocker oil leakage
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare fuel can
@@ -68,4 +68,3 @@
 ### **References**
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](dk-pandit-guidance.md)
 * [Dheeraj Sharma from devilsonwheels.com](http://devilonwheels.com)
-* [Wikipedia](https://en.wikipedia.org/wiki/Leh%E2%80%93Manali_Highway)
