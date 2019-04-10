@@ -92,7 +92,7 @@
 	* It is the only Balti region under the Indian administration and was under Pakistan's control until 1971
 	* Turtuk is the last outpost of India at Thang after which Pakistan-controlled Gilgit-Baltistan begins
 	* Stay at Turtuk at night, its a less explored area in Ladakh region
-7. **Turtuk -> Thang** [10 kms]
+7. **Turtuk -> Thang** [7 kms]
 	* You can ride to Thang from Tyakshi. Which is actually the last village of India
 	* Thang is the last post of india, merely 2 kms from Pakistan occupied j&K
 
