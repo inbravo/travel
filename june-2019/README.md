@@ -15,7 +15,7 @@
     * Baralacha La (at 16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
     * Nakee La (15,647ft): located between Sarchu and Pang. The ascent to the pass is called 21 'Gata loops'
     * Lungalacha La (at 16,600ft): located some 54 km from Sarchu and 24 km from Pang
-    * Tanglang La (at 17,480ft): after crossing 'More plains' 
+    * Tanglang La (at 17,480ft): after crossing 'More plains'. Start descending from here 
 * Leh-Nubra route has Khardungla pass (at 17,582ft): highest moterable pass 
 * Pangong-Leh route has Changla pass (at 17,590ft): second highest moterable pass
 

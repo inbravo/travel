@@ -1,13 +1,13 @@
 ## [**Day 1**] 14 hours journey (570 kilometers between Ghaziabad to Manali) 
 1. **Ghaziabad -> Sonipat** [70 kms via Eastern Peripheral]
-2. **Sonipat -> Panipat** [53 kms via NH 44][**Fuel**][**Mechanic**][**Stay**]
-3. **Panipat -> Karnal** [73 kms via NH 44][**Fuel**][**Mechanic**][**Stay**]
-4. **Karnal -> Kurukshetra** [38 kms via NH 44][**Fuel**][**Mechanic**][**Stay**]
-5. **Kurukshetra -> Ambala** [50 kms via NH 44][**Fuel**][**Mechanic**][**Stay**]
-6. **Ambala -> Rupnagar** [78 kms via Jhansa-Tangori Rd][**Fuel**][**Mechanic**][**Stay**]
-7. **Rupnagar -> Swarghat** [52 kms via NH 205][**Fuel**][**Mechanic**][**Stay**]
-8. **Swarghat -> Mandi** [104 kms via NH 205/154][**Fuel**][**Mechanic**][**Stay**]
-9. **Mandi -> Kullu** [70 kms via NH 3][**Fuel**][**Mechanic**][**Stay**]
+2. **Sonipat -> Panipat** [53 kms via NH 44]
+3. **Panipat -> Karnal** [73 kms via NH 44]
+4. **Karnal -> Kurukshetra** [38 kms via NH 44]
+5. **Kurukshetra -> Ambala** [50 kms via NH 44]
+6. **Ambala -> Rupnagar** [78 kms via Jhansa-Tangori Rd]
+7. **Rupnagar -> Swarghat** [52 kms via NH 205]
+8. **Swarghat -> Mandi** [104 kms via NH 205/154]
+9. **Mandi -> Kullu** [70 kms via NH 3]
 10. **Kullu -> Manali** [40 kms via NH 3][**Fuel**][**Mechanic**][**Stay**]
  
 ## [**Day 2**] 6 hours journey (140 kilometers between Manali to Jispa) 
