@@ -40,11 +40,11 @@
 	* You need to mention all places enroute so that you are not sent back from any post
 
 ## **Remember**
+* Always pack before sleeping
 * Try to avoid a pillion on this ride
-* Always pack baggage before sleeping
 * Carry only the most essential items
 * Control your ego while riding in groups
-* Carry ample cash, while riding on hilly areas
+* Carry ample cash, while riding at hills
 * Take small pauses every 1-2 hours to cool down
 * Stay friendly with everyone, you encounter while riding
 * Water and food is the key to health, drink and eat wisely

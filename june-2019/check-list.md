@@ -1,4 +1,5 @@
 ## Checks applicable to Enfield Electra 5S 2008 Model
+* Check fuel pipe
 * Silencer nut check
 * Spark plug check/change
 * Engine oil change/check
