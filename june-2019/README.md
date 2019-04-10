@@ -44,6 +44,7 @@
 * Carry ample cash, while riding at hills
 * Tighten your spare fuel can with carrier
 * Take small pauses every 1-2 hours to cool down
+* Don't spend more than few minutes at Khardungla
 * Stay friendly with everyone, you encounter while riding
 * Remember the cold starting your motorcycle every morning
 * Water and food is the key to health, drink and eat wisely
@@ -54,6 +55,7 @@
 * Do not ride in the outer most lane, its where the animal roams
 * Keep glucose biscuits and ORS liquid at easily accessible place
 * Early start is best to avoid any traffic. Avoid riding late hours
+* Avoid making pre-bookings; planing don't works mostly on this trip
 * In case of any medical emergency, contact the local military camps
 * Avoid any bravery while crossing the water streams (nala), take help
 * Avoid starting your motorcycle while crossing the water streams (nala)
