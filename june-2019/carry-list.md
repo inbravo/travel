@@ -16,6 +16,7 @@
 	* Socks
 
 ## Carry items for a motorcycle rider
+* Tow cable
 * Small knife
 * Spark plug
 * Clutch lever and wire

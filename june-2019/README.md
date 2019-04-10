@@ -8,10 +8,19 @@
 ## **Essentials**
 * **Route**: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
 * **Stay**: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
-* **Food**: TODO
+* **Medical**: Manali, Keylong, Leh, Tangste, Diksit
+* **Fuel**: Entire route untill Manali, Tandi (150 kms from Manali), Leh (275 kms from Tandi), Nubra (120 kms from Leh)
 * **Mechanic**: TODO
-* [**List of items**](carry-list.md) to be carried by a motorcycle rider 
-* [**List of checks**](check-list.md) for an Enfield motorcycle, prior to the ride
+
+## **Passes**
+* Manali-Leh route has 5 passes
+    * Rohtang La (at 13,050ft): between the stretch of Marhi and Sissu
+    * Baralacha La (at 16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
+    * Nakee La (15,647ft): located between Sarchu and Pang. The ascent to the pass is called 21 'Gata loops'
+    * Lachung La (at 16,600ft): located some 54 km from Sarchu and 24 km from Pang
+    * Tanglang La (at 17,480ft): after crossing 'More plains' 
+* Leh-Nubra route has Khardungla pass (at 17,582ft): highest moterable pass 
+* Pangong-Leh route has Changla pass (at 17,590ft): second highest moterable pass
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
@@ -30,17 +39,22 @@
 ## **Remember**
 * Try to avoid a pillion on this ride
 * Always pack baggage before sleeping
-* Carry only the most essential luggage
-* Early start is best to avoid any traffic
+* Carry only the most essential items
 * Control your ego while riding in groups
-* Take small pauses every 150kms to cool down
+* Carry ample cash, while riding on hilly areas
+* Take small pauses every 1-2 hours to cool down
 * Stay friendly with everyone, you encounter while riding
 * Water and food is the key to health, drink and eat wisely
 * Honk on every turn and never drive in wrong lane, on hills
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
+* In high altitude regions, avoid sleeping during the day time
 * Fill up your tanks every night, to avoid any delay in morning 
 * Do not ride in the outer most lane, its where the animal roams
+* Early start is best to avoid any traffic. Avoid riding late hours
+* In case of any medical emergency, contact the local military camps
 * Avoid any bravery while crossing the water streams (nala), take help
+* Avoid starting your motorcycle while crossing the water streams (nala)
+* Water streams (nala) are forceful in morning. Best is to cross afternoon
 * Fog light at fronts and reflecting tapes at the back, best is hazard light
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
 * Keep all necessary documents at an easily traceable place e.g. tank bag etc
