@@ -58,7 +58,7 @@
 	* Offroad climbing 500 m through the Gata loops (22 hairpin bends) at 13,750 ft elevation 
 	* Nakee La pass at 15,547 ft and Lachulung La pass at 16,616 ft
 	* Register at the check post at Pang
-7. **Pang -> Tanglang La pass** [69 kms and altitude at 15,280 ft][**Mechanic**]
+7. **Pang -> Tanglang La pass** [69 kms and altitude at 15,280 ft]
 	* Pass through a 15,400 ft plateau called 'Morey plains'
 8. **Tanglang La pass -> Upshi** [60 km]
 	* Brilliant roads. Upshi has a Customs and Excise taxation check post before crossing the river. Stop here for checking of vehicles
