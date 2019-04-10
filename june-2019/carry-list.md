@@ -42,7 +42,7 @@
 * Helmet and Sunglass
 
 ## Hygiene
-* Sleeping bag and small tent, in case of rain/dirty bed lining
+* Sleeping bag
 * Personal water filter and water bottles
 * Spoon and mug
 * Lunch box

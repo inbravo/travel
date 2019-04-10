@@ -23,8 +23,7 @@
 * Pangong-Leh route has Changla pass (at 17,590ft): second highest moterable pass
 
 ## Checks		
-* [**List of items**](carry-list.md) to be carried by a motorcycle rider 
-* [**List of checks**](check-list.md) for an Enfield motorcycle, prior to the ride
+* [**List of carry items**](carry-list.md) & [**List of motorcycle checks**](check-list.md) for a rider
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
