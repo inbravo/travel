@@ -7,10 +7,7 @@
 
 ## **Essentials**
 * **Route**: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
-* **Stay**: Manali, Jispa, Keylong, Leh, Nubra, Turtuk, Pangong, Sarchu 
-* **Medical**: Manali, Keylong, Leh, Tangste, Diksit
 * **Fuel**: Entire route untill Manali, Tandi (150 kms from Manali), Leh (275 kms from Tandi), Nubra (120 kms from Leh)
-* **Mechanic**: TODO
 
 ## **Passes**
 * Manali-Leh route has 5 passes
@@ -45,6 +42,7 @@
 * Carry only the most essential items
 * Control your ego while riding in groups
 * Carry ample cash, while riding at hills
+* Tighten your spare fuel can with carrier
 * Take small pauses every 1-2 hours to cool down
 * Stay friendly with everyone, you encounter while riding
 * Water and food is the key to health, drink and eat wisely
@@ -53,6 +51,7 @@
 * In high altitude regions, avoid sleeping during the day time
 * Fill up your tanks every night, to avoid any delay in morning 
 * Do not ride in the outer most lane, its where the animal roams
+* Keep glucose biscuits and ORS liquid at easily accessible place
 * Early start is best to avoid any traffic. Avoid riding late hours
 * In case of any medical emergency, contact the local military camps
 * Avoid any bravery while crossing the water streams (nala), take help
@@ -64,6 +63,7 @@
 * Daily morning checks: engine/gear oil, engine oil bolt, fuel, shocker oil leakage
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
+* Avoid full tank, keep little bit of air in it. Also keep opening your spare fuel can
 
 ### **References**
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](dk-pandit-guidance.md)

@@ -13,7 +13,7 @@
 	* Riding pant and tracking pant
 	* Polyester lower for sleeping
 	* Gum boots, slippers and tracking shoes
-	* Socks
+	* Lots of warm socks, to change after crossing water streams 
 
 ## Carry items for a motorcycle rider
 * Tow cable
@@ -66,3 +66,4 @@
 ## Eatables
 * Ready to eat food items
 * Dry fruits 
+* Carry chocolates/toffees for kids
