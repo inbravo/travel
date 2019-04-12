@@ -8,7 +8,7 @@
 7. **Rupnagar -> Swarghat** [52 kms via NH 205]
 8. **Swarghat -> Mandi** [104 kms via NH 205/154]
 9. **Mandi -> Kullu** [70 kms via NH 3]
-10. **Kullu -> Manali** [40 kms via NH 3][**Fuel**][**Mechanic**][**Stay**]
+10. **Kullu -> Manali** [40 kms via NH 3]
  
 ## 6 hours journey (140 kilometers between Manali to Jispa) 
 1. **Manali -> Marhi** [33 kms]
@@ -26,7 +26,7 @@
 5. **Kokhsar -> Sissu** [25 kms]
 	* Altitude at 10,270 ft and brilliant roads. 
 	* There is a heliport at Sissu. The highway runs along left (south) bank of Chandra River
-6. **Sissu -> Tandi** [8 kms][**Fuel**][**Avoid Stay**]
+6. **Sissu -> Tandi** [8 kms]
 	* Altitude at 8,430 ft. Good road except for a 1 km stretch of off-road. 
 	* Tandi is situated at the bottom of the river valley at the confluence of the Chandra river and the Bhaga river
 	* Cross the Bhaga river over the bridge towards the right, take the right turn at the fork and the road again starts climbing
@@ -34,7 +34,7 @@
 	* Altitude at 10,100 ft but good road
 	* Keylong is the administrative center of the Lahaul and Spiti district in the Indian state of Himachal Pradesh
 	* Keylong faces the famous Kardang Monastery, the largest and most important monastery in Lahaul
-8. **Keylong -> Jispa** [22 kms][**Mechanic**][**Stay**]
+8. **Keylong -> Jispa** [22 kms]
 	* Altitude 10,860 ft, good road
 
 ## 11 hours journey (336 kilometers between Jispa to Leh) 
@@ -70,7 +70,7 @@
 10. **Karu -> Leh** [35 km and altitude at 11,483 ft]
 	* Continue on the highway towards Leh. Do not take the right turn just before Karu that leads to Shyok. Good road
 	
-<p align="center"><img src="/june-2019/images/manali-to-leh.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/manali-to-leh.jpg" width="700"></p>
 
 ##  Leh local: leh palace, war memorial, shanti stupa, magnetic hill, gurudwara pathar sahib, market etc
 	
@@ -96,7 +96,7 @@
 	* You can ride to Thang from Tyakshi. Which is actually the last village of India
 	* Thang is the last post of india, merely 2 kms from Pakistan occupied j&K
 
-<p align="center"><img src="/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
 
 ## 10 hours journey (320 kilometers between Turtuk to Pangong Tso)
 * Start very early from Turtuk and arrive at Pangong Tso
@@ -108,7 +108,7 @@
 * Start very early from Pangong and arrive by noon at Leh
 * Stay at Leh and take complete rest, to start riding back home
 
-<p align="center"><img src="/june-2019/images/leh-to-pangong-tso.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/leh-to-pangong-tso.jpg" width="700"></p>
 
 ## 8 hours journey (270 kilometers between Leh to Sarchu)
 1. **Leh -> Tanglang La Pass** [108 km via Keylong-Leh Rd/Leh Manali Hwy]

@@ -14,6 +14,12 @@
 * **Leh-Manali**: Tandi (367 kms from Leh) is the only pump on this route, very critical
 * **Leh-Nubra**: Diskit (155 kms from Leh) but not working sometimes
 
+## **Repair**
+* **Srinagar-Leh**: Ganderbal, Sonamarg, Kargil, Lamayuru (puncture), Mulbekh (puncture), Nimmu (puncture), Leh
+* **Leh-Manali**: Sarchu, Keylong, Jispa
+* **Leh-Nubra**: TODO
+* **Leh-Diskit**: TODO
+
 ## **Passes**
 * **Srinagar-Leh** route has **Zoji La** (@11,575ft), which is 100 km after Srinagar and 15 km before Sonmarg
 * **Leh-Manali** route has 5 passes
