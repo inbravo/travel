@@ -34,7 +34,7 @@
 
 ## Essentials		
 * List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list.md) 
-* [Motorcycle checks before starting the trip](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) for a rider
+* [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) before starting the trip
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
