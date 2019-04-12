@@ -8,7 +8,7 @@
 ---
 
 ## **Routes**
-* [Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/circuit-route.md): easier route
+* [Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/circuit-route.md): long route
 * [Manali-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/route.md): shorter route
 
 ## **Fuel**
@@ -82,7 +82,7 @@
 * Water streams (nala) are easier to cross in morning, owing to less water flow
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting  
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
-* Avoid full tank, keep little bit of air in it. Also keep opening your spare fuel can
+* Avoid full tank, keep little bit of air in it. Also keep opening your spare/jerry fuel can
 
 ### **References**
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](https://github.com/inbravo/travel/blob/master/june-2019/references/dk-pandit-guidance.md)
