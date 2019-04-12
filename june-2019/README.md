@@ -7,8 +7,8 @@
 
 ## **Essentials**
 * **Route**: 
-	* [Srinagar-Leh](route.md)
-	* [Manali-Leh](circuit-route.md)
+	* [Srinagar-Leh](circuit-route.md): easier circuit route
+	* [Manali-Leh](route.md): this one is short
 * **Fuel**: 
 	* **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
 	* **Leh-Nubra**: Diskit (155 kms from Leh) but not working sometimes
