@@ -6,13 +6,13 @@
 ---
 
 ## **Routes**
-	* [Srinagar-Leh](circuit-route.md): easier circuit route
-	* [Manali-Leh](route.md): this one is short
+* [Srinagar-Leh](circuit-route.md): easier circuit route
+* [Manali-Leh](route.md): this one is short
 
 ## **Fuel**
-	* **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
-	* **Leh-Manali**: Tandi (367 kms from Leh) is the only pump on this route, very critical
-	* **Leh-Nubra**: Diskit (155 kms from Leh) but not working sometimes
+* **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
+* **Leh-Manali**: Tandi (367 kms from Leh) is the only pump on this route, very critical
+* **Leh-Nubra**: Diskit (155 kms from Leh) but not working sometimes
 
 ## **Passes**
 * **Srinagar-Leh** route has **Zoji La** (@11,575ft), which is 100 km after Srinagar and 15 km before Sonmarg
