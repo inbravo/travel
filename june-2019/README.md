@@ -6,22 +6,22 @@
 ---
 
 ## **Essentials**
-* **Route**: [Ghaziabad -> Jammu -> Srinagar -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
+* **Route**: [Ghaziabad->Jammu->Srinagar->Leh->Turtuk->Pangong->Leh->Sarchu->Manali->Ghaziabad](route.md)
 * **Fuel**: 
-	* **Srinagar-Leh**: Srinagar -70kms-> Kangan -10kms-> Sonamarg -120kms-> Kargil -40kms-> Mulbekh -85kms-> Khaltsi -95-> Leh
+	* **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
 	* **Leh-Nubra**: Diskit (155 kms from Leh)
 	* **Leh-Manali**: Tandi (367 kms from Leh) 
 
 ## **Passes**
-* Srinagar-Leh route has Zoji La (pass), which is 100 km from Srinagar and 15 km from Sonmarg
+* Srinagar-Leh route has Zoji La (@11,575ft), which is 100 km after Srinagar and 15 km before Sonmarg
 * Manali-Leh route has 5 passes
     * Rohtang La (@13,050ft): between the stretch of Marhi and Sissu
     * Baralacha La (@16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
     * Nakee La (@15,647ft): located between Sarchu and Pang. The ascent to the pass is called 21 'Gata loops'
     * Lungalacha La (@16,600ft): located some 54 km from Sarchu and 24 km from Pang
     * Tanglang La (@17,480ft): after crossing 'More plains'. Start descending from here 
-* Leh-Nubra route has Khardungla pass (@17,582ft): highest moterable pass 
-* Pangong-Leh route has Changla pass (@17,590ft): second highest moterable pass
+* Leh-Nubra route has Khardung La(@17,582ft): highest moterable pass 
+* Pangong-Leh route has Chang La pass (@17,590ft): second highest moterable pass
 
 ## Checks		
 * List of [**items to carry**](carry-list.md) & [**motorcycle checks before starting the trip**](check-list.md) for a rider
