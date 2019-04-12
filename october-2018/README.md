@@ -7,7 +7,7 @@
 
 ---
 
-##  4:30 AM Ghaziabad
+##  Ghaziabad (4:30 AM)
 
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181012_092026.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181012_092204.jpg)

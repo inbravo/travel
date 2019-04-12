@@ -7,7 +7,7 @@
 
 ---
 
-##  4:10 AM Ghaziabad
+##  Ghaziabad (4:10 AM)
 *	We all are bound in some priorities and limitations, but we all want to enjoy the life of a traveler
 *	I did several rides, but never documented it. Some of close friends, always desired to feel my rides vicariously
 *	This travelogue is dedicated to my friends, who want to feel my travel experience and imagine their own journey
@@ -20,7 +20,7 @@
 * 	Arrived at NH-58, this is the highway to take me to Uttarakhand, my destination state
 *	Only heavy vehicles present on the road but there are some taxis ferrying interstate travelers
 
-##  4:30 AM Modinagar
+##  Modinagar (4:30 AM)
 *	Another solo rider, on a Bajaj Pulsar has just passed me, waving me in confidence
 *	I hooked to his tail with my all senses opened to judge, the slightest of movement around my motorcycle
 * 	We carefully steered through the traffic around us, and attracted the eyes of many 
@@ -28,13 +28,13 @@
 *	Finally i was in bullet attitude, but with all senses opened to avoid any mistake and started cutting the traffic
 *	Solo riding makes you more responsible, you have to avoid every small negligence, which eventually helps in avoiding any disaster
 
-##  5:00 AM Meerut
+##  Meerut (5:00 AM)
 *	Arrived in Meerut but still no sign of sunlight, i am feeling confident to reach my destination within stipulated time
 *	At my maximum cruising speed of 80 KMPS, which is only possible in such minimal traffic, in India
 *	Heading towards Muzaffarnagar, on clear roads. Another large biker group, at a very coordinated and controlled pace, mostly Haryana number plates
 *	I waved the group and accelerated, able to see the sunlight now
 
-##  6:00 AM Muzaffarnagar
+##  Muzaffarnagar (6:00 AM)
 *	This new highway is the face of new emerging India. It gives me immense proud to born in such a great period of transformation 
 *	People in my generation, who are experiencing this change, will have a story to tell to new generations
 *	India's highest sugarcane growing fields are all around me. Greenery is the major sign of this region
@@ -43,27 +43,27 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_061102.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_061625.jpg)
 
-##  6:50 AM Roorkee
+##  Roorkee (6:50 AM)
 *	Old classical city, has a reputation of one of the top most engineering Institute of India, known as IIT
 *	City is full of life and school buses are ferrying kids and staffs. I can see uniform clad elegant female Army doctors, heading for their work
 *	I am getting first sign of Uttarakhand Police. I am easily traversing through roads and happy to avoid the notorious traffic jams of this city
 *	Soon back to the nice highway again. Throttled to my maximum cruising speed, heading for the city of Gods
 
-##  8:00 AM Haridwar
+##  Haridwar (8:00 AM)
 *	Arrived on time, Hill life is waiting for me, throttled again to max, towards Rishikesh
 *	While crossing the Rajaji National Part, I started feeling the hill vibes
 *	A small pee stop and after collecting my energies, I climbed again on my 9 years old companion
 *	Unstopped until I arrived on a train crossing, felt good to break all my previous records of covering the maximum distance
 *	A curious lad is questioned by me, he delightedly guided me towards the road to Narendra Nagar
 
-##  8:45 AM Rishikesh
+##  Rishikesh (8:45 AM)
 *	Arrived at spiritual capital of India, but took a left turn to skip its beautiful ashrams and Ganga ghats
 *	Hill climb is started, steep turns quickly alerted my throttle hungry mind to slow down
 *	No sign of traffic, I am mostly alone on these curvy roads. The best part of journey is around me now ... Hills!
 
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_084635.jpg)
 
-##  10:00 AM Narendra Nagar
+##  Narendra Nagar (10:00 AM)
 *	Still untouched with the urbanization, Narendra Nagar still gives the nostalgic feelings of classical towns
 *	After crossing the town, I stopped at a small shack, devoured delicious aloo parathas and chat with locals
 *	Next town is Chamba, which is just an hour away from here
@@ -76,7 +76,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_095909.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_095913.jpg)
 
-##  11:00 AM Chamba
+##  Chamba (11:00 AM)
 *	A small town, providing further connects to Tehri and Mussoorie 
 *	Town shows no sign of travelers, only local public curiously starring and trying to judge me
 *	After respectfully inquiring a police man, I chose the correct road to Tehri Dam
@@ -94,7 +94,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_135634.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_135641.jpg)
 
-##  11:45 AM Tehri Dam
+##  Tehri Dam (11:45 AM)
 *	Finally arrived at Tehri Dam, ride to this destination took 7.45 hours. Not bad! Feeling really proud!
 *	Access to Dam is restricted by Central Industrial Security Force (CISF), I rode to a high point, where i can see the dam
 *	Found a lonely place at one beautiful corner of road, where I can see the dam and be in peace
@@ -109,7 +109,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_120611.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114532.jpg)
 
-##  12:45 PM Tehri Dam, Heading back
+##  Tehri Dam (12:45 PM), Heading back 
 *	Same route but scorching sun is eating more energy this time, I am now able to see some of riders, heading towards dam
 *	At a small road side village named Nagni, I decided to take a bath in small stream of river
 *	Some village kids were playing there, initially scarred with my looks, but soon became comfortable with me
@@ -122,7 +122,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_145824.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_145835.jpg)
 
-##  4:00 PM Rishikesh
+##  Rishikesh (4:00 PM)
 *	After experiencing several hill towns, I realized Rishikesh is nowhere close to a real hill town
 *	Checked in at my favorite Iskon temple guest house (Madhuban Ashram). Unpacked my gears, took bath and get some rest
 *	At around 6 o'clock, I started towards Parmarth Ashram for evening Aarti

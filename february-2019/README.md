@@ -7,6 +7,6 @@
 
 ---
 
-##  6 AM Ghaziabad
+##  Ghaziabad (6 AM)
 *	<>
 
