@@ -1,8 +1,6 @@
 | “Traveling. It leaves you speechless, then turns you into a Storyteller.” - Unknown |
 | :--- |
 | This is the story of my motorcycle ride to Lansdowne, Uttarakhand, India during July, 2017 |
-| Stayed at Kasang Regency Hill Resort, Village Palkot, Lansdowne, Uttarakhand 246155 |
-| ![](https://github.com/inbravo/travel/raw/master/july-2017/images/route-map.jpg)|
 
 ---
 

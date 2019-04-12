@@ -1,3 +1,9 @@
+|  "Take only memories, leave only footprints" – Chief Seattle |
+| :---  |
+| This is the plan of my motorcycle ride to Turtuk, J&K India during June, 2019 |
+
+---
+
 ## **Routes**
 * [Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/circuit-route.md): easier circuit route
 * [Manali-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/route.md): this one is short

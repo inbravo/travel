@@ -1,7 +1,6 @@
 | "I am not running 'from', i am running 'To'" |
 | :--- |
 | This is the story of my motorcycle ride to Shivpuri, Rishikesh, Uttarakhand in India, during May, 2018 |
-| ![](https://github.com/inbravo/travel/raw/master/may-2017/images/route-map.jpg)|
 
 ---
 

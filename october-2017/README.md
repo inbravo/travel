@@ -1,7 +1,6 @@
 | "Bizarre travel plans are dancing lessons from God" – Kurt Vonnegut |
 | :--- |
 | This is the story of my solo motorcycle ride to Dhanaulti, Uttarakhand in India, during October, 2017. Best part of this journey was, that i tracked 627 kilometers in 18 hours only, in a single day|
-| ![](https://github.com/inbravo/travel/raw/master/october-2017/images/route-map.jpg)|
 
 ---
 

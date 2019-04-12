@@ -1,8 +1,6 @@
 | "A good traveler has no fixed plans and is not intent on arriving" – Lao Tzu |
 | :--- |
 | This is the story of my motorcycle ride to Tiger Fall, Chakrata, Uttarakhand in India, during March, 2018 |
-| Stayed at Hotel MRB Residency |
-| ![](https://github.com/inbravo/travel/raw/master/march-2018/images/route-map.jpg)|
 
 ---
 

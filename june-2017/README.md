@@ -1,7 +1,6 @@
 |  "Take only memories, leave only footprints" – Chief Seattle |
 | :---  |
 | This is the story of my motorcycle ride to Humayun Tomb, Delhi, India during June, 2017 |
-| ![](https://github.com/inbravo/travel/raw/master/june-2017/images/route-map.jpg)|
 
 ---
 

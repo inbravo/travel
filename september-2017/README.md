@@ -1,8 +1,6 @@
 | "Take your ego for a peaceful trip into the unknown, once in a while!" |
 | :--- |
 | This is the story of my solo motorcycle travel to world's highest dam 'Tehri Dam' in India, during September, 2017.|
-| Stayed at [Madhuban Ashram](http://www.madhubanashram.org)|
-| ![](https://github.com/inbravo/travel/raw/master/september-2017/images/route-map.jpg)|
 
 ---
 
