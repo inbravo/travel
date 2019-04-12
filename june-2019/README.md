@@ -6,7 +6,9 @@
 ---
 
 ## **Essentials**
-* **Route**: [Ghaziabad->Jammu->Srinagar->Leh->Turtuk->Pangong->Leh->Sarchu->Manali->Ghaziabad](route.md)
+* **Route**: 
+	* [Srinagar-Leh](route.md)
+	* [Manali-Leh](circuit-route.md)
 * **Fuel**: 
 	* **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
 	* **Leh-Nubra**: Diskit (155 kms from Leh) but not working sometimes
