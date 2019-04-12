@@ -1,3 +1,5 @@
+---
+
 | "Take your ego for a peaceful trip into the unknown, once in a while!" |
 | :--- |
 | This is the story of my solo motorcycle travel to world's highest dam 'Tehri Dam' in India, during September, 2017.|
