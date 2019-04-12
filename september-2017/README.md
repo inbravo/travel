@@ -41,7 +41,6 @@
 *	Slowly the highway came to end, entering the single lane road, heading towards Roorkee city
 
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_061102.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_061625.jpg)
 
 ##  Roorkee (6:50 AM)
 *	Old classical city, has a reputation of one of the top most engineering Institute of India, known as IIT
