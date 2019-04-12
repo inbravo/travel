@@ -13,7 +13,7 @@
 	* **Leh-Manali**: Tandi (367 kms from Leh) 
 
 ## **Passes**
-* Srinagar-Leh route
+* Srinagar-Leh route has Zoji La (pass), which is 100 km from Srinagar and 15 km from Sonmarg
 * Manali-Leh route has 5 passes
     * Rohtang La (@13,050ft): between the stretch of Marhi and Sissu
     * Baralacha La (@16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
