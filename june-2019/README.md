@@ -5,14 +5,14 @@
 
 ---
 
-## **Essentials**
-* **Route**: 
+## **Routes**
 	* [Srinagar-Leh](circuit-route.md): easier circuit route
 	* [Manali-Leh](route.md): this one is short
-* **Fuel**: 
+
+## **Fuel**
 	* **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
-	* **Leh-Nubra**: Diskit (155 kms from Leh) but not working sometimes
 	* **Leh-Manali**: Tandi (367 kms from Leh) is the only pump on this route, very critical
+	* **Leh-Nubra**: Diskit (155 kms from Leh) but not working sometimes
 
 ## **Passes**
 * **Srinagar-Leh** route has **Zoji La** (@11,575ft), which is 100 km after Srinagar and 15 km before Sonmarg
@@ -25,7 +25,7 @@
 * **Leh-Nubra** route has **Khardung La**(@17,582ft): highest moterable pass 
 * **Pangong-Leh** route has **Chang La (@17,590ft): second highest moterable pass
 
-## Checks		
+## Essentials		
 * List of [**items to carry**](carry-list.md) & [**motorcycle checks before starting the trip**](check-list.md) for a rider
 
 ## **Permits**
@@ -42,7 +42,7 @@
 	* Validity of the inner line permit, is 1 week for Indians and 1 week for foreigners
 	* You need to mention all places enroute so that you are not sent back from any post
 
-## **Remember**
+## **Wisdom**
 * Always pack before sleeping
 * Try to avoid a pillion on this ride
 * Carry only the most essential items
