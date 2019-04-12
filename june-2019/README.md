@@ -24,7 +24,7 @@
 * **Pangong-Leh** route has [**Chang La**](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest moterable pass
 
 ## Essentials		
-* List of [**items to carry**](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list.md) & [**motorcycle checks before starting the trip**](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) for a rider
+* List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list.md) & [motorcycle checks before starting the trip](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) for a rider
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
