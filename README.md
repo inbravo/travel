@@ -1,4 +1,4 @@
-# My Travel Reports
+# List of travelogues and plans
 
 -	[India Gate, Delhi, India](august-2017/README.md)
 -	[Humayun Tomb, Delhi, India](june-2017/README.md)
