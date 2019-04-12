@@ -70,7 +70,7 @@
 10. **Karu -> Leh** [35 km and altitude at 11,483 ft]
 	* Continue on the highway towards Leh. Do not take the right turn just before Karu that leads to Shyok. Good road
 	
-<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/manali-to-leh.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/manali-to-leh.jpg" width="700"></p>
 
 ##  Leh local: leh palace, war memorial, shanti stupa, magnetic hill, gurudwara pathar sahib, market etc
 	
@@ -96,7 +96,7 @@
 	* You can ride to Thang from Tyakshi. Which is actually the last village of India
 	* Thang is the last post of india, merely 2 kms from Pakistan occupied j&K
 
-<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
 
 ## 10 hours journey (320 kilometers between Turtuk to Pangong Tso)
 * Start very early from Turtuk and arrive at Pangong Tso
@@ -108,7 +108,7 @@
 * Start very early from Pangong and arrive by noon at Leh
 * Stay at Leh and take complete rest, to start riding back home
 
-<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/leh-to-pangong-tso.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-pangong-tso.jpg" width="700"></p>
 
 ## 8 hours journey (270 kilometers between Leh to Sarchu)
 1. **Leh -> Tanglang La Pass** [108 km via Keylong-Leh Rd/Leh Manali Hwy]

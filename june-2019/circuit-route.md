@@ -15,7 +15,7 @@
 ## 8 hours journey (220 kilometers between Kargil to Leh) 
 1. **Kargil -> Mulbekh** [40 kms]
 	
-<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/srinagar-to-leh.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/srinagar-to-leh.jpg" width="700"></p>
 	
 ## 9 hours journey (200 kilometers between Leh to Thang, Turtuk)
 1. **Leh -> Khardungla Pass** [35 kms and altitude at 17,582 ft]
@@ -39,7 +39,8 @@
 	* You can ride to Thang from Tyakshi. Which is actually the last village of India
 	* Thang is the last post of india, merely 2 kms from Pakistan occupied j&K
 
-<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
+							https://github.com/inbravo/travel/blob/master/june-2019/images/srinagar-to-leh.jpg
+<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
 
 ## 10 hours journey (320 kilometers between Turtuk to Pangong Tso)
 * Start very early from Turtuk and arrive at Pangong Tso
@@ -51,7 +52,7 @@
 * Start very early from Pangong and arrive by noon at Leh
 * Stay at Leh and take complete rest, to start riding back home
 
-<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/leh-to-pangong-tso.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-pangong-tso.jpg" width="700"></p>
 
 ## 8 hours journey (270 kilometers between Leh to Sarchu)
 1. **Leh -> Tanglang La Pass** [108 km via Keylong-Leh Rd/Leh Manali Hwy]
@@ -63,7 +64,7 @@
 2. **Baralacha La Pass -> Rohtang Pass** [65 kms via Keylong-Leh Rd/Leh Manali Hwy]
 3. **Rohtang Pass -> Manali** [55 kms via Keylong-Leh Rd/Leh Manali Hwy]
 
-<p align="center"><img src="https://github.com/inbravo/travel/tree/master/june-2019/images/manali-to-leh.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/manali-to-leh.jpg" width="700"></p>
 		
 ## 14 hours journey (570 kilometers between Manali to Ghaziabad) 
 1. **Manali -> Kullu** [40 kms via NH 3]
