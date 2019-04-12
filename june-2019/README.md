@@ -5,19 +5,18 @@
 ## **Fuel**
 * **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
 * **Leh-Manali**: Tandi (367 kms from Leh) is the only pump on this route, very critical
-* **Leh-Nubra**: Diskit (155 kms from Leh) but not working sometimes
+* **Leh-Turtuk**: Diskit (155 kms from Leh) but not working sometimes
 
 ## **Repair**
 * **Srinagar-Leh**: Ganderbal, Sonamarg, Kargil, Lamayuru (puncture), Mulbekh (puncture), Nimmu (puncture), Leh
 * **Leh-Manali**: Sarchu, Keylong, Jispa
-* **Leh-Nubra**: TODO
-* **Leh-Diskit**: TODO
+* **Leh-Turtuk**: Khardung, Khalsar, Diskit
 
 ## **Passes**
-* **Srinagar-Leh** route has [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), which is 100 km after Srinagar and 15 km before Sonmarg
+* **Srinagar-Leh** route has [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), 100kms after Srinagar and 15kms before Sonmarg
 * **Leh-Manali** route has 5 passes
     * [Tanglang La](https://en.wikipedia.org/wiki/Taglang_La) (@17,480ft): after crossing 'More plains'. Start descending from here 
-	* [Lungalacha La](https://en.wikipedia.org/wiki/Lungalacha_La) (@16,600ft): located some 54 km from Sarchu and 24 km from Pang
+	* [Lungalacha La](https://en.wikipedia.org/wiki/Lungalacha_La) (@16,600ft): located some 54kms from Sarchu and 24kms from Pang
 	* [Nakee La](https://www.thrillophilia.com/attractions/nakee-la) (@15,647ft): located between Sarchu and Pang
 	* [Baralacha La](https://en.wikipedia.org/wiki/Bara-lacha_la) (@16,040ft): in Zanskar range, connecting Lahaul in HP to Ladakh in J&K
     * [Rohtang La](https://en.wikipedia.org/wiki/Rohtang_Pass) (@13,050ft): between the stretch of Marhi and Sissu
