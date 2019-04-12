@@ -1,10 +1,3 @@
-| “I believe in one religion, I believe in Traveling!”|
-| :--- |
-| This is my motorcycle riding plan to Thang (Turtuk, J&K), The north-most village of India during June, 2019|
-| Total Distance:  ~2500 kilometers |
-
----
-
 ## **Routes**
 * [Srinagar-Leh](circuit-route.md): easier circuit route
 * [Manali-Leh](route.md): this one is short
