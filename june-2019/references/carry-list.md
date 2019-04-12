@@ -24,7 +24,7 @@
 * Oil seal and shocker seal
 * Engine oil filter and engine oil
 * Chain lubricant and chain locks
-* M.Seal and duct tape
+* Mseal and duct tape
 * Plastic sheets to cover the baggage and also to cover you in case of intermittent rains
 * Puncture kit, air pump/tyre inflater
 * Torch, match box or lighter
@@ -38,13 +38,13 @@
 ## Documents
 * 2 ID minimum (aadhaar and PAN etc)
 * Driving license and vehicle papers
-* Take 10 copies of each document
+* Take copies of IDs
 
 ## Safety
 * Riding jacket and pant
 * Riding gloves
 * Leg and arm protector
-* Helmet and Sunglass
+* Helmet and sunglass
 
 ## Hygiene
 * Sleeping bag
@@ -56,10 +56,10 @@
 * Diamox for mountain sickness (250 mg). You can start taking few days before starting your trip
 * Electral (oral rehydration salt-ORS etc) pouches
 * Cold-cough-fever related medicines (d-cold, combiflame etc)
-* Indigestion/stomach related medicines (Norflox tz etc)
+* Indigestion/stomach related medicines (norflox-tz etc)
 * Quarter of dark rum, only if your believe in medicine power of alcohol
 * Antiseptic liquid and ointment for cuts and bruises along with cotton and bandage 
-* Cloves/Elaichi, very effective in taste change
+* Cloves/elaichi, very effective in taste change
 * Chew gum and toffees
 
 ## Toiletries

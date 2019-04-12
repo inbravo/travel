@@ -60,6 +60,7 @@
 * Tighten your spare fuel can with carrier
 * Always give path to vehicles climbing on hills
 * Take small pauses every 1-2 hours to cool down
+* In high altitude regions, avoid staying or sleeping
 * Fog light at fronts and reflecting tapes at the back
 * Stay friendly with everyone, you encounter while riding
 * Remember the cold starting your motorcycle every morning
@@ -67,7 +68,6 @@
 * Honk on every turn and never drive in wrong lane, on hills
 * Switch off your lights to let climbing vehicles see clearly
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
-* In high altitude regions, avoid sleeping during the day time
 * Fill up your tanks every night, to avoid any delay in morning 
 * Do not ride in the outer most lane, its where the animal roams
 * Keep glucose biscuits and ORS liquid at easily accessible place
