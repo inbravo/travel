@@ -1,15 +1,19 @@
 | “I believe in one religion, I believe in Traveling!”|
 | :--- |
-| This is my motorcycle riding plan to Khardungla and Turtuk, Ladakh, J&K India during June, 2019|
+| This is my motorcycle riding plan to Thang (Turtuk, J&K), The north-most village of India during June, 2019|
 | Total Distance:  ~2500 kilometers |
 
 ---
 
 ## **Essentials**
-* **Route**: [Ghaziabad -> Manali -> Keylong -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
-* **Fuel**: Entire route untill Manali, Tandi (150 kms from Manali), Leh (275 kms from Tandi), Nubra (120 kms from Leh)
+* **Route**: [Ghaziabad -> Jammu -> Srinagar -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
+* **Fuel**: 
+	* Srinagar-Leh: Kangan (70 kms from Srinagar), Sonamarg (80 kms from Srinagar),  Kargil (200 kms from Srinagar), Mulbekh (240 kms from Srinagar), Wakha (245 kms from Srinagar), Khaltsi  (325 kms from Srinagar)
+	* Leh-Nubra: Diskit (155 kms from Leh)
+	* Leh-Manali: Tandi (367 kms from Leh) 
 
 ## **Passes**
+* Srinagar-Leh route
 * Manali-Leh route has 5 passes
     * Rohtang La (@13,050ft): between the stretch of Marhi and Sissu
     * Baralacha La (@16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
@@ -44,7 +48,7 @@
 * Carry ample cash, while riding at hills
 * Tighten your spare fuel can with carrier
 * Take small pauses every 1-2 hours to cool down
-* Don't spend more than few minutes at Khardungla
+* Fog light at fronts and reflecting tapes at the back
 * Stay friendly with everyone, you encounter while riding
 * Remember the cold starting your motorcycle every morning
 * Water and food is the key to health, drink and eat wisely
@@ -57,9 +61,9 @@
 * Early start is best to avoid any traffic. Avoid riding late hours
 * Avoid making pre-bookings; planing don't works mostly on this trip
 * In case of any medical emergency, contact the local military camps
+* Don't stay long at Khardungla. Mountain sickness can kill your joy
 * Avoid any bravery while crossing the water streams (nala), take help
 * Avoid starting your motorcycle while crossing the water streams (nala)
-* Fog light at fronts and reflecting tapes at the back, best is hazard light
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
 * Keep all necessary documents at an easily traceable place e.g. tank bag etc
 * Water streams (nala) are easier to cross in morning, owing to less water flow

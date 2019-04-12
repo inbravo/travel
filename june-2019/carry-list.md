@@ -19,7 +19,7 @@
 * Tow cable
 * Small knife
 * Spark plug
-* Clutch lever and wire
+* Spare clutch lever and wire
 * Accelerator wire 
 * Oil seal and shocker seal
 * Engine oil filter and engine oil
@@ -35,6 +35,11 @@
 * Electric wire 2 meter, in case of any electrical failure
 * Small mettle wire to bind if something breaks 
 
+## Documents
+* 2 ID minimum (aadhaar and PAN etc)
+* Driving license and vehicle papers
+* Take 10 copies of each document
+
 ## Safety
 * Riding jacket and pant
 * Riding gloves
@@ -47,11 +52,13 @@
 * Spoon and mug
 * Lunch box
 
-## Medicines and fresheners
-* Electral (oral rehydration salt:ORS) pouches
-* Cold/Cough related medicines
-* Indigestion related medicines
+## Medicines
+* Diamox for mountain sickness (250 mg). You can start taking few days before starting your trip
+* Electral (oral rehydration salt-ORS etc) pouches
+* Cold-cough-fever related medicines (d-cold, combiflame etc)
+* Indigestion/stomach related medicines (Norflox tz etc)
 * Quarter of dark rum, only if your believe in medicine power of alcohol
+* Antiseptic liquid and ointment for cuts and bruises along with cotton and bandage 
 * Cloves/Elaichi, very effective in taste change
 * Chew gum and toffees
 
