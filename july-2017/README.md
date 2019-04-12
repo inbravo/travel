@@ -2,7 +2,7 @@
 | :--- |
 | This is the story of my motorcycle ride to Lansdowne, Uttarakhand, India during July, 2017 |
 | Stayed at Kasang Regency Hill Resort, Village Palkot, Lansdowne, Uttarakhand 246155 |
-| ![](https://github.com/inbravo/travel/blob/master/july-2017/images/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/raw/master/july-2017/images/route-map.jpg)|
 
 ---
 
@@ -46,7 +46,7 @@
 *	After riding for around 45 minutes, we finally arrived on the entry gate of Lansdowne but the main place is still 22 kilometers up hills
 *	Spent here some time in capturing beautiful moments
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/10.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/10.jpg)
 
 ##  10:45 AM Dugadda
 *	We have crossed Dugadda and now enjoyoing the scenic beauty of hills
@@ -62,17 +62,17 @@
 *	We have enchased the cost of long drive so far. Few more people from Delhi, joined us meanwhile
 *	Finally after complete refreshment, we decided to ride again and enjoy the hill beauty
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/2.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/3.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/12.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/13.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_112515.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_112526.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_112535.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_112545.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_112550.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_113030.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_113210.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/2.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/3.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/12.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/13.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112515.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112526.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112535.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112545.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112550.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_113030.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_113210.jpg)
 
 ##  12:00 PM Kho River to Lansdowne
 *	Started climbing the mountain again after getting refreshed
@@ -85,7 +85,7 @@
 ##  1:00 PM Lansdowne
 *	Finally we arrived at Lansdowne and our search for a mechanic is also ended. My stallion received a new clutch wire within 30 minutes
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/5.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/5.jpg)
 
 *	Lansdowne, at a height of 5,800 ft. (1,800 m) above sea level, is the recruitment center of the Garhwal Rifles
 *	War history of [Garhwal Rifles](https://en.wikipedia.org/wiki/The_Garhwal_Rifles) is worth respect and reverence
@@ -99,13 +99,13 @@
 	- Garhwali Mess
 	- St. John’s Church
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20170715_172541_HDR.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171118_152401.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20170715_172541_HDR.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171118_152401.jpg)
 
 ##  6:00 AM Lansdowne Next Morning
 *	Stayed in Kasang Regency and woke up at 6:00 AM to view the beauty of hills
 
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/1.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_070239.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_072716.jpg)
-![](https://github.com/inbravo/travel/blob/master/july-2017/images/IMG_20171119_072917.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/1.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_070239.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_072716.jpg)
+![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_072917.jpg)

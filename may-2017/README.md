@@ -1,7 +1,7 @@
 | "I am not running 'from', i am running 'To'" |
 | :--- |
 | This is the story of my motorcycle ride to Shivpuri, Rishikesh, Uttarakhand in India, during May, 2018 |
-| ![](https://github.com/inbravo/travel/blob/master/may-2017/images/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/raw/master/may-2017/images/route-map.jpg)|
 
 ---
 
@@ -15,14 +15,14 @@
 ##  6:10 AM Suraj Kund
 *	Rode for 37 kilometers from our homes, arrived at Suraj Kund
 
-![](https://github.com/inbravo/travel/blob/master/may-2017/images/IMG_3899.JPG)
-![](https://github.com/inbravo/travel/blob/master/may-2017/images/IMG_3900.jpg)
-![](https://github.com/inbravo/travel/blob/master/may-2017/images/IMG_20170730_071225.jpg)
-![](https://github.com/inbravo/travel/blob/master/may-2017/images/IMG_20170730_072039.jpg)
-![](https://github.com/inbravo/travel/blob/master/may-2017/images/IMG_20170730_070306.JPG)
-![](https://github.com/inbravo/travel/blob/master/may-2017/images/IMG_0977.JPG)
-![](https://github.com/inbravo/travel/blob/master/may-2017/images/IMG_0978.JPG)
-![](https://github.com/inbravo/travel/blob/master/may-2017/images/IMG_3896.JPG)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_3899.JPG)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_3900.jpg)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_071225.jpg)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_072039.jpg)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_070306.JPG)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_0977.JPG)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_0978.JPG)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_3896.JPG)
 
 
 

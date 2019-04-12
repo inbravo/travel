@@ -2,7 +2,7 @@
 | :--- |
 | This is the story of my solo motorcycle travel to world's highest dam 'Tehri Dam' in India, during September, 2017.|
 | Stayed at [Madhuban Ashram](http://www.madhubanashram.org)|
-| ![](https://github.com/inbravo/travel/blob/master/september-2017/images/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/raw/master/september-2017/images/route-map.jpg)|
 
 ---
 
@@ -39,8 +39,8 @@
 *	India's highest sugarcane growing fields are all around me. Greenery is the major sign of this region
 *	Slowly the highway came to end, entering the single lane road, heading towards Roorkee city
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_061102.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_061625.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_061102.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_061625.jpg)
 
 ##  6:50 AM Roorkee
 *	Old classical city, has a reputation of one of the top most engineering Institute of India, known as IIT
@@ -60,7 +60,7 @@
 *	Hill climb is started, steep turns quickly alerted my throttle hungry mind to slow down
 *	No sign of traffic, I am mostly alone on these curvy roads. The best part of journey is around me now ... Hills!
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_084635.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_084635.jpg)
 
 ##  10:00 AM Narendra Nagar
 *	Still untouched with the urbanization, Narendra Nagar still gives the nostalgic feelings of classical towns
@@ -69,11 +69,11 @@
 *	I refit myself to one last push to my destination Tehri Dam
 *	I am experiencing road sign of land sliding prone areas more often and hills have become whiter
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_095756.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_095801.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_095902.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_095909.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_095913.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_095756.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_095801.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_095902.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_095909.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_095913.jpg)
 
 ##  11:00 AM Chamba
 *	A small town, providing further connects to Tehri and Mussoorie 
@@ -82,16 +82,16 @@
 *	Road had become narrow and poor, on my left I have started experiencing the water flow
 *	This water flow got bigger and bigger as I got closer to Dam, and finally the WoW factor arrived
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_103054.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_103104.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_105057.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_105132.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_133300.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_133404.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_134045.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_135549.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_135634.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_135641.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_103054.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_103104.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_105057.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_105132.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_133300.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_133404.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_134045.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_135549.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_135634.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_135641.jpg)
 
 ##  11:45 AM Tehri Dam
 *	Finally arrived at Tehri Dam, ride to this destination took 7.45 hours. Not bad! Feeling really proud!
@@ -101,12 +101,12 @@
 *	Took some of beautiful pictures, from my phone. Experienced the flora and fauna of region while peacefully sitting there
 *	Spent around 1 hour there, ate some dry fruits and biscuits, and finally refit myself for the 85 kilometers journey back to Rishikesh
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_114419.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_114424.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_114659.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_115303.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_120611.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_114532.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114419.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114424.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114659.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_115303.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_120611.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114532.jpg)
 
 ##  12:45 PM Tehri Dam, Heading back
 *	Same route but scorching sun is eating more energy this time, I am now able to see some of riders, heading towards dam
@@ -116,10 +116,10 @@
 *	Kids from this family, got curious about me and spent few minutes, looking at my travel gears 
 *	Finally i bid adieu to all kids and headed towards Rishikesh
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_145704.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_145726.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_145824.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_145835.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_145704.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_145726.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_145824.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_145835.jpg)
 
 ##  4:00 PM Rishikesh
 *	After experiencing several hill towns, I realized Rishikesh is nowhere close to a real hill town
@@ -133,7 +133,7 @@
 *	While trying to sleep, I was thinking of all people, whom I met during my journey and how they live peacefully in this natural abode
 *	I finally forced my eyes to shut and to tried to sleep. Don't remember when did i slept while thinking about tomorrows long ride to home
 
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_182827.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_193750.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170909_195706.jpg)
-![](https://github.com/inbravo/travel/blob/master/september-2017/images/IMG_20170910_110448.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_182827.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_193750.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_195706.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170910_110448.jpg)

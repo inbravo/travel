@@ -1,6 +1,6 @@
 ## **Routes**
-* [Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/circuit-route.md): easier circuit route
-* [Manali-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/route.md): this one is short
+* [Srinagar-Leh](https://github.com/inbravo/travel/raw/master/june-2019/routes/circuit-route.md): easier circuit route
+* [Manali-Leh](https://github.com/inbravo/travel/raw/master/june-2019/routes/route.md): this one is short
 
 ## **Fuel**
 * **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
@@ -24,7 +24,7 @@
 * **Pangong-Leh** route has [**Chang La**](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest moterable pass
 
 ## Essentials		
-* List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list.md) & [motorcycle checks before starting the trip](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) for a rider
+* List of [items to carry](https://github.com/inbravo/travel/raw/master/june-2019/references/carry-list.md) & [motorcycle checks before starting the trip](https://github.com/inbravo/travel/raw/master/june-2019/references/check-list.md) for a rider
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
@@ -72,5 +72,5 @@
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare fuel can
 
 ### **References**
-* [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](https://github.com/inbravo/travel/blob/master/june-2019/references/dk-pandit-guidance.md)
+* [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](https://github.com/inbravo/travel/raw/master/june-2019/references/dk-pandit-guidance.md)
 * [Dheeraj Sharma from devilsonwheels.com](http://devilonwheels.com)

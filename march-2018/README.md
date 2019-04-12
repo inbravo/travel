@@ -2,7 +2,7 @@
 | :--- |
 | This is the story of my motorcycle ride to Tiger Fall, Chakrata, Uttarakhand in India, during March, 2018 |
 | Stayed at Hotel MRB Residency |
-| ![](https://github.com/inbravo/travel/blob/master/march-2018/images/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/raw/master/march-2018/images/route-map.jpg)|
 
 ---
 
@@ -12,12 +12,12 @@
 *	My bag full of most of things, which i wish never to use like puncture kits, spare parts, first aid etc.
 *	Several new additions in my kit, from the learnings from last mistakes e.g. first aid kit
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/prep.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/prep.jpg)
 
 *	Eager to throttle again, I am ready to track another hill of Uttarakhand; my favorite place to find peace and happiness
 *	Few glasses of water and a tea, before heading out alone with nine years old companion; my Enfield Electra
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/start.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/start.jpg)
 
 ##  4:30 AM Modinagar
 *	This is the one of the notorious highway; famous for its traffic jams
@@ -33,14 +33,14 @@
 *	I was recalling my old days, when i use to run barefoot and testing my physical endurance
 *	Few riders on KTM Duke motorcycle, passed me like a wind. There are various types of rider spirits; i felt like i am the slowest one!
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/mzfrngr.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/mzfrngr.jpg)
 
 ##  6:00 AM Muzaffarnagar
 *	Bypassing one of the oldest city of Uttar Pradesh, back in days very famous for crimes
 *	It’s the last days of north Indian winter and i am stiff like log owing to the cold winds. Using the breathing techniques of [Wim Hoff](https://en.wikipedia.org/wiki/Wim_Hof) 
 *	Few minor stops to empty my bladder and take pictures of fields with growing wheat crop
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_073031.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_073031.jpg)
 
 ##  6:50 AM Roorkee
 *	Roorkee has a large Indian Army base; which is home of the famous Bengal Sappers
@@ -71,38 +71,38 @@
 *	Crossing this small town to find the Vikas Nagar Chakrata road, which is going to take us to our destination
 *	Stopped for few minutes on the bridge, took pictures, hills are visible from here
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_130836.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_130836.jpg)
 
 ##  10:30 AM Kalsi
 *	A small town with lot many fruit vendors flocking the road, crossed it quickly to proceed on my journey
 *	Air is cold now, nature is mixed with rocks and greenery 
 *	Minimal traffic on road, road construction in progress. Took few halts here and there owing to construction machines
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_113130.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_115053.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_122136.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_122158.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_122217.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_123251.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_113130.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_115053.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_122136.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_122158.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_122217.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_123251.jpg)
 
 ##  11:15 AM Sahiya
 *	Its a small town, with a iron bridge passing through the mid of town
 *	Stopped for few minutes, to gulp some water and dry fruits and headed again towards my next destination
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_121800.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_122002.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_122032.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_123514.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_123730.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_123736.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_123739.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_121800.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_122002.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_122032.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_123514.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_123730.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_123736.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_123739.jpg)
 
 ##  12:45 PM Kaliyana
 *	Crossing another small town, stopped for pee and took some pictures
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_124842.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_124846.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_124929.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_124842.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_124846.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_124929.jpg)
 
 ##  1:40 PM Chakrata
 *	Arrived in the town, home of one of the special unit of Indian Army named [Special Frontier Force](https://en.wikipedia.org/wiki/Special_Frontier_Force)
@@ -112,11 +112,11 @@
 *	And my mind started calculating to decide where to go next either Tiger Fall or Devban. Decided to visit Tiger Fall
 *	Dragged my motorcycle again to take me another distant place where one of the highest fall of this region is situated
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_132212.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_132256.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_152939.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_153241.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_154103.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_132212.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_132256.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_152939.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_153241.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_154103.jpg)
 
 ##  4:50 PM Tiger Fall
 *	Its a near by place, you need to track down for the water fall for around five hundred meters 
@@ -124,12 +124,12 @@
 *	Spend around an hour there, took a bath in chilly water of fall, very relaxing and peaceful
 *	Entire days tiredness is lost after a tea at small nearby shack 
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_163851.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_163851.jpg)
 
 *	Spend around an hour there, just sitting idle and doing nothing
 *	Talked with the guard of fall named Dayaram, talks with him reveals the beautiful nature of mountain natives
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_165423.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_165423.jpg)
 
 *	Finally when the darkness starting taking cover, i decided to ride back to the Chakrata town
 *	Took around 45 minutes to return back to Chakrata. After unpacking my gears, i headed for the same restaurant where i ate lunch	
@@ -141,24 +141,24 @@
 *	around 9 hours ride in front of me, this time i am taking different route, which is comparatively shorter from the previous one  
 *	Took pictures of several places while returning back. After all pictures are the only source of remembering these beautiful moments of my life 
 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_112235.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_112257.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_114952.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_124804.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_135718.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_141537.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_172000.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_112235.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_112257.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_114952.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_124804.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_135718.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_141537.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_172000.jpg)
 
 ##	Stay: Hotel MRB Chakrata
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180311_104931.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_185343.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/morning.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180311_104931.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_185343.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/morning.jpg)
 
 ##	Food: Sher-E-Punjab (Lion of Punjab) Hotel in Chakrata
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_140549.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_135149.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_140549.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_135149.jpg)
 
 ##	The Rider 
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/face.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/glance.jpg)
-![](https://github.com/inbravo/travel/blob/master/march-2018/images/IMG_20180310_122539.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/face.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/glance.jpg)
+![](https://github.com/inbravo/travel/raw/master/march-2018/images/IMG_20180310_122539.jpg)

@@ -1,7 +1,7 @@
 |  "Travel makes one modest. You see what a tiny place you occupy in the world" - Gustav Flaubert |
 | :--- |
 | This is the story of my motorcycle ride to India Gate. Delhi, India during August, 2017 |
-| ![](https://github.com/inbravo/travel/blob/master/august-2017/images/route-map.jpg)|
+| ![](https://github.com/inbravo/travel/raw/master/august-2017/images/route-map.jpg)|
 
 ---
 
@@ -20,19 +20,19 @@
 * 	We filled our bellied with warm Bedami Pudi, Aloo Jhol ki Sabji, Kashifal ki Sabji, Masala Mirch and Raita
 * 	After getting Sabji-Pudies packed, we headed our homes and finally made a breakfast surprise for our family 
 
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_20170812_062001.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_20170812_063254.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_20170812_063246.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_20170812_064506.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_20170812_060500.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_1035.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_1143.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_1123.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_1138.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_1029.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_1007.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_20170812_063340.jpg)
-![](https://github.com/inbravo/travel/blob/master/august-2017/images/IMG_20170812_082626.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_062001.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_063254.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_063246.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_064506.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_060500.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1035.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1143.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1123.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1138.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1029.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1007.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_063340.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_082626.jpg)
 
 
 
