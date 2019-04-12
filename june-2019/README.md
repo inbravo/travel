@@ -8,8 +8,8 @@
 ---
 
 ## **Routes**
-* [Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/circuit-route.md): easier circuit route
-* [Manali-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/route.md): this one is short
+* [Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/circuit-route.md): easier route
+* [Manali-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/route.md): shorter route
 
 ## **Fuel**
 * **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
@@ -29,11 +29,12 @@
 	* [Nakee La](https://www.thrillophilia.com/attractions/nakee-la) (@15,647ft): located between Sarchu and Pang
 	* [Baralacha La](https://en.wikipedia.org/wiki/Bara-lacha_la) (@16,040ft): in Zanskar range, connecting Lahaul in HP to Ladakh in J&K
     * [Rohtang La](https://en.wikipedia.org/wiki/Rohtang_Pass) (@13,050ft): between the stretch of Marhi and Sissu
-* **Leh-Nubra** route has [**Khardung La**](https://en.wikipedia.org/wiki/Khardung_La)(@17,582ft): highest moterable pass 
-* **Pangong-Leh** route has [**Chang La**](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest moterable pass
+* **Leh-Nubra** route has [**Khardung La**](https://en.wikipedia.org/wiki/Khardung_La)(@17,582ft): highest motorable pass 
+* **Pangong-Leh** route has [**Chang La**](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest motorable pass
 
 ## Essentials		
-* List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list.md) & [motorcycle checks before starting the trip](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) for a rider
+* List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list.md) 
+* [Motorcycle checks before starting the trip](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) for a rider
 
 ## **Permits**
 * Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
