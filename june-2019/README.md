@@ -14,15 +14,15 @@
 * **Leh-Diskit**: TODO
 
 ## **Passes**
-* **Srinagar-Leh** route has **Zoji La** (@11,575ft), which is 100 km after Srinagar and 15 km before Sonmarg
+* **Srinagar-Leh** route has [**Zoji La**](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), which is 100 km after Srinagar and 15 km before Sonmarg
 * **Leh-Manali** route has 5 passes
-    * **Tanglang La** (@17,480ft): after crossing 'More plains'. Start descending from here 
-	* **Lungalacha La** (@16,600ft): located some 54 km from Sarchu and 24 km from Pang
-	* **Nakee La** (@15,647ft): located between Sarchu and Pang. The ascent to the pass is called 21 'Gata loops'
-	* **Baralacha La** (@16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
-    * **Rohtang La** (@13,050ft): between the stretch of Marhi and Sissu
-* **Leh-Nubra** route has **Khardung La**(@17,582ft): highest moterable pass 
-* **Pangong-Leh** route has **Chang La (@17,590ft): second highest moterable pass
+    * [**Tanglang La**](https://en.wikipedia.org/wiki/Taglang_La) (@17,480ft): after crossing 'More plains'. Start descending from here 
+	* [**Lungalacha La**](https://en.wikipedia.org/wiki/Lungalacha_La) (@16,600ft): located some 54 km from Sarchu and 24 km from Pang
+	* [**Nakee La**[(https://www.thrillophilia.com/attractions/nakee-la) (@15,647ft): located between Sarchu and Pang. The ascent to the pass is called 21 'Gata loops'
+	* [**Baralacha La**](https://en.wikipedia.org/wiki/Bara-lacha_la) (@16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
+    * [**Rohtang La**](https://en.wikipedia.org/wiki/Rohtang_Pass) (@13,050ft): between the stretch of Marhi and Sissu
+* **Leh-Nubra** route has [**Khardung La**](https://en.wikipedia.org/wiki/Khardung_La)(@17,582ft): highest moterable pass 
+* **Pangong-Leh** route has [**Chang La**](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest moterable pass
 
 ## Essentials		
 * List of [**items to carry**](carry-list.md) & [**motorcycle checks before starting the trip**](check-list.md) for a rider
@@ -41,7 +41,7 @@
 	* Validity of the inner line permit, is 1 week for Indians and 1 week for foreigners
 	* You need to mention all places enroute so that you are not sent back from any post
 
-## **Wisdom**
+## **Wisdom of Riders**
 * Always pack before sleeping
 * Try to avoid a pillion on this ride
 * Carry only the most essential items
