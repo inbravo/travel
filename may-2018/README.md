@@ -1,7 +1,7 @@
 
 ---
 
-| "Travel is fatal to prejudice, bigotry, and narrow-mindedness" – Mark Twain |
+| |
 | :--- |
 | This is the story of my motorcycle ride to Shivpuri, Rishikesh, Uttarakhand in India, during May, 2018 |
 

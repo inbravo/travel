@@ -1,7 +1,7 @@
 
 ---
 
-| “Traveling. It leaves you speechless, then turns you into a Storyteller.” - Unknown |
+| |
 | :--- |
 | This is the story of my motorcycle ride to Lansdowne, Uttarakhand, India during July, 2017 |
 

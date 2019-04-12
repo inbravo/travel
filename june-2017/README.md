@@ -1,7 +1,7 @@
 
 ---
 
-|  "Take only memories, leave only footprints" – Chief Seattle |
+| |
 | :---  |
 | This is the story of my motorcycle ride to Humayun Tomb, Delhi, India during June, 2017 |
 
