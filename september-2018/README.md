@@ -26,6 +26,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180928_203027_HHT.jpg)
 
+## Hall of Fame
 * Next day visited Indian Army maintained Hall of Fame, singing the glory of Indian armed forces history in region
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180929_100249.jpg)
@@ -34,6 +35,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180929_105122.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180929_112417_HDR.jpg)
 
+## Khardung La
 * Next in trip was the highest moterable point named, Khardungla 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180930_110226.jpg)
@@ -41,10 +43,12 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180930_121918.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180930_125947.jpg)
 
+## Nubra valley
 * Arrived at Nubra valley and next stop is Diskit monestry 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180930_140323.jpg)
 
+## Diskit monestry
 * Maitray Buddha facing Pakistan at Diskit monestry
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180930_141133.jpg)
@@ -73,17 +77,20 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181001_131255.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181001_131324.jpg)
 
+## Pangong Tso
 * Arrived at beautiful salt water lake
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181001_141806.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181001_141826.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181001_141828.jpg)
 
-* Headed back to Leh, and arrived at 2nd highest moterable point, Changla. Here Indian Defense Research Lab researches for high altitude equipments  
+## Chang La
+* Headed back to Leh, and arrived at 2nd highest moterable point, Chang La. Here Indian Defense Research Lab researches for high altitude equipments  
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181001_175908.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181001_175915.jpg)
 
+## Leh local
 * Next stay headed out for Leh city tour. Visited the Leh palace and local market
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181002_113316.jpg)
