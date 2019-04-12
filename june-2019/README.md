@@ -8,9 +8,9 @@
 ## **Essentials**
 * **Route**: [Ghaziabad -> Jammu -> Srinagar -> Leh -> Turtuk -> Pangong -> Leh -> Sarchu -> Manali -> Ghaziabad](route.md)
 * **Fuel**: 
-	* Srinagar-Leh: Kangan (70 kms from Srinagar), Sonamarg (80 kms from Srinagar),  Kargil (200 kms from Srinagar), Mulbekh (240 kms from Srinagar), Wakha (245 kms from Srinagar), Khaltsi  (325 kms from Srinagar)
-	* Leh-Nubra: Diskit (155 kms from Leh)
-	* Leh-Manali: Tandi (367 kms from Leh) 
+	* **Srinagar-Leh**: Srinagar -70kms-> Kangan -10kms-> Sonamarg -120kms-> Kargil -40kms-> Mulbekh -85kms-> Khaltsi -95-> Leh
+	* **Leh-Nubra**: Diskit (155 kms from Leh)
+	* **Leh-Manali**: Tandi (367 kms from Leh) 
 
 ## **Passes**
 * Srinagar-Leh route
