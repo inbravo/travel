@@ -50,7 +50,7 @@
 	* Validity of the inner line permit, is 1 week for Indians and 1 week for foreigners
 	* You need to mention all places enroute so that you are not sent back from any post
 
-## **Riders Wisdom**
+## **Pieces of wisdom**
 * Always pack before sleeping
 * No puncture repair in Leh on Sunday
 * Try to avoid a pillion on this ride
