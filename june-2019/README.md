@@ -52,17 +52,20 @@
 
 ## **Riders Wisdom**
 * Always pack before sleeping
+* No puncture repair in Leh on Sunday
 * Try to avoid a pillion on this ride
 * Carry only the most essential items
 * Control your ego while riding in groups
 * Carry ample cash, while riding at hills
 * Tighten your spare fuel can with carrier
+* Always give path to vehicles climbing on hills
 * Take small pauses every 1-2 hours to cool down
 * Fog light at fronts and reflecting tapes at the back
 * Stay friendly with everyone, you encounter while riding
 * Remember the cold starting your motorcycle every morning
 * Water and food is the key to health, drink and eat wisely
 * Honk on every turn and never drive in wrong lane, on hills
+* Switch off your lights to let climbing vehicles see clearly
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
 * In high altitude regions, avoid sleeping during the day time
 * Fill up your tanks every night, to avoid any delay in morning 
@@ -77,7 +80,7 @@
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
 * Keep all necessary documents at an easily traceable place e.g. tank bag etc
 * Water streams (nala) are easier to cross in morning, owing to less water flow
-* Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting
+* Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting  
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare fuel can
 
