@@ -18,8 +18,8 @@
 * **Leh-Manali** route has 5 passes
     * [**Tanglang La**](https://en.wikipedia.org/wiki/Taglang_La) (@17,480ft): after crossing 'More plains'. Start descending from here 
 	* [**Lungalacha La**](https://en.wikipedia.org/wiki/Lungalacha_La) (@16,600ft): located some 54 km from Sarchu and 24 km from Pang
-	* [**Nakee La**[(https://www.thrillophilia.com/attractions/nakee-la) (@15,647ft): located between Sarchu and Pang. The ascent to the pass is called 21 'Gata loops'
-	* [**Baralacha La**](https://en.wikipedia.org/wiki/Bara-lacha_la) (@16,040ft): in Zanskar range, connecting Lahaul district in HP to Ladakh in J&K
+	* [**Nakee La**](https://www.thrillophilia.com/attractions/nakee-la) (@15,647ft): located between Sarchu and Pang
+	* [**Baralacha La**](https://en.wikipedia.org/wiki/Bara-lacha_la) (@16,040ft): in Zanskar range, connecting Lahaul in HP to Ladakh in J&K
     * [**Rohtang La**](https://en.wikipedia.org/wiki/Rohtang_Pass) (@13,050ft): between the stretch of Marhi and Sissu
 * **Leh-Nubra** route has [**Khardung La**](https://en.wikipedia.org/wiki/Khardung_La)(@17,582ft): highest moterable pass 
 * **Pangong-Leh** route has [**Chang La**](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest moterable pass
