@@ -7,6 +7,7 @@
 -	[Tehri Dam, Uttarakhand, India](september-2017/README.md)
 -	[Dhanaulti, Uttarakhand, India](october-2017/README.md)
 -	[Tiger Fall, Chakrata, Uttarakhand, India](march-2018/README.md)
+-	[Nainital, Uttarakhand, India](september-2018-1/README.md)
 -	[Laddakh, J&K, India](september-2018/README.md)
 -	[Yamunotri, Uttarakhand, India](october-2018/README.md)
 -	[Shivpuri, Rishikesh, Uttarakhand, India](may-2018/README.md)✗
