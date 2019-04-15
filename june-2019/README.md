@@ -10,8 +10,8 @@
 ## **Routes**
 * [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/ghaziabad-srinagar-leh.md)
 * [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-khardungla-diskit-turtuk.md)
-* [Leh-Tsomoriri](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-tsomoriri.md)
-* [Leh-Manali-Ghaziabad](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-manali-ghaziabad.md)
+* [Turtuk-Tsomoriri](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-tsomoriri.md)
+* [Tsomoriri-Sarchu-Manali-Ghaziabad](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-manali-ghaziabad.md)
 
 ## **Fuel**
 * **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
