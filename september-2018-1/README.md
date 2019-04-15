@@ -3,7 +3,7 @@
 
 | |
 | :--- |
-| This is the story of my riding to Nainital, Uttarakhand, India|
+| This is the story of my riding trip to Nainital, Uttarakhand, India|
 
 ---
 

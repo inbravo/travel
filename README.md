@@ -1,5 +1,3 @@
-# List of travelogues
-
 -	[India Gate, Delhi, India](august-2017/README.md)
 -	[Humayun Tomb, Delhi, India](june-2017/README.md)
 -	[Aravalli, Faridabad, India](may-2017/README.md)
@@ -10,7 +8,7 @@
 -	[Nainital, Uttarakhand, India](september-2018-1/README.md)
 -	[Laddakh, J&K, India](september-2018/README.md)
 -	[Yamunotri, Uttarakhand, India](october-2018/README.md)
--	[Shivpuri, Rishikesh, Uttarakhand, India](may-2018/README.md)✗
--	[Kedarkantha, Uttarakhand, India](january-2019/README.md)✗
--	[Vashishth Gufa, Rishikesh, Uttarakhand, India](february-2019/README.md)✗
--	[Turtuk, J&K, India](june-2019/README.md)✗
+-	[Shivpuri, Rishikesh, Uttarakhand, India](may-2018/README.md)
+-	[Kedarkantha, Uttarakhand, India](january-2019/README.md)
+-	[Vashishth Gufa, Rishikesh, Uttarakhand, India](february-2019/README.md)
+-	[Turtuk, J&K, India](june-2019/README.md)
