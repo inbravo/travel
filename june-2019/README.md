@@ -8,18 +8,15 @@
 ---
 
 ## **Routes**
-* [Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/circuit-route.md): long route
-* [Manali-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/route.md): shorter route
+* [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/ghaziabad-srinagar-leh.md)
+* [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-khardungla-diskit-turtuk.md)
+* [Leh-Tsomoriri](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-tsomoriri.md)
+* [Leh-Manali-Ghaziabad](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-manali-ghaziabad.md)
 
 ## **Fuel**
 * **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
 * **Leh-Manali**: Tandi (367 kms from Leh) is the only pump on this route, very critical
 * **Leh-Turtuk**: Diskit (155 kms from Leh) but not working sometimes
-
-## **Repair**
-* **Srinagar-Leh**: Ganderbal, Sonamarg, Kargil, Lamayuru (puncture), Mulbekh (puncture), Nimmu (puncture), Leh
-* **Leh-Manali**: Sarchu, Keylong, Jispa
-* **Leh-Turtuk**: Khardung, Khalsar, Diskit
 
 ## **Passes**
 * **Srinagar-Leh** route has [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), 100kms after Srinagar and 15kms before Sonmarg
@@ -29,8 +26,8 @@
 	* [Nakee La](https://www.thrillophilia.com/attractions/nakee-la) (@15,647ft): located between Sarchu and Pang
 	* [Baralacha La](https://en.wikipedia.org/wiki/Bara-lacha_la) (@16,040ft): in Zanskar range, connecting Lahaul in HP to Ladakh in J&K
     * [Rohtang La](https://en.wikipedia.org/wiki/Rohtang_Pass) (@13,050ft): between the stretch of Marhi and Sissu
-* **Leh-Nubra** route has [**Khardung La**](https://en.wikipedia.org/wiki/Khardung_La)(@17,582ft): highest motorable pass 
-* **Pangong-Leh** route has [**Chang La**](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest motorable pass
+* **Leh-Nubra** route has [Khardung La](https://en.wikipedia.org/wiki/Khardung_La)(@17,582ft): highest motorable pass 
+* **Pangong-Leh** route has [Chang La](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest motorable pass
 
 ## Essentials		
 * List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list.md) 
