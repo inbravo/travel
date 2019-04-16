@@ -64,15 +64,12 @@
 *	Finally after complete refreshment, we decided to ride again and enjoy the hill beauty
 
 ![](https://github.com/inbravo/travel/raw/master/july-2017/images/2.jpg)
-![](https://github.com/inbravo/travel/raw/master/july-2017/images/3.jpg)
 ![](https://github.com/inbravo/travel/raw/master/july-2017/images/12.jpg)
 ![](https://github.com/inbravo/travel/raw/master/july-2017/images/13.jpg)
 ![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112515.jpg)
-![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112526.jpg)
 ![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112535.jpg)
 ![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112545.jpg)
 ![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_112550.jpg)
-![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_113030.jpg)
 ![](https://github.com/inbravo/travel/raw/master/july-2017/images/IMG_20171119_113210.jpg)
 
 ##  Kho River to Lansdowne (12:00 PM)
