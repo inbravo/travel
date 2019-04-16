@@ -87,10 +87,8 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_105057.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_105132.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_133300.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_133404.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_134045.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_135549.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_135634.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_135641.jpg)
 
 ##  Tehri Dam (11:45 AM)
@@ -103,8 +101,6 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114419.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114424.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114659.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_115303.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_120611.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_114532.jpg)
 
