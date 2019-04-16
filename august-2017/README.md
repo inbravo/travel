@@ -33,7 +33,6 @@
 ![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1138.jpg)
 ![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1029.jpg)
 ![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1007.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_063340.jpg)
 ![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_082626.jpg)
 
 

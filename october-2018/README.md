@@ -39,7 +39,7 @@
 * We stayed at a small hotel before eating at small shack, run by a old lady and her husband
 * Decided to restart again at 5 o'clock to quickly start climbing towards Yamunotri temple
 * We slept perfectly and woke up at 4 o'clock. Drove untill Janki Chatti, which was just 18 kms from us
-* Exactly at 5:30, we started hiking towards Yamunotri
+* Exactly at 5:30, we started hiking towards Yamunotri temple
 
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_062846.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_063256.jpg)
