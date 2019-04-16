@@ -94,7 +94,6 @@
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_111458.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_112603.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_114425.jpg)
-![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_114702.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_114705.jpg)
 
 ##  Dhanaulti (12:00 PM)
