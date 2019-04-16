@@ -22,17 +22,18 @@
 * 	We filled our bellied with warm Bedami Pudi, Aloo Jhol ki Sabji, Kashifal ki Sabji, Masala Mirch and Raita
 * 	After getting Sabji-Pudies packed, we headed our homes and finally made a breakfast surprise for our family 
 
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_062001.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_063254.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_063246.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_064506.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1007.JPG)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1029.JPG)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1035.JPG)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1123.JPG)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1138.JPG)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1143.JPG)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_055215.jpg)
 ![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_060500.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1035.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1143.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1123.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1138.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1029.jpg)
-![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_1007.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_062001.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_063246.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_063254.jpg)
+![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_064506.jpg)
 ![](https://github.com/inbravo/travel/raw/master/august-2017/images/IMG_20170812_082626.jpg)
 
 
