@@ -7,8 +7,7 @@
 
 ---
 
-##  Ghaziabad (5:00 AM)
-* Waiting for Raghvendra to with all the things in packed and placed
+* I am at home ready with everything for the trip and waiting for Raghvendra
 * Started driving towards Muradnagar Ganga canal, will be using it to drive towards Muzaffarnagar
 * Soon we were on the canal road, which is entirely traffic less, making us cruise faster towards our destination
 * Arrived at NH58 crossing at Khatauli, Muzaffarnagar. Next stop is Saharanpur
@@ -54,6 +53,7 @@
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_081936.jpg)
 
 * Finally after 3 hours of hike, we arrived at the Yamunotri temple
+
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_091006.jpg)
 
 
@@ -77,8 +77,10 @@
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_142554.jpg)
 
 * Finally arrived at Dehradun and decided to stay for the night
+
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181014_060944.jpg)
 
 * Its early morning and we are driving towards Rishikesh. This is so beautiful to ride through nature early morning
+
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181014_073807.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181014_074019.jpg)
