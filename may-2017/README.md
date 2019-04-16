@@ -17,15 +17,13 @@
 ##  Suraj Kund (6:10 AM)
 *	Rode for 37 kilometers from our homes, arrived at Suraj Kund
 
-![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_3899.JPG)
-![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_3900.jpg)
-![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_071225.jpg)
-![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_072039.jpg)
-![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_070306.JPG)
 ![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_0977.JPG)
 ![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_0978.JPG)
-![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_3896.JPG)
-
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_071225.jpg)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_072039.jpg)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_3899.JPG)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_3900.JPG)
+![](https://github.com/inbravo/travel/raw/master/may-2017/images/IMG_20170730_070306.jpg)
 
 
 
