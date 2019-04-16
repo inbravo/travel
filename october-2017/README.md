@@ -81,7 +81,6 @@
 *	The more I drove, the more peaceful and lonely it became. Finally i halted at a turn to rest and captured some beautiful moments
 
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_103532.jpg)
-![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_105521.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_105526.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_105542.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_105820.jpg)
@@ -107,7 +106,6 @@
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_112613.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_112619.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_113447.jpg)
-![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_113517.jpg)
 
 ##  Surkanda Devi (12:30 PM)
 *	[Surkanda Devi](https://en.wikipedia.org/wiki/Surkanda_Devi) is a famous temple on the top of hill
