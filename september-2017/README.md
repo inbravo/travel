@@ -83,7 +83,6 @@
 *	This water flow got bigger and bigger as I got closer to Dam, and finally the WoW factor arrived
 
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_103054.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_103104.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_105057.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_105132.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2017/images/IMG_20170909_133300.jpg)
