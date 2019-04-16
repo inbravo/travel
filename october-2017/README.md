@@ -71,11 +71,10 @@
 *	Exactly before the hill town, took a pause of few minutes
 
 ![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_100555.jpg)
-![](https://github.com/inbravo/travel/raw/master/october-2017/images/IMG_20171014_100702.jpg)
 
 ##  Mussoorie (10:30 AM)
 *	Mussoorie seems so busy now, I thought of my earlier visits to this beautiful city and realized the changes
-*	Road to Dhanaulti is exactly before the government inter collage, on your right hand. I missed it and took a U turn after enquiring from locals
+*	Road to Dhanaulti is exactly before the government inter collage, on your right hand. I missed it and took a U turn after esquiring from locals
 *	Arrived on road to Dhanaulti, its steep and narrow now; which means excitement
 *	I found that road is under construction and with some minor halts here and there, i was peacefully riding uphill 
 *	The more I drove, the more peaceful and lonely it became. Finally i halted at a turn to rest and captured some beautiful moments
