@@ -58,7 +58,7 @@
 10. **Karu -> Leh** [35 km and altitude at 11,483 ft]
 	* Continue on the highway towards Leh. Do not take the right turn just before Karu that leads to Shyok. Good road
 	
-<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/manali-to-leh.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/raw/master/june-2019/images/manali-to-leh.jpg" width="700"></p>
 
 ## **Manali to Ghaziabad** (570 kms) 
 1. **Manali -> Kullu** [40 kms via NH 3]

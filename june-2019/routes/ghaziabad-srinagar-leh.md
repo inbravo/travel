@@ -13,7 +13,7 @@
 4. **Chanderkote -> Banihal** [40 kms via NH44]
 5. **Banihal -> Srinagar** [100 kms via NH44]
 
-<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/delhi-to-srinagar.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/raw/master/june-2019/images/delhi-to-srinagar.jpg" width="700"></p>
 
 ## **Srinagar to Kargil** (200 kms) 
 1. **Srinagar -> Ganderbal** [20 kms via NH1]
@@ -28,4 +28,4 @@
 4. **Alchi -> Magnetic hill** [40 kms via NH1]
 5. **Magnetic hill -> Leh** [37 kms via NH1]
 	
-<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/srinagar-to-leh.jpg" width="700"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/raw/master/june-2019/images/srinagar-to-leh.jpg" width="700"></p>

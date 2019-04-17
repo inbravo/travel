@@ -24,4 +24,4 @@
 	* You can ride to Thang from Tyakshi. Which is actually the last village of India
 	* Thang is the last post of india, merely 2 kms from Pakistan occupied j&K
 
-<p align="center"><img src="https://github.com/inbravo/travel/blob/master/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
+<p align="center"><img src="https://github.com/inbravo/travel/raw/master/june-2019/images/leh-to-turtuk.jpg" width="900"></p>
