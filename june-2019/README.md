@@ -18,8 +18,8 @@
 
 ## **Fuel**
 * **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
-* **Leh-Manali**: Tandi (367 kms from Leh), Karu (30 kms from Leh)  
-* **Leh-Turtuk**: Diskit (155 kms from Leh), Karu (13 kms before Upshi)
+* **Leh-Khardungla-Diskit-Turtuk**: Leh, Diskit (155 kms from Leh), Karu (13 kms before Upshi)
+* **Sarchu-Manali-Ghaziabad**: Tandi (114 kms from Sarchu), Manali  
 
 ## **Passes**
 * **Srinagar-Leh** route has [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), 100kms after Srinagar and 15kms before Sonmarg
@@ -86,8 +86,8 @@
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare/jerry fuel can
 
 ## Downloads
-* Complete [plan](https://github.com/inbravo/travel/raw/master/june-2019/pdf/README.pdf) 
-* Routes
+* Complete [plan](https://github.com/inbravo/travel/raw/master/june-2019/pdf/complete-plan.pdf) 
+* Route maps
 	* [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/raw/master/june-2019/pdf/ghaziabad-srinagar-leh.pdf)
 	* [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/raw/master/june-2019/pdf/leh-khardungla-diskit-turtuk.pdf)
 	* [Turtuk-Tsomoriri-Sarchu](https://github.com/inbravo/travel/raw/master/june-2019/pdf/leh-tsomoriri-sarchu.pdf)
