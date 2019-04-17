@@ -86,12 +86,12 @@
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare/jerry fuel can
 
 ## Downloads
-* [Complete plan](https://github.com/inbravo/travel/blob/master/june-2019/pdf/README.pdf) 
+* Complete [plan](https://github.com/inbravo/travel/raw/master/june-2019/pdf/README.pdf) 
 * Routes
-	* [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/pdf/ghaziabad-srinagar-leh.pdf)
-	* [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/blob/master/june-2019/pdf/leh-khardungla-diskit-turtuk.pdf)
-	* [Turtuk-Tsomoriri-Sarchu](https://github.com/inbravo/travel/blob/master/june-2019/pdf/leh-tsomoriri-sarchu.pdf)
-	* [Sarchu-Manali-Ghaziabad](https://github.com/inbravo/travel/blob/master/june-2019/pdf/sarchu-manali-ghaziabad.pdf)
+	* [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/raw/master/june-2019/pdf/ghaziabad-srinagar-leh.pdf)
+	* [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/raw/master/june-2019/pdf/leh-khardungla-diskit-turtuk.pdf)
+	* [Turtuk-Tsomoriri-Sarchu](https://github.com/inbravo/travel/raw/master/june-2019/pdf/leh-tsomoriri-sarchu.pdf)
+	* [Sarchu-Manali-Ghaziabad](https://github.com/inbravo/travel/raw/master/june-2019/pdf/sarchu-manali-ghaziabad.pdf)
 
 ### **References**
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](https://github.com/inbravo/travel/blob/master/june-2019/references/dk-pandit-guidance.md)
