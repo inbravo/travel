@@ -68,9 +68,11 @@
 * After the rituals and staying for an hour, we started tracking back to our place of start
 * It was exactly 12:30 PM and local people are amazed to see how soon we tracked the distance
 * At the parking, we ate something and restarted driving again towards Dehradun
-* Stopped at some places to take some pictures and get something to eat
 
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_122008.jpg)
+
+* Stopped at some places here and there on our way back and took some pictures
+
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_132601.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_133451.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_133507.jpg)
