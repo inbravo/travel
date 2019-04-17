@@ -48,7 +48,7 @@
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_073505.jpg)
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_073938.jpg)
 
-* Initial 3 kms hike was steep but later it was easier to walk. Entire track is narrow and difficult
+* Initial 3 kms hike was steep but later it was easier to walk. Track is narrow and slightly difficult
 
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_081936.jpg)
 
@@ -58,7 +58,11 @@
 
 
 * At Yamunotri temple, there is a natural stream of hot water, very refreshing and rejuvenating
- 
+
+![](https://github.com/inbravo/travel/raw/master/october-2018/images/pool-png.png) 
+
+* Near by the Yamunotri temple, the small stream of river Yamuna flows
+
 ![](https://github.com/inbravo/travel/raw/master/october-2018/images/IMG_20181013_092711.jpg)
 
 * After the rituals and staying for an hour, we started tracking back to our place of start
