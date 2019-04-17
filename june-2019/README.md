@@ -37,9 +37,10 @@
 * [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) before starting the trip
 
 ## **Permits**
-* Rohtang pass requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
+* Passing Rohtang pass, from Manali requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
 	* Permit can be obtained two days in advance
 	* Private vehicles can cross Rohtang pass before 12 o'clock
+	* There is no need of permit while coming back from Leh
 * Leh inner line permit to visit further in Ladakh region, can be obtained [online](http://www.lahdclehpermit.in)
 	* Leh DC office (near polo ground) J&K Tourist Information Center (near car parking) provides permits
 	* Permit office works 9-5PM but applications are accepted up to 3PM only
@@ -55,17 +56,17 @@
 * No puncture repair in Leh on Sunday
 * Try to avoid a pillion on this ride
 * Carry only the most essential items
+* Always give way to vehicles climbing
 * Control your ego while riding in groups
 * Carry ample cash, while riding at hills
 * Tighten your spare fuel can with carrier
-* Always give path to vehicles climbing on hills
 * Take small pauses every 1-2 hours to cool down
+* Honk on every turn and never drive in wrong lane
 * In high altitude regions, avoid staying or sleeping
 * Fog light at fronts and reflecting tapes at the back
 * Stay friendly with everyone, you encounter while riding
 * Remember the cold starting your motorcycle every morning
 * Water and food is the key to health, drink and eat wisely
-* Honk on every turn and never drive in wrong lane, on hills
 * Switch off your lights to let climbing vehicles see clearly
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
 * Fill up your tanks every night, to avoid any delay in morning 
