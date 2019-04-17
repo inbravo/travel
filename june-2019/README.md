@@ -7,7 +7,7 @@
 
 ---
 
-## **Routes**
+## **Route**
 
 * [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/ghaziabad-srinagar-leh.md): 1270 kms and 5 nights stay
 * [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-khardungla-diskit-turtuk.md): 245 kms and 1 night stay
@@ -18,8 +18,8 @@
 
 ## **Fuel**
 * **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
-* **Leh-Manali**: Tandi (367 kms from Leh) is the only pump on this route, very critical
-* **Leh-Turtuk**: Diskit (155 kms from Leh) but not working sometimes
+* **Leh-Manali**: Tandi (367 kms from Leh), Karu (30 kms from Leh)  
+* **Leh-Turtuk**: Diskit (155 kms from Leh), Karu (30 kms before Upshi)
 
 ## **Passes**
 * **Srinagar-Leh** route has [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), 100kms after Srinagar and 15kms before Sonmarg
