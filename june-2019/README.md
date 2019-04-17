@@ -19,7 +19,7 @@
 ## **Fuel**
 * **Srinagar-Leh**: Srinagar-70kms->Kangan-10kms->Sonamarg-120kms->Kargil-40kms->Mulbekh-85kms->Khaltsi-95->Leh
 * **Leh-Manali**: Tandi (367 kms from Leh), Karu (30 kms from Leh)  
-* **Leh-Turtuk**: Diskit (155 kms from Leh), Karu (30 kms before Upshi)
+* **Leh-Turtuk**: Diskit (155 kms from Leh), Karu (13 kms before Upshi)
 
 ## **Passes**
 * **Srinagar-Leh** route has [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), 100kms after Srinagar and 15kms before Sonmarg
