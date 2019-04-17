@@ -75,12 +75,12 @@
 * Early start is best to avoid any traffic. Avoid riding late hours
 * Avoid making pre-bookings; planing don't works mostly on this trip
 * In case of any medical emergency, contact the local military camps
-* Don't stay long at Khardungla. Mountain sickness can kill your joy
 * Avoid any bravery while crossing the water streams (nala), take help
 * Avoid starting your motorcycle while crossing the water streams (nala)
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
 * Keep all necessary documents at an easily traceable place e.g. tank bag etc
 * Water streams (nala) are easier to cross in morning, owing to less water flow
+* Don't stay long at any high altitude point. Mountain sickness can kill your joy
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting  
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare/jerry fuel can
