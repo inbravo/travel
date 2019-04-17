@@ -9,10 +9,10 @@
 
 ## **Routes**
 
-* [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/ghaziabad-srinagar-leh.md)
-* [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-khardungla-diskit-turtuk.md)
-* [Turtuk-Tsomoriri-Sarchu](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-tsomoriri-sarchu.md)
-* [Sarchu-Manali-Ghaziabad](https://github.com/inbravo/travel/blob/master/june-2019/routes/sarchu-manali-ghaziabad.md)
+* [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/ghaziabad-srinagar-leh.md): 1260 kms
+* [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-khardungla-diskit-turtuk.md): 245 kms
+* [Turtuk-Tsomoriri-Sarchu](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-tsomoriri-sarchu.md): 630 kms
+* [Sarchu-Manali-Ghaziabad](https://github.com/inbravo/travel/blob/master/june-2019/routes/sarchu-manali-ghaziabad.md): 780 kms
 
 <p align="center"><img src="https://github.com/inbravo/travel/raw/master/june-2019/images/complete-route.jpg" width="900"></p>
 
