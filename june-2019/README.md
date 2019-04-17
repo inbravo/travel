@@ -56,7 +56,7 @@
 * No puncture repair in Leh on Sunday
 * Try to avoid a pillion on this ride
 * Carry only the most essential items
-* Always give way to vehicles climbing
+* Always give way to climbing vehicles 
 * Control your ego while riding in groups
 * Carry ample cash, while riding at hills
 * Tighten your spare fuel can with carrier
