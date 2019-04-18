@@ -16,14 +16,12 @@
 	* Lots of warm socks, to change after crossing water streams 
 
 ## Carry items for a motorcycle rider
-* Tow cable
-* Small knife
-* Spark plug
-* Spare clutch lever and wire
-* Accelerator wire 
-* Oil seal and shocker seal
-* Engine oil filter and engine oil
-* Chain lubricant and chain locks
+* Tow cable and Small knife
+* Small clips to hang your clothes on luggage ropes
+* Spark plug and zero number sand paper
+* Accelerator and clutch wire/lever 
+* Engine oil and front shocker seal
+* Chain lubricant and chain links
 * Mseal and duct tape
 * Plastic sheets to cover the baggage and also to cover you in case of intermittent rains
 * Puncture kit, air pump/tyre inflater
@@ -37,7 +35,8 @@
 
 ## Documents
 * 2 ID minimum (aadhaar and PAN etc)
-* Driving license and vehicle papers
+* Driving license and vehicle papers (registration, insurance and pollution)
+* 
 * Take copies of IDs
 
 ## Safety
