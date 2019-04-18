@@ -16,7 +16,7 @@
 	* Lots of warm socks, to change after crossing water streams 
 
 ## Carry items for a motorcycle rider
-* Tow cable and Small knife
+* Tow cable and small knife
 * Small clips to hang your clothes on luggage ropes
 * Spark plug and zero number sand paper
 * Accelerator and clutch wire/lever 
@@ -36,7 +36,6 @@
 ## Documents
 * 2 ID minimum (aadhaar and PAN etc)
 * Driving license and vehicle papers (registration, insurance and pollution)
-* 
 * Take copies of IDs
 
 ## Safety
