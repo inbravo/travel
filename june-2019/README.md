@@ -99,4 +99,5 @@
 
 ### **References**
 * [Ladakh Planner by DK Pundit from Ladakh Return forum on Facebook](https://github.com/inbravo/travel/blob/master/june-2019/references/dk-pandit-guidance.md)
-* [Dheeraj Sharma from devilsonwheels.com](http://devilonwheels.com)
+* [devilsonwheels.com](http://devilonwheels.com)
+* [vargiskhan.com](http://vargiskhan.com)
