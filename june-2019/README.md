@@ -69,11 +69,11 @@
 * In high altitude regions, avoid staying or sleeping
 * Fog light at fronts and reflecting tapes at the back
 * Stay friendly with everyone, you encounter while riding
-* Remember the cold starting your motorcycle every morning
+* Remember the cold starting your motorcycle every morning 
 * Water and food is the key to health, drink and eat wisely
 * Switch off your lights to let climbing vehicles see clearly
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
-* Fill up your tanks every night, to avoid any delay in morning 
+* Fill up your tanks every night, to avoid any delay in morning
 * Do not ride in the outer most lane, its where the animal roams
 * Keep glucose biscuits and ORS liquid at easily accessible place
 * Early start is best to avoid any traffic. Avoid riding late hours
@@ -84,6 +84,7 @@
 * Avoid crossing Manali-Rohtang-Koksar on Tuesday, its closed for maintenance
 * Keep all necessary documents at an easily traceable place e.g. tank bag etc
 * Water streams (nala) are easier to cross in morning, owing to less water flow
+* From Sonamarg to Kargil traffic is allowed during noon hours (1 to 5 PM) only
 * Don't stay long at any high altitude point. Mountain sickness can kill your joy
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting  
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
