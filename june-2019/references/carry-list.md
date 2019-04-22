@@ -28,7 +28,6 @@
 * Torch, match box or lighter
 * Fuel pipe to transfer fuel from other bikes
 * Bungee cords to hold the bags
-* Small stool, can be used to sit anywhere
 * Spanner, plier and key set, specially to open your tyres in case of puncture
 * Electric wire 2 meter, in case of any electrical failure
 * Small mettle wire to bind if something breaks 

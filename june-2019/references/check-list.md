@@ -1,7 +1,9 @@
 ## Checks applicable to Enfield Electra 5S 2008 Model
-* Check fuel pipe
+* Fuel pipe check
+* Battery life check
 * Silencer nut check
-* Check clutch plates
+* Clutch plates check
+* Tighten all nut/bolts
 * Spark plug check/change
 * Engine oil change/check
 * Alternator wiring check
@@ -11,8 +13,7 @@
 * Shocker seal/oil leak check
 * Tyres and tubes check/change
 * Accelerator wire check/change
-* Battery current strength check
-* Chain-set cleaning and greasing
+* Chain-set cleaning and lubrication
 * Rear drum brake wire/shoes check/change
 * Center bearing check for both the wheels
 * Front drum brake/shoes wiring check/change
