@@ -37,8 +37,8 @@
 * **Pangong-Leh** route has [Chang La](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest motorable pass
 
 ## Essentials		
-* List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list.md) 
-* [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list.md) before starting the trip
+* List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list/README.md) 
+* [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list/README.md) before starting the trip
 
 ## **Permits**
 * Passing Rohtang pass, from Manali requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
