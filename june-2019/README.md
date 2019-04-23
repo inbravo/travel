@@ -57,6 +57,7 @@
 
 ## **Pieces of wisdom**
 * Always pack before sleeping
+* From Srinagar wear your warm liners
 * No puncture repair in Leh on Sunday
 * Try to avoid a pillion on this ride
 * Carry only the most essential items
@@ -67,6 +68,7 @@
 * Take small pauses every 1-2 hours to cool down
 * Honk on every turn and never drive in wrong lane
 * In high altitude regions, avoid staying or sleeping
+* Never skip any checkpoint, always register with them
 * Fog light at fronts and reflecting tapes at the back
 * Stay friendly with everyone, you encounter while riding
 * Remember the cold starting your motorcycle every morning 
