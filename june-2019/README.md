@@ -8,7 +8,7 @@
 ---
 
 ## **Plan**
-* 12 days riding trip, starting on 1st June from Ghaziabad
+* 12 days riding trip, starting on 1st June from Ghaziabad, India
 
 <p align="center"><img src="https://github.com/inbravo/travel/raw/master/june-2019/images/itinerary.jpg" width="900"></p>
 
@@ -77,7 +77,7 @@
 * Carry only the most essential items
 * Always give way to climbing vehicles 
 * Control your ego while riding in groups
-* Carry ample cash, while riding at hills
+* Carry ample cash, while riding in hills
 * Tighten your spare fuel can with carrier
 * Avoid accelerating with half clutch for long
 * Take small pauses every 1-2 hours to cool down
@@ -105,6 +105,7 @@
 * Don't stay long at any high altitude point. Mountain sickness can kill your joy
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting  
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
+* In high altitude regions, apply oil on the belly button, to keep your lips moisturized
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare/jerry fuel can
 * Remember that civilian traffic is stopped on J&K highways on certain days for armed forces movement
 
