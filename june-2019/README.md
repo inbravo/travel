@@ -78,6 +78,7 @@
 * Control your ego while riding in groups
 * Carry ample cash, while riding at hills
 * Tighten your spare fuel can with carrier
+* Avoid accelerating with half clutch for long
 * Take small pauses every 1-2 hours to cool down
 * Honk on every turn and never drive in wrong lane
 * Never skip any checkpoint, always register with them
