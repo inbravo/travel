@@ -94,7 +94,7 @@
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting  
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare/jerry fuel can
-* Local administration stops civilian traffic, for armed forces movement on certain days these days 
+* Remember that civilian traffic is stopped on J&K highways on certain days for armed forces movement
 
 ## Downloads
 * Complete [plan](https://github.com/inbravo/travel/raw/master/june-2019/pdf/complete-plan.pdf) 
