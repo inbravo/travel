@@ -43,14 +43,14 @@
 * **Pangong-Leh** route has [Chang La](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest motorable pass
 
 ## **Tunnels**
-* **Jammu-Srinagar-Leh** route has 5 key tunnels (open and under construction)
+* **Jammu-Srinagar-Leh** route has 5 key tunnels (some still under construction)
 	* [Chenani-Nashri](https://en.wikipedia.org/wiki/Chenani-Nashri_Tunnel): length of 9.28kms
 	* [Jawahar](https://en.wikipedia.org/wiki/Jawahar_Tunnel): length of 2.85kms
 	* [Nandni](https://en.wikipedia.org/wiki/Nandni_tunnels): series of 4 tunnels with length of 1.4kms
 	* [Banihal Qazigund Road](https://en.wikipedia.org/wiki/Banihal_Qazigund_Road_Tunnel): work in progress
 	* [Zoji-la](https://en.wikipedia.org/wiki/Zoji-la_Tunnel): work in progress
 	* [Z-Morh](https://en.wikipedia.org/wiki/Z-Morh_Tunnel): work in progress
-* **Delhi-Manali-Leh** route has 2 tunnels (open and under construction)
+* **Delhi-Manali-Leh** route has 2 tunnels (some still under construction)
 	* [Aut](https://www.dangerousroads.org/asia/india/7830-aut-tunnel.html): length of 2.8km, gateway to Kullu-Manali
 	* [Rohtang](https://en.wikipedia.org/wiki/Rohtang_Tunnel): work in progress
 
