@@ -51,8 +51,8 @@
 	* [Zoji-la](https://en.wikipedia.org/wiki/Zoji-la_Tunnel): work in progress
 	* [Z-Morh](https://en.wikipedia.org/wiki/Z-Morh_Tunnel): work in progress
 * **Delhi-Manali-Leh** route has 2 tunnels (open and under construction)
-	* [Rohtang](https://en.wikipedia.org/wiki/Rohtang_Tunnel): work in progress
 	* [Aut](https://www.dangerousroads.org/asia/india/7830-aut-tunnel.html): length of 2.8km, gateway to Kullu-Manali
+	* [Rohtang](https://en.wikipedia.org/wiki/Rohtang_Tunnel): work in progress
 
 ## **Permits**
 * Passing Rohtang pass, while coming from Manali requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
