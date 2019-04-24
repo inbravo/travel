@@ -12,6 +12,10 @@
 
 <p align="center"><img src="https://github.com/inbravo/travel/raw/master/june-2019/images/itinerary.jpg" width="900"></p>
 
+## Riding Essentials		
+* List of [items to carry] for a motorcycle rider(https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list/README.md) 
+* [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list/README.md) before starting the trip
+
 ## **Route**
 
 * [Complete route](https://github.com/inbravo/travel/blob/master/june-2019/routes/complete-route.md)
@@ -49,10 +53,6 @@
 	* [Z-Morh](https://en.wikipedia.org/wiki/Z-Morh_Tunnel): work in progress
 * **Leh-Manali** route has 1 tunnel
 	* [Rohtang](https://en.wikipedia.org/wiki/Rohtang_Tunnel): work in progress
-	
-## Essentials		
-* List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list/README.md) 
-* [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list/README.md) before starting the trip
 
 ## **Permits**
 * Passing Rohtang pass, while coming from Manali requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
