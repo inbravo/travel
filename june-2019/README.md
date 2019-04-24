@@ -39,6 +39,17 @@
 * **Leh-Nubra** route has [Khardung La](https://en.wikipedia.org/wiki/Khardung_La)(@17,582ft): highest motorable pass 
 * **Pangong-Leh** route has [Chang La](https://en.wikipedia.org/wiki/Chang_La) (@17,590ft): second highest motorable pass
 
+## **Tunnels**
+* **Jammu-Srinagar-Leh** route has 5 key tunnels
+	* [Chenani-Nashri](https://en.wikipedia.org/wiki/Chenani-Nashri_Tunnel): length of 9.28kms
+	* [Jawahar](https://en.wikipedia.org/wiki/Jawahar_Tunnel): length of 2.85kms
+	* [Nandni](https://en.wikipedia.org/wiki/Nandni_tunnels): series of 4 tunnels with length of 1.4kms
+	* [Banihal Qazigund Road](https://en.wikipedia.org/wiki/Banihal_Qazigund_Road_Tunnel): work in progress
+	* [Zoji-la](https://en.wikipedia.org/wiki/Zoji-la_Tunnel): work in progress
+	* [Z-Morh](https://en.wikipedia.org/wiki/Z-Morh_Tunnel): work in progress
+* **Leh-Manali** route has 1 tunnel
+	* [Rohtang](https://en.wikipedia.org/wiki/Rohtang_Tunnel): work in progress
+	
 ## Essentials		
 * List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list/README.md) 
 * [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list/README.md) before starting the trip
