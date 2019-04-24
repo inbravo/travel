@@ -21,7 +21,7 @@
 * Spark plug and zero number sand paper
 * Accelerator and clutch wire/lever 
 * Engine oil and front shocker seal
-* Chain lubricant and chain links
+* Chain lubricant, cleaning brush and chain links
 * Mseal and duct tape
 * Plastic sheets to cover the baggage and also to cover you in case of intermittent rains
 * Puncture kit, air pump/tyre inflater
