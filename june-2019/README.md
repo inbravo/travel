@@ -17,8 +17,7 @@
 * [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list/README.md) before starting the trip
 
 ## **Route**
-
-* [Complete route](https://github.com/inbravo/travel/blob/master/june-2019/routes/complete-route.md)
+* [Complete route map](https://github.com/inbravo/travel/blob/master/june-2019/routes/complete-route-map.md)
 * [Ghaziabad-Srinagar-Leh](https://github.com/inbravo/travel/blob/master/june-2019/routes/ghaziabad-srinagar-leh.md): 1270 kms and 5 nights stay (including 1 night at Leh)
 * [Leh-Khardungla-Diskit-Turtuk](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-khardungla-diskit-turtuk.md): 245 kms and 1 night stay
 * [Turtuk-Tsomoriri-Sarchu](https://github.com/inbravo/travel/blob/master/june-2019/routes/leh-tsomoriri-sarchu.md): 630 kms and 2 night stay
