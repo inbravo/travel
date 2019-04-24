@@ -13,7 +13,7 @@
 <p align="center"><img src="https://github.com/inbravo/travel/raw/master/june-2019/images/itinerary.jpg" width="900"></p>
 
 ## Riding Essentials		
-* List of [items to carry] for a motorcycle rider(https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list/README.md) 
+* List of [items to carry](https://github.com/inbravo/travel/blob/master/june-2019/references/carry-list/README.md) for a motorcycle rider
 * [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list/README.md) before starting the trip
 
 ## **Route**
