@@ -70,10 +70,10 @@
 * Tighten your spare fuel can with carrier
 * Take small pauses every 1-2 hours to cool down
 * Honk on every turn and never drive in wrong lane
-* In high altitude regions, avoid staying or sleeping
 * Never skip any checkpoint, always register with them
 * Fog light at fronts and reflecting tapes at the back
 * Stay friendly with everyone, you encounter while riding
+* In high altitude regions, avoid staying long or sleeping
 * Remember the cold starting your motorcycle every morning 
 * Water and food is the key to health, drink and eat wisely
 * Switch off your lights to let climbing vehicles see clearly
@@ -94,6 +94,7 @@
 * Acute Mountain Sickness (AMS) symptoms are headache, dizziness, fever or vomiting  
 * Avoid following any vehicle for long, try to overtake and avoid any pothole/obstacle
 * Avoid full tank, keep little bit of air in it. Also keep opening your spare/jerry fuel can
+* Local administration stops civilian traffic, for armed forces movement on certain days these days 
 
 ## Downloads
 * Complete [plan](https://github.com/inbravo/travel/raw/master/june-2019/pdf/complete-plan.pdf) 
