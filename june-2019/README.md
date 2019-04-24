@@ -3,7 +3,7 @@
 
 |  |
 | :---  |
-| This is the plan of my motorcycle ride to Turtuk and Tsomoriri in Ladakh region of India during June, 2019 |
+| This is the plan of my motorcycle ride to Ladakh, India during June, 2019 |
 
 ---
 
