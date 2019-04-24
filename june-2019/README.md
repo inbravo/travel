@@ -26,8 +26,11 @@
 * **Sarchu-Manali-Ghaziabad**: Tandi (114 kms from Sarchu), Manali, Kullu, Mandi  
 
 ## **Passes**
-* **Srinagar-Leh** route has [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), 100kms after Srinagar and 15kms before Sonmarg
-* **Leh-Manali** route has 5 passes
+* **Srinagar-Leh** route has 3 key passes
+	* [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), 100kms after Srinagar and 15kms before Sonmarg
+	* [Fotu La](https://en.wikipedia.org/wiki/Fotu_La) (@13,478ft), start descending towards the Lamayuru after it
+	* [Namika La](https://en.wikipedia.org/wiki/Namika_La) (@12,139ft), between Kargil and Leh
+* **Leh-Manali** route has 5 key passes
     * [Tanglang La](https://en.wikipedia.org/wiki/Taglang_La) (@17,480ft): after crossing 'More plains'. Start descending from here 
 	* [Lungalacha La](https://en.wikipedia.org/wiki/Lungalacha_La) (@16,600ft): located some 54kms from Sarchu and 24kms from Pang
 	* [Nakee La](https://www.thrillophilia.com/attractions/nakee-la) (@15,647ft): located between Sarchu and Pang
@@ -41,14 +44,14 @@
 * [Motorcycle checks](https://github.com/inbravo/travel/blob/master/june-2019/references/check-list/README.md) before starting the trip
 
 ## **Permits**
-* Passing Rohtang pass, from Manali requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
+* Passing Rohtang pass, while coming from Manali requires a permit, can be obtained [online](https://rohtangpermits.nic.in)
 	* Permit can be obtained two days in advance
 	* Private vehicles can cross Rohtang pass before 12 o'clock
-	* There is no need of permit while coming back from Leh
+	* There is no need of permit while coming back from Leh to Manali
 * Leh inner line permit to visit further in Ladakh region, can be obtained [online](http://www.lahdclehpermit.in)
 	* Leh DC office (near polo ground) J&K Tourist Information Center (near car parking) provides permits
 	* Permit office works 9-5PM but applications are accepted up to 3PM only
-	* Pay the inner line permit fees as mentioned in the form
+	* Pay the inner line permit fees as mentioned in the form. 
 	* Self attested photocopies of identity, is necessary
 	* Besides permit application form, you need to write an application addressing Leh DC
 	* In the application, you need to mention the places along with the visiting dates
