@@ -60,7 +60,7 @@
 	* Private vehicles can cross Rohtang pass before 12 o'clock
 	* There is no need of permit while coming back from Leh to Manali
 * Leh inner line permit to visit further in Ladakh region, can be obtained [online](http://www.lahdclehpermit.in)
-	* Leh DC office (near polo ground) J&K Tourist Information Center (near car parking) provides permits
+	* Leh DC office (near polo ground) and J&K Tourist Information Center (near car parking) provides permits
 	* Permit office works 9-5PM but applications are accepted up to 3PM only
 	* Pay the inner line permit fees as mentioned in the form. 
 	* Self attested photocopies of identity, is necessary
