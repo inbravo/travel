@@ -38,10 +38,8 @@
 * Take copies of IDs
 
 ## Safety
-* Riding jacket and pant
-* Riding gloves
-* Leg and arm protector
-* Helmet and sunglass
+* Riding jacket/pant or leg-arm protector
+* Riding gloves, helmet and sunglass
 
 ## Hygiene
 * Sleeping bag
