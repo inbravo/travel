@@ -3,7 +3,7 @@
 
 |  |
 | :---  |
-| This is the plan of my motorcycle ride to Ladakh, India during June, 2019 |
+| This is the plan of my motorcycle ride to Ladakh, India during June 2019 |
 
 ---
 
@@ -60,14 +60,14 @@
 	* Private vehicles can cross Rohtang pass before 12 o'clock
 	* There is no need of permit while coming back from Leh to Manali
 * Leh inner line permit to visit further in Ladakh region, can be obtained [online](http://www.lahdclehpermit.in)
-	* Leh DC office (near polo ground) and J&K Tourist Information Center (near car parking) provides permits
+	* Leh DC office (near polo ground) and J&K Tourist Information Center (near car parking) provide permits
 	* Permit office works 9-5PM but applications are accepted up to 3PM only
 	* Pay the inner line permit fees as mentioned in the form. 
 	* Self attested photocopies of identity, is necessary
 	* Besides permit application form, you need to write an application addressing Leh DC
 	* In the application, you need to mention the places along with the visiting dates
 	* Validity of the inner line permit, is 1 week for Indians and 1 week for foreigners
-	* You need to mention all places enroute so that you are not sent back from any post
+	* You need to mention all places on route so that you are not sent back from any post
 
 ## **Pieces of wisdom**
 * Always pack before sleeping
@@ -87,14 +87,14 @@
 * Stay friendly with everyone, you encounter while riding
 * In high altitude regions, avoid staying long or sleeping
 * Remember the cold starting your motorcycle every morning 
-* Water and food is the key to health, drink and eat wisely
+* Water and food are the key to health, drink and eat wisely
 * Switch off your lights to let climbing vehicles see clearly
 * Prepaid connections don't work in J&K. Best is BSNL postpaid
 * Fill up your tanks every night, to avoid any delay in morning
 * Do not ride in the outer most lane, its where the animal roams
 * Keep glucose biscuits and ORS liquid at easily accessible place
 * Early start is best to avoid any traffic. Avoid riding late hours
-* Avoid making pre-bookings; planing don't works mostly on this trip
+* Avoid making pre-bookings; planning doesn’t works mostly on this trip
 * In case of any medical emergency, contact the local military camps
 * Avoid any bravery while crossing the water streams (nala), take help
 * Avoid starting your motorcycle while crossing the water streams (nala)
