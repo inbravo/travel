@@ -21,7 +21,7 @@
 * Spark plug and zero number sand paper
 * Accelerator and clutch wire/lever 
 * Engine oil and front shocker seal
-* Chain lubricant, cleaning brush and chain links
+* Chain lube, cleaning brush and chain links
 * Mseal and duct tape
 * Plastic sheets to cover the baggage and also to cover you in case of intermittent rains
 * Puncture kit, air pump/tyre inflater
@@ -35,7 +35,7 @@
 ## Documents
 * 2 ID minimum (aadhaar and PAN etc)
 * Driving license and vehicle papers (registration, insurance and pollution)
-* Take copies of IDs
+* Take copies of IDs and passport size photographs
 
 ## Safety
 * Riding jacket/pant or leg-arm protector

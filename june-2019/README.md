@@ -31,8 +31,8 @@
 ## **Passes**
 * **Srinagar-Leh** route has 3 key passes
 	* [Zoji La](https://en.wikipedia.org/wiki/Zoji_La) (@11,575ft), 100kms after Srinagar and 15kms before Sonmarg
-	* [Fotu La](https://en.wikipedia.org/wiki/Fotu_La) (@13,478ft), start descending towards the Lamayuru after it
 	* [Namika La](https://en.wikipedia.org/wiki/Namika_La) (@12,139ft), between Kargil and Leh
+	* [Fotu La](https://en.wikipedia.org/wiki/Fotu_La) (@13,478ft), start descending towards the Lamayuru after it
 * **Leh-Manali** route has 5 key passes
     * [Tanglang La](https://en.wikipedia.org/wiki/Taglang_La) (@17,480ft): after crossing 'More plains'. Start descending from here 
 	* [Lungalacha La](https://en.wikipedia.org/wiki/Lungalacha_La) (@16,600ft): located some 54kms from Sarchu and 24kms from Pang
