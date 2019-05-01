@@ -71,6 +71,7 @@
 
 ## **Pieces of wisdom**
 * Always pack before sleeping
+* Carry spare keys of your motorcycle
 * From Srinagar wear your warm liners
 * No puncture repair in Leh on Sunday
 * Try to avoid a pillion on this ride
