@@ -8,7 +8,7 @@
 ---
 
 ##  Ghaziabad (4:15 AM)
-* Early morning arrival in Leh, taken Indigo flight from Delhi at 8 o'clock in the morning
+* <>
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG-20180916-WA0009.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG-20180916-WA0021.jpg)
