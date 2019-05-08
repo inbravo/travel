@@ -32,6 +32,12 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180916_082859.jpg)
 
+* Snow view point is actually a scenic spot featuring panoramic views of snow-capped Himalayan peaks
+* A powerful binoculars is installed there to view the peaks, which are rarely visible in summers
+* This spot also has some kids fun related activities like toy train, bumper cars and swings etc
+
+![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG-20180916-WA0021.jpg)
+
 * Snow view point is also famous for rope way, our government run guest house provided us free passes for it
 * Using the rope way it took only 5 minutes to reach the main Naini Tal (lake)
 
@@ -40,7 +46,6 @@
 * We strolled on  the mall road for around 1 hour and spent some time sitting at the bank of lake
 * After spending few hours, we decided to buy some beer and enjoy at our rooms
 
-![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG-20180916-WA0021.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG-20180916-WA0035.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_134200.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_135401.jpg)
