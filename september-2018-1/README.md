@@ -17,7 +17,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_084107.jpg)
 
 * Soon after riding for around 4 hours with some minor pee stops, we arrived at Corbett village (Choti Haldwani)
-* Taken left turn from Kaladungi and started climbing towards our destination Nainital
+* Taken left turn from here and started climbing towards Nainital
 * Around 9 AM we decided to breakfast. Stopped at a road side shack restaurant and spent around 30 minutes
 * We stopped for few minutes at Saria Tal (lake) and taken left turn towards government polytechnic school
 
