@@ -24,9 +24,9 @@
 * Snow view point has a government tourist rest house; which is actually the old governor house
 * We checked-in for the day and decided to visit the town after getting refreshed
 * Snow view point is also famous for rope way, our government run guest house provided us free passes for it
-* Using the rope way it took only 5 minutes to reach the main Naini lake
+* Using the rope way it took only 5 minutes to reach the main Naini Tal (lake)
 * We strolled on  the mall road for around 1 hour and spent some time sitting at the bank of lake
-* After spending few hours hours, we decided to buy some beer and enjoy at our rooms
+* After spending few hours, we decided to buy some beer and enjoy at our rooms
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180916_082859.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_104005.jpg)
