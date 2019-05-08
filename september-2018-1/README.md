@@ -46,7 +46,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_143701.jpg)
 
-##  Naini Lake (12:00 AM)
+##  Naini Lake (12:30 PM)
 * Visited the famous Naina devi temple, which is the key reason for the name of this lake
 * We strolled on  the mall road for around 1 hour and spent some time sitting at the bank of lake
 * After spending few hours, we decided to buy some beer and enjoy at our rooms
