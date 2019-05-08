@@ -50,7 +50,6 @@
 * We strolled on  the mall road for around 1 hour and spent some time sitting at the bank of lake
 * After spending few hours, we decided to buy some beer and enjoy at our rooms
 
-![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG-20180916-WA0035.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_134200.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_135401.jpg)
 
