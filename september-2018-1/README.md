@@ -8,9 +8,9 @@
 ---
 
 ##  Ghaziabad (4:15 AM)
-* Good rains has always cheered me but affected also my number of rides this year
-* This years good rains has extended and forced me to cancel my ride plans
-* Decided to go to some nearby place after a friend insisted to plan out with him
+* Good rains has always cheers me but also affects my rides
+* This years good rains has forced me to cancel my many ride plans
+* Finally i decided to go to some nearby place after a friend insisted to join
 * I rarely choose to go to busy travel destinations, but this time i thought about going to Nainital
 * As always started early at 4:15 AM on NH 24 towards Muradabad, and later taken Tanda and Bazpur road
 
