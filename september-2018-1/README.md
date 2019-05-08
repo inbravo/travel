@@ -17,7 +17,7 @@
 
 * Soon after riding for around 4 hours with some minor pee stops, we arrived at Corbett village (Choti Haldwani)
 * Taken left turn from here and started climbing towards Nainital
-* Around 9 AM we decided to breakfast. Stopped at a road side shack restaurant and spent around 30 minutes
+* Around 9 AM we decided to breakfast. Stopped at a road side small restaurant and spent around 30 minutes
 
 ##  Saria Tal (9:00 AM)
 * We stopped for few minutes at Saria Tal (lake) and taken left turn towards government polytechnic school
