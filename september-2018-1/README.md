@@ -12,7 +12,7 @@
 * This years good rains has extended and forced me to cancel my ride plans
 * Decided to go to some nearby place after a friend insisted to plan out with him
 * I rarely choose to go to busy travel destinations, but this time i thought about going to Nainital
-* As always started early at 4:15 AM to head out on NH 24 towards Muradabad, and later taking road for Tanda and Bazpur 
+* As always started early at 4:15 AM on NH 24 towards Muradabad, and later taken Tanda and Bazpur road
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_084107.jpg)
 
@@ -22,7 +22,6 @@
 * We stopped for few minutes at Saria Tal (lake) and taken left turn towards government polytechnic school
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_104005.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG-20180916-WA0009.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_101512.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_101758.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_101854.jpg)
@@ -45,8 +44,15 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG-20180916-WA0035.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_134200.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_135401.jpg)
+
+* This is 9:00 AM in morning and we ordered the most famous breakfast of riders: Parathas
+
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180916_083010_BURST2.jpg)
+
+* After filling our tummies to the neck, we started again on our journey towards home
+
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180916_091903.jpg)
 
-* We arrived at Khurpa Tal (Lake)
+* We arrived at Khurpa Tal (Lake) within 1 hour of our start, halted for few minutes for picture shots
+
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180916_093413.jpg)
