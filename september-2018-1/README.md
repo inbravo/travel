@@ -19,6 +19,8 @@
 * Soon after riding for around 4 hours with some minor pee stops, we arrived at Corbett village (Choti Haldwani)
 * Taken left turn from here and started climbing towards Nainital
 * Around 9 AM we decided to breakfast. Stopped at a road side shack restaurant and spent around 30 minutes
+
+##  Saria Tal (9:00 AM)
 * We stopped for few minutes at Saria Tal (lake) and taken left turn towards government polytechnic school
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_104005.jpg)
@@ -26,7 +28,8 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_101758.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_101854.jpg)
 
-* We reached snow view point at around 10:30 AM. This is one of the highest point of Nainital
+##  Snow View Point (10:30 AM)
+* We reached snow view point, which is also our stay for tonight. This is one of the highest point of Nainital
 * Snow view point has a government tourist rest house; which is actually the old governor house
 * We checked-in for the day and decided to visit the town after getting refreshed
 
@@ -43,6 +46,8 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2018-1/images/IMG_20180915_143701.jpg)
 
+##  Naini Lake (12:00 AM)
+* Visited the famous Naina devi temple, which is the key reason for the name of this lake
 * We strolled on  the mall road for around 1 hour and spent some time sitting at the bank of lake
 * After spending few hours, we decided to buy some beer and enjoy at our rooms
 
