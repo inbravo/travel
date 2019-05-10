@@ -21,9 +21,11 @@
 
 ##  Haridwar (8:00 AM)
 *	Arrived at Haridwar and taken the road to Chandi Mata temple, also going through famous Hydro power generating Chilla Dam
-*   Arrived on Chilla Dam and from here traveled adjacent to Ganga Canal untill the dense forest and hills of Rishikesh
 
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_074619.jpg)
+
+*   Arrived on Chilla Dam and from here traveled adjacent to Ganga Canal untill the dense forest and hills of Rishikesh
+
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_094835.jpg)
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_094839.jpg)
 
