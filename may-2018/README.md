@@ -20,7 +20,7 @@
 * 	After crossing the peripheral expressway, taken the left turn at Ganga canal and throttled to my favorite speed ~70 
 
 ##  Haridwar (8:00 AM)
-*	Arrived at Haridwar and taken the road to Chandi Mata temple, also going through famous Hydro power generating Chilla Dam
+*	Arrived at Haridwar and taken the road to Chandi Mata temple, also going through famous Hydro power project named Chilla Dam
 
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_074619.jpg)
 
