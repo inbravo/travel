@@ -23,6 +23,7 @@
 *	Arrived at Haridwar and taken the road to Chandi Mata temple, also going through famous Hydro power generating Chilla Dam
 *   Arrived on Chilla Dam and from here traveled adjacent to Ganga Canal untill the dense forest and hills of Rishikesh
 
+![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_074619.jpg)
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_094835.jpg)
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_094839.jpg)
 
@@ -44,11 +45,13 @@
 *	At around 5 after drinking the refreshments we decided to take bath on Ganga river flowing near to the camp
 *	Bath at the Ganga was the best thing of the day, felt very relaxed and calm post it
 
+![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_163029.jpg)
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_175535.jpg)
 
 *	We back in camp and started our rounds of beer and wine and enjoyed untill 10 o'clock
 *	Completely relaxed and full of fun and entertainment, we called it the end of today and slept on the folding beds
 *	It was so nice to wakeup to the sounds of birds chirps, it was very early and we slept very well
+*	Few of us decided to go for hike to nearby hills to enjoy the nature
 
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180520_054730.jpg)
 
