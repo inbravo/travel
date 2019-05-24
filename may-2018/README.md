@@ -59,6 +59,8 @@
 
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180520_054730.jpg)
 
-*	At around 10 after taking breakfast, we started towards our journey back home with memories of this small trip
+*	At around 10 after taking breakfast, some of us headed for river rafting at Ganga
+*	I have done rafting several times, so i decided to ride back home with memories of this small trip
+*	After riding for around 4.5 hours, arrived at home peacefully 
 
 ![](https://github.com/inbravo/travel/raw/master/may-2018/images/IMG_20180519_122345.jpg)
