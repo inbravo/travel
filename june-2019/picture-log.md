@@ -23,7 +23,6 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_180056.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_184929.jpg)
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_165855.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_204017.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_131304.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_161637.jpg)
