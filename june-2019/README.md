@@ -65,6 +65,11 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_174933.jpg)
 
+##  Henasku, the invisible village
+*	
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_161637.jpg)
+
 ##  Namikla
 *	
 
@@ -90,7 +95,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 
-##  Pathar Sahib Gurudwara
+##  Gurudwara Pathar Sahib
 *	
 
 ##  Hall of Fame
@@ -108,5 +113,4 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_184929.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_204017.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_131304.jpg)
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_161637.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190607_154459.jpg)
