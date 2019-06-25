@@ -3,11 +3,53 @@
 
 | |
 | :--- |
-| This is the story of my motorcycle ride to Leh, J&K, India|
+| This is the story of my motorcycle ride to Khardungla Leh J&K, India|
 
 ---
 
+##  Ghaziabad
+*	Today is the day, for which i have planned and visualized several times in my thoughts
+*	The plan is to ride on my 11 years old motorcycle to the Worlds highest motorable pass called, Khardungla
+*	This pass holds strategic objective for Indian armed forces, owing to its proximity with China and Pakistan
+*	This pass is notorious for its difficult terrain, climatic conditions and high altitude
+*	Unpredictable snow and rain, make it worse for two wheeler riders
+*	Khardungla holds a unique value in the eyes of all motorcycle riders, like a Makka of Motorcyclists
+
+##  Udhampur
+*	
+
+##  Banihal
+*	
+
+##  Srinagar
+*	
+
+##  Ganderbal
+*	
+
+##  Sonamarg
+*	
+
+##  Zozilla
+*	
+
+##  Drass
+*	
+
+##  Kargil
+*	
+
+##  Mulbekh
+*	
+
+##  Lamayuru
+*	
+
 ##  Leh
+*	
+
+##  Khardungla
+*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_141734.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_144001.jpg)
