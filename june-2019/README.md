@@ -13,7 +13,7 @@
 *	This pass is notorious for its difficult terrain, climatic conditions and high altitude
 *	Unpredictable snow and rain, make it worse, specially for two wheeler riders
 *	Khardungla holds a unique value in the eyes of all motorcycle riders, like a Makka of Motorcyclists
-*	This is my second trip to Laddakh region. Plan left at 3:15 AM from our homes
+*	This is my second trip to Laddakh region. As planed, left at 3:15 AM from home
 *	This is one of the hottest days of north Indian summers. By noon planning to reach J&K
 *	At Karnal i realized that my luggage carrier is broken and hanging from one side
 *	My eyes started searching for a welder and soon found a welding shop and get it fixed
@@ -27,9 +27,14 @@
 *	Able to find a place for the night, hotel Subhash. After a small bargain, settled in room
 *	A small meditation session, helped me to balance my energies after almost 670 kilometers journey of today 
 *	Next morning, heading towards Srinagar, passing through bridges, tunnels and valley on NH 44
+*	After almost 30 minutes ride, arrived at [Chenani-Nashri Tunnel](https://en.wikipedia.org/wiki/Chenani-Nashri_Tunnel)
+*	Scrounged delicious apricots, which are famous in this region. Which will fulfill my glucose need of entire day
 
 ##  Banihal
-*	
+*	A small hill town, Indian railways has recently marked its presence in this town
+*	This is auspicious season of Ramadan and mosques are playing soothing prayer on loudspeakers
+*	Next week is going to be Eid, the holy festival of Muslims
+*	After few minor
 
 ##  Srinagar
 *	
