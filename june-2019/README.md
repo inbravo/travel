@@ -26,7 +26,7 @@
 *	Taking minor stops here and there, finally arrived at Udhampur at 9:00 PM
 *	Able to find a place for the night, hotel Subhash. After a small bargain, settled in room
 *	A small meditation session, helped me to balance my energies after almost 670 kilometers journey of today 
-*	Next morning, left the hotels by 8:00 AM towards Srinagar. Todays journey, will pass through hills, rivers, tunnels and valley
+*	Next morning, heading towards Srinagar, passing through bridges, tunnels and valley on NH 44
 
 ##  Banihal
 *	
