@@ -18,9 +18,9 @@
 *	At Karnal i realized that my luggage carrier is broken and hanging from one side
 *	My eyes started searching for a welder and soon found a welding shop and get it fixed
 *	Somewhere near Phagwara in Punjab, we decided to take lunch at a road side eatery called dhaba
-*	Restarted again and reached Mukerian. Again a small halt at cold drink shop and enjoyed talking with an old man and his son
+*	Reached Mukerian. Again a small halt at cold drink shop and enjoyed talking with an old man and his son
 *	We arrived in Samba and instead of going towards Jammu, decided to take a short cut to Udhampur, J&K
-*	Road from Samba to Udhampur is no more a highway but a small town road, but its scenic and fun to ride in mountains
+*	Road from Samba to Udhampur is not of good quality, but its scenic and fun to ride in mountains
 
 ##  Udhampur
 *	Taking minor stops here and there, we are finally arrived at Udhampur at 9:00 PM
