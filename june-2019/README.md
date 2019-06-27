@@ -8,25 +8,25 @@
 ---
 
 ##  Ghaziabad
-*	June 30, 2019, the plan is to ride on my 11 years old motorcycle to the Worlds highest motorable pass called, Khardungla
+*	June 30, 2019, the plan is to ride on my 11 years old motorcycle to Worlds highest motorable pass: Khardungla
 *	This pass holds strategic objective for Indian armed forces, owing to its proximity with China and Pakistan
 *	This pass is notorious for its difficult terrain, climatic conditions and high altitude
 *	Unpredictable snow and rain, make it worse, specially for two wheeler riders
 *	Khardungla holds a unique value in the eyes of all motorcycle riders, like a Makka of Motorcyclists
 *	This is my second trip to Laddakh region. Plan left at 3:15 AM from our homes
-*	This is one of the hottest days of north Indian summers. By noon we are planning to each Mukerian, Punjab
+*	This is one of the hottest days of north Indian summers. By noon planning to reach J&K
 *	At Karnal i realized that my luggage carrier is broken and hanging from one side
 *	My eyes started searching for a welder and soon found a welding shop and get it fixed
-*	Somewhere near Phagwara in Punjab, we decided to take lunch at a road side eatery called dhaba
+*	Somewhere near Phagwara in Punjab, decided to take lunch at a road side eatery called dhaba
 *	Reached Mukerian. Again a small halt at cold drink shop and enjoyed talking with an old man and his son
-*	We arrived in Samba and instead of going towards Jammu, decided to take a short cut to Udhampur, J&K
-*	Road from Samba to Udhampur is not of good quality, but its scenic and fun to ride in mountains
+*	Arrived in Samba and instead of going towards Jammu, decided to take a short cut to Udhampur, J&K
+*	Road from Samba to Udhampur is not of good condition, but its scenic and fun to ride through mountains
 
 ##  Udhampur
-*	Taking minor stops here and there, we are finally arrived at Udhampur at 9:00 PM
-*	We are able to find a place for the night, hotel Subhash. After a small bargain and settled in our rooms
+*	Taking minor stops here and there, finally arrived at Udhampur at 9:00 PM
+*	Able to find a place for the night, hotel Subhash. After a small bargain, settled in room
 *	A small meditation session, helped me to balance my energies after almost 670 kilometers journey of today 
-*	As we planned, we left our hotels by 8:00 AM towards Srinagar. Todays journey we will pass through hills, rivers, tunnels and valley
+*	Next morning, left the hotels by 8:00 AM towards Srinagar. Todays journey, will pass through hills, rivers, tunnels and valley
 
 ##  Banihal
 *	
