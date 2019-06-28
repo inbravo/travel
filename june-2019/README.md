@@ -27,21 +27,21 @@
 *	Able to find a place for the night, hotel Subhash. After a small bargain, settled in room
 *	A small meditation session, helped me to balance my energies after almost 670 kilometers journey of today 
 *	Next morning, heading towards Srinagar, passing through bridges, tunnels and valley on NH 44
-*	After almost 30 minutes ride, arrived at [Chenani-Nashri Tunnel](https://en.wikipedia.org/wiki/Chenani-Nashri_Tunnel)
-*	Scrounged delicious apricots, which are famous in this region. Which will fulfill my glucose need of entire day
+*	After almost 30 minutes ride, arrived at [Chenani Nashri Tunnel](https://en.wikipedia.org/wiki/Chenani-Nashri_Tunnel)
+*	Scrounged delicious apricots, famous in this region. Apricots fulfilled my glucose need for the entire day
 
 ##  Banihal
 *	A small hill town, Indian railways has recently marked its presence in this town
 *	This is auspicious season of Ramadan and mosques are playing soothing prayer on loudspeakers
 *	Next week is going to be Eid al-Fitr, the holy festival of Muslims
-*	After few minor stops, we arrived at [Jawahar_Tunnel](https://en.wikipedia.org/wiki/Jawahar_Tunnel), operational since 1956
+*	After few minor stops, we arrived at [Jawahar Tunnel](https://en.wikipedia.org/wiki/Jawahar_Tunnel), which is operational since 1956
 *	Post this tunnel, starts the beautiful Srinagar valley. Titanic point gives you the first glance of it
-*	Took a Maggi (noodles) stop here, captured some scenic moments of heaven on earth
+*	Took a noodle (Maggi) stop here, captured some scenic moments of heaven on earth
 *	Talked to some of the south Indian riders, who were riding from Kottayam  
 *	Only few kilometers from Titanic point, we arrived at the famous NH 44. This is a nice road
 *	Ride on NH 44 is smooth. We cherished every moment while riding through the beautiful valley
 *	Took several stops, while passing adjacent to several towns like Tral, Anantnag and Pulwama etc
-*	Armed force are everywhere on NH 44, we are able to feel the sensitivity of this area
+*	Armed forces are everywhere on NH 44, constantly reminding the sensitivity of this zone
 
 ##  Srinagar
 *	For almost 3 hours ride through NH 44, we arrived at the hear of Srinagar, the famous Dal Lake
