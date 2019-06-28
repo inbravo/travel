@@ -9,9 +9,9 @@
 
 ##  Ghaziabad
 *	June 30, 2019, the plan is to ride on my 11 years old motorcycle to Worlds highest motorable pass: Khardungla
-*	This pass holds strategic objective for Indian armed forces, owing to its proximity with China and Pakistan
-*	This pass is notorious for its difficult terrain, climatic conditions and high altitude
-*	Unpredictable snow and rain, make it worse, specially for two wheeler riders
+*	Khardungla holds strategic objective for Indian armed forces, owing to its proximity with China and Pakistan
+*	Khardungla is notorious for its difficult terrain, climatic conditions and high altitude
+*	Unpredictable snow and rain, make Khardungla worse, specially for two wheeler riders
 *	Khardungla holds a unique value in the eyes of all motorcycle riders, like a Makka of Motorcyclists
 *	This is my second trip to Laddakh region. As planed, left at 3:15 AM from home
 *	This is one of the hottest days of north Indian summers. By noon planning to reach J&K
@@ -33,11 +33,18 @@
 ##  Banihal
 *	A small hill town, Indian railways has recently marked its presence in this town
 *	This is auspicious season of Ramadan and mosques are playing soothing prayer on loudspeakers
-*	Next week is going to be Eid, the holy festival of Muslims
-*	After few minor
+*	Next week is going to be Eid al-Fitr, the holy festival of Muslims
+*	After few minor stops, we arrived at [Jawahar_Tunnel](https://en.wikipedia.org/wiki/Jawahar_Tunnel), operational since 1956
+*	Post this tunnel, starts the beautiful Srinagar valley. Titanic point gives you the first glance of it
+*	Took a Maggi (noodles) stop here, captured some scenic moments of heaven on earth
+*	Talked to some of the south Indian riders, who were riding from Kottayam  
+*	Only few kilometers from Titanic point, we arrived at the famous NH 44. This is a nice road
+*	Ride on NH 44 is smooth. We cherished every moment while riding through the beautiful valley
+*	Took several stops, while passing adjacent to several towns like Tral, Anantnag and Pulwama etc
+*	Armed force are everywhere on NH 44, we are able to feel the sensitivity of this area
 
 ##  Srinagar
-*	
+*	For almost 3 hours ride through NH 44, we arrived at the hear of Srinagar, the famous Dal Lake
 
 ##  Ganderbal
 *	
