@@ -56,8 +56,8 @@
 *	Armed forces everywhere, which is making me never forget that i am in disturbed region of my country
 
 ##  Ganderbal
-*	After riding for almost 30 kilometers through beautiful roads, entered in Ganderbal
-*	A left turn towards Kshir Bhawani and another 8 kilometers ride, reached the temple premises
+*	After riding for almost 30 kilometers through town roads, entered in Ganderbal
+*	A left turn and another 8 kilometers ride, reached the Kshir Bhawani premises
 *	A temple with a entire company of security forces for security with so much of preparation, made me feel strange  
 *	Entire temple campus is secured with barbed wire and its gate is secured with barricade and fish nets etc
 *	I am able to get permission, the security people are able to recognize from my dialect that i belong to central India
