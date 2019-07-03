@@ -46,21 +46,21 @@
 
 ##  Srinagar
 *	For almost 3 hours ride through NH 44, arrived at the heart of Srinagar, the famous Dal Lake
-*	Weather is cool here, tourists are flocked around the lake. We took a minor pause
+*	Weather is cool here, tourists are flocked around the lake. Took a minor pause near the bank of lake
 *	A curious kid is attracted towards us. Entire family of the kid, gets involved in interaction with us
 *	Before saying good bye to us, this family suggested us to visit a nearby temple named Kshir Bhawani
 *	I am not able to find any mechanic here, owing to Ramadan days, all mechanics are retired early for the day
-*	Decided to find a mechanic tomorrow early, we started riding for another 20 kilometers towards Ganderbal
-*	Entire Srinagar is busy, lots of life around mosques and roads crossings. We are getting good feelings
-*	We stopped here and there to talk to local people and received warm reception by everyone
-*	Armed forces everywhere, which is making us never forget that we are in disturbed region of our country
+*	After deciding to find a mechanic tomorrow early, started riding for another 20 kilometers towards Ganderbal
+*	Entire Srinagar is busy, lots of life around mosques and roads crossings. I am getting good feelings
+*	After stopping here and there to talk to local people, i realized that people are very welcoming
+*	Armed forces everywhere, which is making me never forget that i am in disturbed region of my country
 
 ##  Ganderbal
-*	After riding for almost 30 kilometers through beautiful roads, we entered in Ganderbal
-*	A left turn towards Kshir Bhawani and another 8 kilometers ride, we reached the temple premises
+*	After riding for almost 30 kilometers through beautiful roads, entered in Ganderbal
+*	A left turn towards Kshir Bhawani and another 8 kilometers ride, reached the temple premises
 *	A temple with a entire company of security forces for security with so much of preparation, made me feel strange  
 *	Entire temple campus is secured with barbed wire and its gate is secured with barricade and fish nets etc
-*	We are able to get permission, the security people are able to recognize from my dialect that i belong to central India
+*	I am able to get permission, the security people are able to recognize from my dialect that i belong to central India
 *	Temple has a guest house, run by J&K government tourism department, at a small charges of only 500 rupees
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_184125.jpg)
