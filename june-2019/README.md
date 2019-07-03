@@ -32,7 +32,7 @@
 ##  Banihal
 *	A small hill town, Indian railways has recently marked its presence in this town
 *	This is auspicious season of Ramadan and mosques are playing soothing prayer on loudspeakers
-*	Next week is going to be Eid al-Fitr, the holy festival of Muslims
+*	Next week is going to be Eid al-Fitr, the holy festival of Muslim religion
 *	After few minor stops, arrived at [Jawahar Tunnel](https://en.wikipedia.org/wiki/Jawahar_Tunnel), which is operational since 1956
 *	Post this tunnel, starts the beautiful Srinagar valley. Titanic point gives you the first glance of it
 *	Took a noodle (Maggi) stop here, captured some scenic moments of heaven on earth
@@ -61,7 +61,8 @@
 *	A temple with a entire company of security forces for security with so much of preparation, made me feel strange  
 *	Entire temple campus is secured with barbed wire and its gate is secured with barricade and fish nets etc
 *	I am able to get permission, the security people are able to recognize from my dialect that i belong to central India
-*	Temple has a guest house, run by J&K government tourism department, at a small charges of only 500 rupees
+*	Temple has a guest house, run by J&K governments tourism department, at the charges of 500 rupees
+*	After settling in guest house, visited the temple. Meditated there for few minutes and took dinner at nearby shop
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_184125.jpg)
 
