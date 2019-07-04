@@ -16,10 +16,18 @@
 *	This is one of the hottest days of north Indian summers. By noon planning to reach J&K
 *	At Karnal i realized that my luggage carrier is broken and hanging from one side
 *	My eyes started searching for a welder and soon found a welding shop and get it fixed
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190531_132445.jpg)
+
 *	Somewhere near Phagwara in Punjab, decided to take lunch at a road side eatery called dhaba
 *	Reached Mukerian. Again a small halt at cold drink shop and enjoyed talking with an old man and his son
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190531_144822.jpg)
+
 *	Arrived in Samba and instead of going towards Jammu, decided to take a short cut to Udhampur, J&K
 *	Road from Samba to Udhampur is not of good condition, but its scenic and fun to ride through mountains
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190531_173717.jpg)
 
 ##  Udhampur
 *	Taking minor stops here and there, finally arrived at Udhampur around 9:00 PM
@@ -29,17 +37,28 @@
 *	After almost 30 minutes ride, arrived at [Chenani Nashri Tunnel](https://en.wikipedia.org/wiki/Chenani-Nashri_Tunnel)
 *	Scrounged delicious apricots, famous in this region. Apricots fulfilled my glucose need for the entire day
 
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_103618.jpg)
+
 ##  Banihal
 *	A small hill town, Indian railways has recently marked its presence in this town
 *	This is auspicious season of Ramadan and mosques are playing soothing prayer on loudspeakers
 *	Next week is going to be Eid al-Fitr, the holy festival of Muslim religion
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_141423.jpg)
+
 *	After few minor stops, arrived at [Jawahar Tunnel](https://en.wikipedia.org/wiki/Jawahar_Tunnel), which is operational since 1956
 *	Post this tunnel, starts the beautiful Srinagar valley. Titanic point gives you the first glance of it
 *	Took a noodle (Maggi) stop here, captured some scenic moments of heaven on earth
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_151110.jpg)
+
 *	Talked to some of the south Indian riders, who were riding from Kottayam  
 *	Only few kilometers from Titanic point, arrived at the famous NH 44. Which is a nice road
 *	Ride on NH 44 is smooth. I cherished every moment while riding through the beautiful valley
 *	Took several stops, while passing adjacent to several towns like Tral, Anantnag and Pulwama etc
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_170920.jpg)
+
 *	Armed forces are everywhere on NH 44, constantly reminding the sensitivity of this zone
 *	My motorcycle has started giving my hiccups and i need to keep cleaning my spark plugs after every 30 mins of ride
 *	Either a adulterated fuel or any carburetor related issue is affecting my speed
@@ -60,11 +79,18 @@
 *	A left turn and another 8 kilometers ride, reached the Kshir Bhawani premises
 *	A temple with a entire company of security forces for security with so much of preparation, made me feel strange  
 *	Entire temple campus is secured with barbed wire and its gate is secured with barricade and fish nets etc
-*	I am able to get permission, the security people are able to recognize from my dialect that i belong to central India
-*	Temple has a guest house, run by J&K governments tourism department, at the charges of 500 rupees
-*	After settling in guest house, visited the temple. Meditated there for few minutes and took dinner at nearby shop
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_184125.jpg)
+
+*	I am able to get permission, the security people are able to recognize from my dialect that i belong to central India
+*	Temple has a guest house, run by J&K governments tourism department, at the charges of 500 rupees
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_075639.jpg)
+
+*	After settling in guest house, visited the temple. Meditated there for few minutes and took dinner at nearby shop
+*	Enjoyed the delicacies of Kashmir in dinner and ended by day with a glass of milk and meditation
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_205353.jpg)
 
 ##  Sonamarg
 *	
