@@ -76,9 +76,9 @@
 
 ##  Ganderbal
 *	After riding for almost 30 kilometers through town roads, entered in Ganderbal
-*	A left turn and another 8 kilometers ride, reached the Kshir Bhawani premises
-*	A temple with a entire company of security forces for security with so much of preparation, made me feel strange  
-*	Entire temple campus is secured with barbed wire and its gate is secured with barricade and fish nets etc
+*	A left turn and another 8 kilometers ride, reached the [Kheer Bhawani](https://en.wikipedia.org/wiki/Kheer_Bhawani) temple
+*	A temple with a entire company of armed forces for security with so much of preparation, made me feel strange  
+*	Entire temple campus is secured with barbed wires and its gate is secured with barricade and fish nets etc
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_184125.jpg)
 
