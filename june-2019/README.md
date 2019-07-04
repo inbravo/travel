@@ -48,20 +48,20 @@
 
 *	After few minor stops, arrived at [Jawahar Tunnel](https://en.wikipedia.org/wiki/Jawahar_Tunnel), which is operational since 1956
 *	Post this tunnel, starts the beautiful Srinagar valley. Titanic point gives you the first glance of it
-*	Took a noodle (Maggi) stop here, captured some scenic moments of heaven on earth
+*	Took a noodle (Maggi) stop at Titanic point, captured some scenic moments of view of Srinagar valley
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_151110.jpg)
 
 *	Talked to some of the south Indian riders, who were riding from Kottayam  
 *	Only few kilometers from Titanic point, arrived at the famous NH 44. Which is a nice road
 *	Ride on NH 44 is smooth. I cherished every moment while riding through the beautiful valley
-*	Took several stops, while passing adjacent to several towns like Tral, Anantnag and Pulwama etc
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_170920.jpg)
 
+*	Took several stops, while passing adjacent to several towns like Tral, Anantnag and Pulwama etc
 *	Armed forces are everywhere on NH 44, constantly reminding the sensitivity of this zone
-*	My motorcycle has started giving my hiccups and i need to keep cleaning my spark plugs after every 30 mins of ride
-*	Either a adulterated fuel or any carburetor related issue is affecting my speed
+*	My motorcycle has started showing tantrums and i am cleaning its spark plugs every 30 mins
+*	Either adulterated fuel or any carburetor related issue is affecting my motorcycle
 
 ##  Srinagar
 *	For almost 3 hours ride through NH 44, arrived at the heart of Srinagar, the famous Dal Lake
@@ -87,10 +87,13 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_075639.jpg)
 
-*	After settling in guest house, visited the temple. Meditated there for few minutes and took dinner at nearby shop
-*	Enjoyed the delicacies of Kashmir in dinner and ended by day with a glass of milk and meditation
+*	After settling in guest house, visited the temple. Meditated there for few minutes 
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_205353.jpg)
+
+*	Enjoyed the delicacies of Kashmir in dinner and ended by day with a glass of milk and meditation
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_212902.jpg)
 
 ##  Sonamarg
 *	
