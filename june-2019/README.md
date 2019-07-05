@@ -66,6 +66,9 @@
 ##  Srinagar
 *	For almost 3 hours ride through NH 44, arrived at the heart of Srinagar, the famous Dal Lake
 *	Weather is cool here, tourists are flocked around the lake. Took a minor pause near the bank of lake
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_6860.JPG)
+
 *	A curious kid is attracted towards us. Entire family of the kid, gets involved in interaction with us
 *	Before saying good bye to us, this family suggested us to visit a nearby temple named Kshir Bhawani
 *	I am not able to find any mechanic here, owing to Ramadan days, all mechanics are retired early for the day
@@ -154,6 +157,7 @@
 
 ##  Drass
 
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_173921.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171904.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171946.jpg)
 
@@ -197,14 +201,19 @@
 
 ##  Gurudwara Pathar Sahib
 
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_110352.jpg)
+
 ##  Hall of Fame
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_180056.jpg)
 
 ##  Leh
 
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_104255.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_200424.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_184929.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_204017.jpg)
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_7342.JPG)
 
 ##  Khardungla
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_152915.jpg)
