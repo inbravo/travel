@@ -201,7 +201,6 @@
 ##  Magnetic Hill
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180929_112417_HDR.jpg)
 
 ##  Gurudwara Pathar Sahib
 
