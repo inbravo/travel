@@ -76,22 +76,26 @@
 
 ##  Ganderbal
 *	After riding for almost 30 kilometers through town roads, entered in Ganderbal
-*	A left turn and another 8 kilometers ride, reached the [Kheer Bhawani](https://en.wikipedia.org/wiki/Kheer_Bhawani) temple
-*	A temple with a entire company of armed forces for security with so much of preparation, made me feel strange  
+*	A left turn towards Tula Mulla and another 8 kilometers, reached the [Kheer Bhawani](https://en.wikipedia.org/wiki/Kheer_Bhawani), a Hindu temple
+*	Temples security, an entire company of armed force, made me feel strange  
 *	Entire temple campus is secured with barbed wires and its gate is secured with barricade and fish nets etc
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_184125.jpg)
 
-*	I am able to get permission, the security people are able to recognize from my dialect that i belong to central India
+*	[Security guys](https://en.wikipedia.org/wiki/Central_Reserve_Police_Force_(India)) is able to recognize from my dialect that i belong to central India
+*	The central part of the India, has a significant contribution in India Armed Forces
 *	Temple has a guest house, run by J&K governments tourism department, at the charges of 500 rupees
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_075639.jpg)
 
 *	After settling in guest house, visited the temple. Meditated there for few minutes 
+* 	The sculpture of goddess Maharagya, is situated in a pond of water, offering of milk and sugar candy
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_205353.jpg)
 
-*	Enjoyed the delicacies of Kashmir in dinner and ended by day with a glass of milk and meditation
+*	Enjoyed Aloo Dum (Fried Potato) and Urad Daal (Lentils) and ended with a glass of milk
+*   Strolled on the roads of temple premises and listened to the prayers on near by mosque
+*   Back to the guest house and packed for tomorrows ride, before meditation and a good night sleep
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_212902.jpg)
 
