@@ -122,9 +122,10 @@
 *	BRO has a big contribution in maintaining the roads of such difficult zones of India
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_144001.jpg)
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_151822.jpg)
 
 *	Passed the zero point, which is famous for ice-skating and snow boarding
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_151822.jpg)
 
 ## 	Zojila War Memorial 
 *	This war memorial is 27 Km from Sonamarg on NH1D, after crossing Zero point
@@ -132,18 +133,29 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_105301.jpg)
 
-*	Arrived at the Kargil check post. Registered here to enter into Kargil valley 
+*	Arrived at the Kargil check post. Registered here, to enter into Kargil valley 
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_160759.jpg)
 
 ## Draupadi Kund
+*	This historical valued place is at left hand side 18 kilometers before Drass, after crossing Zojila
+*	Draupadi Kund is a small lake situated in a hamlet called Pandaras, it is the only high altitude lake in Drass
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_100625.jpg)
+
+##	Mushku Valley 
+*	This valley is 8 km before Drass. Popular for wild flowers during summer in the deserted Ladakh region
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_085546.jpg)
+
+*	At the left hand is a small Indian Army Roll of Honor for the martyrs, died in the Operations Vijay & Rato Khukri
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_085453.jpg)
 
 ##  Drass
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171904.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171946.jpg)
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_085453.jpg)
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_085546.jpg)
 
 ##  Kargil
 
