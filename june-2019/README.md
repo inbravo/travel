@@ -173,6 +173,7 @@
 
 ##  Kargil
 *	Kargil is  the second largest town in Ladakh after Leh
+*	Roads from Kargil to Leh is worth to ride. Tomorrows ride will be the best part of the entire journey
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_075730.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_081532.jpg)
@@ -191,7 +192,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_161637.jpg)
 
 ##  Namikla
-*	(Namika La or Namika Pass](https://en.wikipedia.org/wiki/Namika_La) at 12,139 ft altitude, is a high mountain pass on the Srinagar-Leh highway
+*	[Namika La or Namika Pass](https://en.wikipedia.org/wiki/Namika_La) at 12,139 ft altitude, is a high mountain pass on the Srinagar-Leh highway
 *	Namika La is one of two high passes between Kargil and Leh
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_170525.jpg)
@@ -205,7 +206,7 @@
 
 ##  Lamayuru
 *	Lamayuru is situated on the Srinagar-Leh highway 15 kilometres from Fotula
-*	Lamayuru has a Tibetan Buddhist monastery. which is one of the largest and oldest in Ladakh
+*	Lamayuru has a Tibetan Buddhist monastery. which is one of the largest and oldest monastery in Ladakh
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_130101.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_130252.jpg)
@@ -215,7 +216,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_131304.jpg)
 
 ##	Confluence of Zanskar and Indus Rivers
-*	This famous Confluence is near Nimmu. River rafting and famous Chadar track, starts from here
+*	This famous confluence is near Nimmu. River rafting and famous Chadar track, starts from here
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_162839.jpg)
 
