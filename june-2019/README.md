@@ -131,12 +131,10 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_105301.jpg)
 
 ## Draupadi Kund
-*
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_100625.jpg)
 
 ##  Drass
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171904.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171946.jpg)
@@ -144,22 +142,18 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_085546.jpg)
 
 ##  Kargil
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_081532.jpg)
 
 ##  Mulbekh
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_174933.jpg)
 
 ##  Henasku, the invisible village
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_161637.jpg)
 
 ##  Namikla
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_170525.jpg)
 
@@ -181,7 +175,6 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_162839.jpg)
 
 ##  Magnetic Hill
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 
