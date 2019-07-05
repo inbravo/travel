@@ -95,18 +95,34 @@
 
 *	Enjoyed Aloo Dum (Fried Potato) and Urad Daal (Lentils) and ended with a glass of milk
 *   Strolled on the roads of temple premises and listened to the prayers on near by mosque
-*   Back to the guest house and packed for tomorrows ride, before meditation and a good night sleep
+*   Back to the guest house and packed for tomorrow, before meditation and retiring to bed
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_212902.jpg)
 
-##  Sonamarg
-*	
+##  Hazaratbal
+*	Back to Srinagar to get my machine fixed. In search of a mechanic arrived at [Hazaratbal Shrine](https://en.wikipedia.org/wiki/Hazratbal_Shrine)
+*	Hazaratbal is situated on the Northern bank of the Dal Lake. This shrine is believed to have the hair of Mohammad Sahib
+*	After getting a temporary fix, which i will later realize as my mistake, restarted for Sonamarg
+*	Plan is to reach Kargil today after passing Sonamarg and Zozilla pass
 
-##  Zozilla
-*	
+##  Sonamarg
+*	Ride to Sonamarg, was trouble-sum, owing to my motorcycle but the entire route was scenic  
+*	Sonamarg is the best part of entire Kashmir valley so far, so many movies are filmed here
+*	Stopped here for few minutes and cleaned my machines spark plug and headed towards the notorious Zozilla	
+*	While climbing towards Zozilla, we passed Baltal. Famous pilgrimage to [Amarnath temple](https://en.wikipedia.org/wiki/Amarnath_Temple) starts from here
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_141734.jpg)
+
+##  Zozilla pass
+*	[Zozilla](https://en.wikipedia.org/wiki/Zoji_La) is the first high pass of our trip at the height of 11,575 ft
+*	Condition of motorcycle and the difficult terrain is making it more difficult for me
+*	Stopped for few minutes at Zozilla tiger temple, maintained by [Border Road Organization (BRO)](https://en.wikipedia.org/wiki/Border_Roads_Organisation)
+*	BRO has a big contribution in maintaining the roads of such difficult zones of India
+
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_144001.jpg)
+
+*	After a struggle of around 45 minutes, arrived at the Kargil Gate. Registered here before entering into Kargil valley 
+
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_151822.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_160759.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_121703.jpg)
