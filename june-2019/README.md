@@ -113,6 +113,9 @@
 ##  Sonamarg
 *	Ride to Sonamarg, was trouble-sum, owing to my motorcycle but the entire route was scenic  
 *	Sonamarg is the best part of entire Kashmir valley so far, so many movies are filmed here
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/DSC_0366.JPG)
+
 *	Stopped here for few minutes and cleaned my machines spark plug and headed towards the notorious Zozilla	
 *	While climbing towards Zozilla, we passed Baltal. Famous pilgrimage to [Amarnath temple](https://en.wikipedia.org/wiki/Amarnath_Temple) starts from here
 
@@ -224,13 +227,21 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_180056.jpg)
 
 ##  Leh
-*	
+*	Arrived in Leh, the next immediate need is a mechanic. The search took us to famous mechanic of Leh: Tashi
+*	Tashi is a legend, soon he figured out that the carburetor jet is disturbed. Fuel tank is also cleaned by him 
+*	Within one hour, my machine is ready to roar again for Khardungla. Hunt for stay soon ended at nearby place
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_184929.jpg)
+
+*	We thought about visiting the Leh market. Enjoyed the famous pizza there, and it was really delecious
+
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_204017.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181002_113316.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_7342.JPG)
 
 ##  Khardungla
+*	Next morning, it was time for getting the permit to visit Khardungla
+*	By noon, permit was done. In noon ride to famous Khardungla started 
+*	After 1 hour wait at south pullu, all riders allowed towards Khardungla
+*	Within 1 hour from south pullu, i reached at the Worlds highest motorable pass: Khardungla
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_152915.jpg)
