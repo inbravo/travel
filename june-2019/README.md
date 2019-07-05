@@ -92,7 +92,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_075639.jpg)
 
 *	After settling in guest house, visited the temple. Meditated there for few minutes 
-* 	The sculpture of goddess Maharagya, is situated in a pond of water, offering of milk and sugar candy
+* 	The sculpture of goddess Maharagya, is situated in a pond of water
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_205353.jpg)
 
