@@ -100,7 +100,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_212902.jpg)
 
 ##  Hazaratbal
-*	Back to Srinagar to get my machine fixed. In search of a mechanic arrived at [Hazaratbal Shrine](https://en.wikipedia.org/wiki/Hazratbal_Shrine)
+*	Back to Srinagar to get my machine fixed. Searching for mechanic around [Hazaratbal Shrine](https://en.wikipedia.org/wiki/Hazratbal_Shrine)
 *	Hazaratbal is situated on the Dal Lakes northern bank. The shrine is believed to have Mohammad Sahibs hair
 *	After getting a temporary fix, which i will later realize as my mistake, restarted for Sonamarg
 *	Reached at Sonamarg Entry point. Plan is to reach Kargil today after passing Sonamarg and Zozilla pass
@@ -125,10 +125,14 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_151822.jpg)
 
 *	Passed the zero point, which is famous for ice-skating and snow boarding
-*	After a struggle of around 45 minutes, arrived at the Kargil Gate. Registered here and entered into Kargil valley 
 
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_160759.jpg)
+## 	Zojila War Memorial 
+*	This war memorial is 27 Km from Sonamarg on NH1D, after crossing Zero point
+*	Dedicated to the soldiers who made supreme sacrifice during 1947-48 war with Pakistan
+
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_105301.jpg)
+
+*	Arrived at the Kargil check post. Registered here to enter into Kargil valley 
 
 ## Draupadi Kund
 
@@ -143,6 +147,7 @@
 
 ##  Kargil
 
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_075730.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_081532.jpg)
 
 ##  Mulbekh
