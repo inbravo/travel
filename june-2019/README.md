@@ -212,7 +212,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_130252.jpg)
 
 ## Khalatse
-*	Entering Khalatse, now we are entering the heartland of Buddhism: Stupas, Mani stones and prayer flags everywhere
+*	Starting Khalatse, entered the heartland of Buddhism: Stupas, Mani stones and prayer flags everywhere
 *	Riding at the bank of the Indus river, the people are almost all Buddhist. Khalatse is also famous for its apricots
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_131304.jpg)
