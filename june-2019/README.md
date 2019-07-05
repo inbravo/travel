@@ -13,6 +13,9 @@
 *	Khardungla is notorious for its difficult terrain, climatic conditions and high altitude
 *	Unpredictable snow and rain, make Khardungla worse, specially for two wheeler riders
 *	This is my second trip to Laddakh region. As planed, left at 3:15 AM from home
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190531_031816.jpg)
+
 *	This is one of the hottest days of north Indian summers. By noon planning to reach J&K
 *	At Karnal i realized that my luggage carrier is broken and hanging from one side
 *	My eyes started searching for a welder and soon found a welding shop and get it fixed
