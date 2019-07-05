@@ -203,8 +203,18 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 
 ##  Gurudwara Pathar Sahib
+*	The famous India Army maintained Sikh temple, running Langar the all year 
+*	The legend of this Sikh temple is that the first Sikh guru Guru Nanak Dev was mediating here
+*   A daemon threw a big boulder down a hill towards the guru. and the rock turned into wax
+*	There is an impression of the guru's back on the rock. Folk tales aside, this is a very calm place
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_110352.jpg)
+
+*	After spending around an hour there and eating delecious guru prasad (food), we started towards Leh
+*	The road to Leh is so beautiful and smooth. You can speed at full throttle on such an amazing road
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_104255.jpg)
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_200424.jpg)
 
 ##  Hall of Fame
 * Arrived at Indian Army maintained Hall of Fame, singing the glory of Indian armed forces history in region
@@ -214,9 +224,8 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_180056.jpg)
 
 ##  Leh
+*	
 
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_104255.jpg)
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_200424.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_184929.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_204017.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181002_113316.jpg)
