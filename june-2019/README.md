@@ -159,36 +159,53 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_085453.jpg)
 
 ##  Drass Memorial
+*	Kargil War Memorial, is built by the Indian Army, located in Drass, in the foothills of the Tololing Hill
+*	The memorial is located about 5 km before the Drass city across the Tiger Hill
+*	Memorial is dedicated to the martyrs of Operation Vijay. Each year, 26 July is observed as Kargil Victory Day
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_173921.jpg)
 
 ##	Drass
+*	Drass is also called The Gateway to Ladakh, at the height of 10,800 ft, is the coldest place in India
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171904.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171946.jpg)
 
 ##  Kargil
+*	Kargil is  the second largest town in Ladakh after Leh
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_075730.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_081532.jpg)
 
 ##  Mulbekh
+*	Around 45 kilometer after Kargil, is the famous Chamba Statue in Mulbekh
+*	A striking enormous figure carved into the rock face on the right hand side of the road
+*	This figure is Maitreya Buddha. Some people believe it dates to the Kushan period in the early centuries 
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_174933.jpg)
 
 ##  Henasku
+*	After crossing Mulbekh, at the left hand side is a road sign to village Henasku
+*	Henasku is a small village also known as Zbayul, which means the invisible village in the local dialect
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_161637.jpg)
 
 ##  Namikla
+*	(Namika La or Namika Pass](https://en.wikipedia.org/wiki/Namika_La) at 12,139 ft altitude, is a high mountain pass on the Srinagar-Leh highway
+*	Namika La is one of two high passes between Kargil and Leh
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_170525.jpg)
 
 ##  Fotula
+*	[Fotula](https://en.wikipedia.org/wiki/Fotu_La) at 13,478 ft altitude, is a mountain pass on the Srinagar-Leh highway
+*	Fotula is the highest point on the highway, surpassing the famed Zozilla 
+*	There is a Prasar Bharati television relay station serving Lamayuru located on the pass 
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_120617.jpg)
 
 ##  Lamayuru
+*	Lamayuru is situated on the Srinagar-Leh highway 15 kilometres from Fotula
+*	Lamayuru has a Tibetan Buddhist monastery. which is one of the largest and oldest in Ladakh
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_130101.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_130252.jpg)
@@ -198,10 +215,13 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_131304.jpg)
 
 ##	Confluence of Zanskar and Indus Rivers
+*	This famous Confluence is near Nimmu. River rafting and famous Chadar track, starts from here
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_162839.jpg)
 
 ##  Magnetic Hill
+*	[Magnet Hill](https://en.wikipedia.org/wiki/Magnetic_Hill_(India)) is the entry point of Leh
+*	The layout of the area and surrounding slopes create the appearance of a hill
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 
