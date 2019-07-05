@@ -221,8 +221,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_162839.jpg)
 
 ##  Magnetic Hill
-*	[Magnet Hill](https://en.wikipedia.org/wiki/Magnetic_Hill_(India)) is the entry point of Leh
-*	The layout of the area and surrounding slopes create the appearance of a hill
+*	[Magnet Hill](https://en.wikipedia.org/wiki/Magnetic_Hill_(India)) is the entry point of Leh. The layout of the surrounding slopes create the appearance of a hill
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 
