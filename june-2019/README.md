@@ -233,7 +233,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_184929.jpg)
 
-*	We thought about visiting the Leh market. Enjoyed the famous pizza at Sorriso, and it was really delecious
+*	Visited the Leh market at night. Enjoyed the famous pizza at Sorriso, and it was really delecious
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_204017.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_7342.JPG)
