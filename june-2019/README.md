@@ -69,8 +69,8 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_6860.JPG)
 
-*	A curious kid is attracted towards us. Entire family of the kid, gets involved in interaction with us
-*	Before saying good bye to us, this family suggested us to visit a nearby temple named Kshir Bhawani
+*	A curious kid is attracted towards my motorcycle. Kids family, gets involved in interaction with us
+*	Before saying good bye to us, this family suggested us to visit a nearby Hindu temple named [Kheer Bhawani](https://en.wikipedia.org/wiki/Kheer_Bhawani)
 *	I am not able to find any mechanic here, owing to Ramadan days, all mechanics are retired early for the day
 *	After deciding to find a mechanic tomorrow early, started riding for another 20 kilometers towards Ganderbal
 *	Entire Srinagar is busy, lots of life around mosques and roads crossings. I am getting good feelings
