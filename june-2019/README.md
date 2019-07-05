@@ -201,13 +201,17 @@
 ##  Magnetic Hill
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180929_112417_HDR.jpg)
 
 ##  Gurudwara Pathar Sahib
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_110352.jpg)
 
 ##  Hall of Fame
+* Arrived at Indian Army maintained Hall of Fame, singing the glory of Indian armed forces history in region
 
+![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180929_100249.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20180929_104505.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_180056.jpg)
 
 ##  Leh
@@ -216,6 +220,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_200424.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_184929.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_204017.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2018/images/IMG_20181002_113316.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_7342.JPG)
 
 ##  Khardungla
