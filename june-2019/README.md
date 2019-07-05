@@ -168,13 +168,15 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_120617.jpg)
 
 ##  Lamayuru
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_130101.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_130252.jpg)
 
+## Khaltse
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_131304.jpg)
+
 ##	Confluence of Zanskar and Indus Rivers
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_162839.jpg)
 
@@ -184,21 +186,15 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 
 ##  Gurudwara Pathar Sahib
-*	
 
 ##  Hall of Fame
-*	
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_180056.jpg)
 
 ##  Leh
-*	
+
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_200424.jpg)
-
-##  Khardungla
-*	
-
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_184929.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_204017.jpg)
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_131304.jpg)
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190607_154459.jpg)
+
+##  Khardungla
