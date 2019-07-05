@@ -179,7 +179,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_170525.jpg)
 
 ##  Fotula
-*	
+
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_120617.jpg)
 
 ##  Lamayuru
@@ -216,4 +216,5 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_7342.JPG)
 
 ##  Khardungla
+
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_152915.jpg)
