@@ -155,9 +155,12 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_085453.jpg)
 
-##  Drass
+##  Drass Memorial
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_173921.jpg)
+
+##	Drass
+
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171904.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_171946.jpg)
 
@@ -170,7 +173,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_174933.jpg)
 
-##  Henasku, the invisible village
+##  Henasku
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_161637.jpg)
 
