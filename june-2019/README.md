@@ -28,9 +28,13 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190531_144822.jpg)
 
 *	Arrived in Samba and instead of going towards Jammu, decided to take a short cut to Udhampur, J&K
-*	Road from Samba to Udhampur is not of good condition, but its scenic and fun to ride through mountains
+*	On Jammu Tawi river bridge, spend few minutes to click pictures and take some rest
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190531_173717.jpg)
+
+*	Road from Samba to Udhampur is not of good condition, but its scenic and fun to ride through mountains
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_6796.JPG)
 
 ##  Udhampur
 *	Taking minor stops here and there, finally arrived at Udhampur around 9:00 PM
@@ -45,7 +49,7 @@
 ##  Banihal
 *	A small hill town, Indian railways has recently marked its presence in this town
 *	This is auspicious season of Ramadan and mosques are playing soothing prayer on loudspeakers
-*	Next week is going to be Eid al-Fitr, the holy festival of Muslim religion
+*	Next week is going to be Eid al-Fitr, the holy festival of Muslims
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_141423.jpg)
 
@@ -72,8 +76,8 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_6860.JPG)
 
-*	A curious kid is attracted towards my motorcycle. Kids family, gets involved in interaction with us
-*	Before saying good bye to us, this family suggested us to visit a nearby Hindu temple named [Kheer Bhawani](https://en.wikipedia.org/wiki/Kheer_Bhawani)
+*	A curious kid is attracted towards my motorcycle. Kids family, gets involved in our interaction
+*	Before saying good bye, this family suggested to visit a nearby Hindu temple named [Kheer Bhawani](https://en.wikipedia.org/wiki/Kheer_Bhawani)
 *	I am not able to find any mechanic here, owing to Ramadan days, all mechanics are retired early for the day
 *	After deciding to find a mechanic tomorrow early, started riding for another 20 kilometers towards Ganderbal
 *	Entire Srinagar is busy, lots of life around mosques and roads crossings. I am getting good feelings
@@ -99,8 +103,8 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_205353.jpg)
 
-*	Enjoyed Aloo Dum (Fried Potato) and Urad Daal (Lentils) and ended with a glass of milk
 *   Strolled on the roads of temple premises and listened to the prayers on near by mosque
+*	Enjoyed Aloo Dum (Fried Potato) and Urad Daal (Lentils) and ended with a glass of milk
 *   Back to the guest house and packed for tomorrow, before meditation and retiring to bed
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_212902.jpg)
@@ -120,7 +124,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/DSC_0366.JPG)
 
 *	Stopped here for few minutes and cleaned my machines spark plug and headed towards the notorious Zozilla	
-*	While climbing towards Zozilla, we passed Baltal. Famous pilgrimage to [Amarnath temple](https://en.wikipedia.org/wiki/Amarnath_Temple) starts from here
+*	While climbing towards Zozilla, passed the Baltal. Famous pilgrimage to [Amarnath temple](https://en.wikipedia.org/wiki/Amarnath_Temple) starts from here
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_141734.jpg)
 
@@ -238,7 +242,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_110352.jpg)
 
-*	After spending around an hour there and eating delecious guru prasad (food), we started towards Leh
+*	After spending around an hour there and eating delecious guru prasad (food), started towards Leh
 *	The road to Leh is so beautiful and smooth. You can speed at full throttle on such an amazing road
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_104255.jpg)
