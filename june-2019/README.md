@@ -32,7 +32,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190531_173717.jpg)
 
-*	Road from Samba to Udhampur is not of good condition, but its scenic and fun to ride through mountains
+*	Road from Samba to Udhampur is not of good condition, but its fun to ride through zigzag climbing road
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_6796.JPG)
 
@@ -139,6 +139,7 @@
 *	Passed the zero point, which is famous for ice-skating and snow boarding
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_151822.jpg)
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_7055.JPG)
 
 ## 	Zojila War Memorial 
 *	This war memorial is 27 Km from Sonamarg on NH1D, after crossing Zero point
