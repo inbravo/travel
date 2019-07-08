@@ -92,8 +92,8 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_184125.jpg)
 
-*	[Security guys](https://en.wikipedia.org/wiki/Central_Reserve_Police_Force_(India)) is able to recognize from my dialect that i belong to central India
-*	The central part of the India, has a significant contribution in India Armed Forces
+*	[Temple Security](https://en.wikipedia.org/wiki/Central_Reserve_Police_Force_(India)) is able to recognize from my dialect that i belong to central India
+*	The central part of the India, has a significant contribution in India Armed Forces. Most of the young boys from villages, join armed forces
 *	Temple has a guest house, run by J&K governments tourism department, at the charges of 500 rupees
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_075639.jpg)
