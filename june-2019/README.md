@@ -99,7 +99,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_075639.jpg)
 
 *	After settling in guest house, visited the temple. Meditated there for few minutes 
-* 	The sculpture of goddess Maharagya, is situated in a pond of water
+* 	The sculpture of goddess Maharagya, is situated in a small water pool, this water changes its colors regularly
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_205353.jpg)
 
@@ -111,7 +111,7 @@
 
 ##  Hazaratbal
 *	Back to Srinagar to get my machine fixed. Searching for mechanic around [Hazaratbal Shrine](https://en.wikipedia.org/wiki/Hazratbal_Shrine)
-*	Hazaratbal is situated on the Dal Lakes northern bank. The shrine is believed to have Mohammad Sahibs hair
+*	Hazaratbal is situated on the Dal Lakes northern bank. The shrine is believed to have hair of Prophet Mohammad
 *	After getting a temporary fix, which i will later realize as my mistake, restarted for Sonamarg
 *	Reached at Sonamarg Entry point. Plan is to reach Kargil today after passing Sonamarg and Zozilla pass
 
@@ -119,7 +119,7 @@
 
 ##  Sonamarg
 *	Ride to Sonamarg, was trouble-sum, owing to my motorcycle but the entire route was scenic  
-*	Sonamarg is the best part of entire Kashmir valley so far, so many movies are filmed here
+*	Sonamarg is the best part of entire Kashmir valley so far, entire valley is flocked by tourists
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/DSC_0366.JPG)
 
@@ -131,8 +131,13 @@
 ##  Zozilla pass
 *	[Zozilla](https://en.wikipedia.org/wiki/Zoji_La) is the first high pass of our trip at the height of 11,575 ft
 *	Condition of motorcycle and the difficult terrain is making it more difficult for me
+*	An army convoy has made it farther difficult. This pass is lifeline to connectivity between Laddakh and Srinagar
+*	During the Indo-Pakistani War of 1947, Zoji La was seized by Pakistani supported invaders. 
+*	The pass was re-captured by Indian forces in an assault codenamed Operation Bison, with the surprise use of tanks
+*	Zozilla has a special place in Tank battles because it is the highest altitude at which tanks had operated in combat
 *	Stopped for few minutes at Zozilla tiger temple, maintained by [Border Road Organization (BRO)](https://en.wikipedia.org/wiki/Border_Roads_Organisation)
 *	BRO has a big contribution in maintaining the roads of such difficult zones of India
+*	Zoji La tunnel project is on the way to cut the travel time from 3 ours to 15 minutes
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_144001.jpg)
 
