@@ -55,12 +55,12 @@
 
 *	After few minor stops, arrived at [Jawahar Tunnel](https://en.wikipedia.org/wiki/Jawahar_Tunnel), which is operational since 1956
 *	Post this tunnel, starts the beautiful Srinagar valley. Titanic point gives you the first glance of it
-*	Took a noodle (Maggi) stop at Titanic point, captured some scenic moments of view of Srinagar valley
+*	Took a noodle (Maggi) stop at Titanic point, captured first view of Srinagar valley in my phone camera
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_151110.jpg)
 
-*	Talked to some of the south Indian riders, who were riding from Kottayam  
-*	Only few kilometers from Titanic point, arrived at the famous NH 44. Which is a nice road
+*	Talked to some of the south Indian riders, who were riding from Kottayam, Southern India  
+*	Only few kilometers from Titanic point, arrived at the 4 lane NH 44. Which is a nice road
 *	Ride on NH 44 is smooth. I cherished every moment while riding through the beautiful valley
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_170920.jpg)
@@ -73,6 +73,7 @@
 ##  Srinagar
 *	For almost 3 hours ride through NH 44, arrived at the heart of Srinagar, the famous Dal Lake
 *	Weather is cool here, tourists are flocked around the lake. Took a minor pause near the bank of lake
+*	Small boats called Shikara, seeking tourists. Big houseboats are placed at some meters inside the lake
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_6860.JPG)
 
@@ -81,7 +82,7 @@
 *	I am not able to find any mechanic here, owing to Ramadan days, all mechanics are retired early for the day
 *	After deciding to find a mechanic tomorrow early, started riding for another 20 kilometers towards Ganderbal
 *	Entire Srinagar is busy, lots of life around mosques and roads crossings. I am getting good feelings
-*	After stopping here and there to talk to local people, i realized that people are very welcoming
+*	After stopping here and there to talk to local people, i realized that people are very helping
 *	Armed forces everywhere, which is making me never forget that i am in disturbed region of my country
 
 ##  Ganderbal
@@ -99,7 +100,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_075639.jpg)
 
 *	After settling in guest house, visited the temple. Meditated there for few minutes 
-* 	The sculpture of goddess Maharagya, is situated in a small water pool, this water changes its colors regularly
+* 	Goddess Maharagya statue, is based in a small water pool, pool water changes its colors with time
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190601_205353.jpg)
 
@@ -133,7 +134,7 @@
 *	Condition of motorcycle and the difficult terrain is making it more difficult for me
 *	An army convoy has made it farther difficult. This pass is lifeline to connectivity between Laddakh and Srinagar
 *	During the Indo-Pakistani War of 1947, Zoji La was seized by Pakistani supported invaders. 
-*	The pass was re-captured by Indian forces in an assault codenamed Operation Bison, with the surprise use of tanks
+*	The pass was re-captured by Indian forces in Operation Bison, with the surprise use of tanks
 *	Zozilla has a special place in Tank battles because it is the highest altitude at which tanks had operated in combat
 *	Stopped for few minutes at Zozilla tiger temple, maintained by [Border Road Organization (BRO)](https://en.wikipedia.org/wiki/Border_Roads_Organisation)
 *	BRO has a big contribution in maintaining the roads of such difficult zones of India
@@ -141,7 +142,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_144001.jpg)
 
-*	Passed the zero point, which is famous for ice-skating and snow boarding
+*	Passed the zero point, which is famous for snow boarding. Tourist mostly visits untill here
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190602_151822.jpg)
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_7055.JPG)
@@ -161,6 +162,9 @@
 *	Draupadi Kund is a small lake situated in a hamlet called Pandaras, it is the only high altitude lake in Drass
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190606_100625.jpg)
+
+*	A small restaurant serves tea and Maggi at Draupadi Kund. Took a minor pause here and met Samir and Umar
+*	Samir and Umar riding on a scooter. I gave my sweat shirt to Umar, who was not wearing anything warm 
 
 ##	Mushku Valley 
 *	This valley is 8 km before Drass. Popular for wild flowers during summer in the deserted Ladakh region
@@ -241,14 +245,14 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 
 ##  Gurudwara Pathar Sahib
-*	The famous India Army maintained Sikh temple, running Langar the all year 
+*	The famous India Army maintained Sikh temple, running langar (food from guru) the all year 
 *	The legend of this Sikh temple is that the first Sikh guru Guru Nanak Dev was mediating here
 *   A daemon threw a big boulder down a hill towards the guru. and the rock turned into wax
 *	There is an impression of the guru's back on the rock. Folk tales aside, this is a very calm place
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_110352.jpg)
 
-*	After spending around an hour there and eating delecious guru prasad (food), started towards Leh
+*	After spending around an hour there and eating delecious guru prasad (langar), started towards Leh
 *	The road to Leh is so beautiful and smooth. You can speed at full throttle on such an amazing road
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190605_104255.jpg)
