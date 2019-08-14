@@ -245,7 +245,7 @@
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190603_163717.jpg)
 
 ##  Gurudwara Pathar Sahib
-*	The famous India Army maintained Sikh temple, running langar (food from guru) the all year 
+*	The famous India Army maintained Sikh temple, running langar (food from guru) throughout the year 
 *	The legend of this Sikh temple is that the first Sikh guru Guru Nanak Dev was mediating here
 *   A daemon threw a big boulder down a hill towards the guru. and the rock turned into wax
 *	There is an impression of the guru's back on the rock. Folk tales aside, this is a very calm place
