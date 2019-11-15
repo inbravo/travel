@@ -20,7 +20,6 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112741.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112852.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_120415.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_122202.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_123731.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_124405.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_142939.jpg)
@@ -34,8 +33,6 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031434.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031449.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031513.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031716.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031802.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031841.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_032631.jpg)
@@ -67,4 +64,3 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191004_101325.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191004_151006.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191011_190433.jpg)
-
