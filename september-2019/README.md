@@ -8,7 +8,15 @@
 ---
 
 ##  Ghaziabad
-*	
+*	I have been planning for this trip ever since i got my new motorcycle 
+*	The on going hiccups in my job has delayed my plan. I had planned for early September in fact
+* 	Universe has decided everything for you and in my case, this is the chosen time for my trip to Spiti
+*	Now i don't need to prepare much for the rides, most of my gears are complete and need minimal preparation 
+*	This time i decided to do all my rides in day lights, as i haven't installed the extra lights on my motorcycle
+*	It 5 o'clock morning and i am all set to start the ride. A friend of mine is here to see me off
+*	I am leaving on time and heading towards Eastern Peripheral Expressway
+*	Wind is slightly chilly which is a respite after a long summer of North in India
+* 	After riding for almost an hour, arrived at the intersection of Chandigarh Highway. Took a pause there
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_062313.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_083247.jpg)
