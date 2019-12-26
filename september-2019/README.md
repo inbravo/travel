@@ -11,7 +11,7 @@
 *	This time Universe has chosen Spiti valley for me
 *	These days i don't need to prepare much for the rides, most of my gears are complete
 *	It 5 o'clock morning and this time i planned to ride in day light
-*	You see what you carry in your hearth and i see a very beautiful morning around me 
+*	"You see what you carry in your heart" and i see a very beautiful morning around me 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_062313.jpg)
 
@@ -24,25 +24,35 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_140706.jpg)
 
-*	Arrived on Chail palace, few minutes of pause before heading towards Kufri
+*	Arrived at Chail palace, few minutes of pause before heading towards Kufri
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_151939.jpg)
 
-*	It is raining cats of dogs now and riding has turned into hide and seek with showers
-*	I don't want to miss my todays plan to reach Narkanda
+*	It is raining cats of dogs now and free riding has turned into hide and seek
+*	Thinking about what if i miss my todays plan to reach Narkanda
+*	Its dark and i am completely drenched and shivering. My hands are numb 
 *	After almost 3 hours of complete wetness, i reached outskirts of Narkanda. Billeted into a lodge at around 7 PM
 	
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_160004.jpg)
 
 ##  Narkanda
-*	Next morning its still raining and no sign of clear sky and sun
-*	I am stuck in hotel and thinking about how farthest i can go today
+*	Next morning its still raining and no sign of sun and clear sky
+*	Stuck in hotel and thinking about how farthest i can go today. Plan is to reach Nako
+*	Finally i left hotel at around 11 AM and spent entire day riding at slow speed in intermittent rains
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_141617.jpg)
+
+*	Passing through scenic cliff-hanging drive through the Baspa river in Sangla Valley
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_144924.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_154229.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_170354.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_211704.jpg)
+
+*	Passing through scenic cliff-hanging drive through the Baspa river in Sangla Valley
+*	My planned destination is one hour away and i am at Spillow
+*	There is a risky patch immediately after Spillow, locals suggested to pass the stretch in day time
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_104836.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_105214.jpg)
