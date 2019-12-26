@@ -9,28 +9,35 @@
 
 ##  Ghaziabad
 *	This time Universe has chosen Spiti valley for me
-*	It will be interesting this time, because of my new motorcycle
 *	These days i don't need to prepare much for the rides, most of my gears are complete
-*	This time i planned to ride in day light, as i haven't installed the extra lights on my motorcycle
-*	It 5 o'clock morning and i am all set to start the ride. A friend of mine is here to see me off
-*	You see what you carry in your hearth. A very beautiful morning is everywhere around me 
+*	It 5 o'clock morning and this time i planned to ride in day light
+*	You see what you carry in your hearth and i see a very beautiful morning around me 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_062313.jpg)
 
-*	Keeping the throttle below 70, owing to motorcycle's engine break in limitation 
+*	Keeping the throttle below 70, owing to motorcycle's engine break in limitation
+*	Taking more pauses to avoid stressing new engine, clicking pictures here and there 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_083247.jpg)
 
-*	
+*	By noon i am riding in clouds towards Chail, bypassing Simla. Passing through plush greenery and intermittent showers 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_140706.jpg)
 
-*	
+*	Arrived on Chail palace, few minutes of pause before heading towards Kufri
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_151939.jpg)
 
-*	
+*	It is raining cats of dogs now and riding has turned into hide and seek with showers
+*	I don't want to miss my todays plan to reach Narkanda
+*	After almost 3 hours of complete wetness, i reached outskirts of Narkanda. Billeted into a lodge at around 7 PM
+	
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_160004.jpg)
 
-*	
+##  Narkanda
+*	Next morning its still raining and no sign of clear sky and sun
+*	I am stuck in hotel and thinking about how farthest i can go today
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_141617.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_144924.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_154229.jpg)
