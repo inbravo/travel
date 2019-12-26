@@ -8,7 +8,7 @@
 ---
 
 ##  Ghaziabad
-*	I have been planning for this trip ever since i got my new motorcycle 
+*	I have been planning for this trip ever since i got my new motorcycle, 2 months back 
 *	The on going hiccups in my job has delayed my plan. I had planned for early September in fact
 * 	Universe has decided everything for you and in my case, this is the chosen time for my trip to Spiti
 *	Now i don't need to prepare much for the rides, most of my gears are complete and need minimal preparation 
@@ -16,13 +16,27 @@
 *	It 5 o'clock morning and i am all set to start the ride. A friend of mine is here to see me off
 *	I am leaving on time and heading towards Eastern Peripheral Expressway
 *	Wind is slightly chilly which is a respite after a long summer of North in India
-* 	After riding for almost an hour, arrived at the intersection of Chandigarh Highway. Took a pause there
+* 	After riding for almost an hour, arrived at the intersection of Chandigarh Highway
+*	Took a pause there and clicked the picture. From here i will be riding untill Simla highway
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_062313.jpg)
+
+*	My plan is to stop at Karnal. Which i will cover in around 90 minutes from here
+*	I am riding below 70, owing to engine break in period limitation of my motorcycle
+*	I am not used to new engine, which is apt to quick acceleration 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_083247.jpg)
+
+*	
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_140706.jpg)
+
+*	
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_151939.jpg)
+
+*	
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_160004.jpg)
+
+*	
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_141617.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_144924.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_154229.jpg)
@@ -37,13 +51,10 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_123731.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_144851.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_150834.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031412.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_155955.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_162019.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_092740.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_094321.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191004_151006.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_095010.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_095308.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_103626.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_104457.jpg)

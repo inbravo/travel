@@ -12,3 +12,4 @@
 -	[Humayun Tomb, Delhi, India](june-2017/README.md)
 -	[Aravalli, Faridabad, India](may-2017/README.md)
 -	[Khardungla, Leh, J&K, India](june-2019/README.md)
+-	[Spiti valley, HP, India](september-2019/README.md)
