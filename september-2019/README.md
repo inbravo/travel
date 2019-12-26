@@ -8,22 +8,16 @@
 ---
 
 ##  Ghaziabad
-*	I have been planning for this trip ever since i got my new motorcycle, 2 months back 
-*	The on going hiccups in my job has delayed my plan. I had planned for early September in fact
-* 	Universe has decided everything for you and in my case, this is the chosen time for my trip to Spiti
-*	Now i don't need to prepare much for the rides, most of my gears are complete and need minimal preparation 
-*	This time i decided to do all my rides in day lights, as i haven't installed the extra lights on my motorcycle
+*	This time Universe has chosen Spiti valley for me
+*	It will be interesting this time, because of my new motorcycle
+*	These days i don't need to prepare much for the rides, most of my gears are complete
+*	This time i planned to ride in day light, as i haven't installed the extra lights on my motorcycle
 *	It 5 o'clock morning and i am all set to start the ride. A friend of mine is here to see me off
-*	I am leaving on time and heading towards Eastern Peripheral Expressway
-*	Wind is slightly chilly which is a respite after a long summer of North in India
-* 	After riding for almost an hour, arrived at the intersection of Chandigarh Highway
-*	Took a pause there and clicked the picture. From here i will be riding untill Simla highway
+*	You see what you carry in your hearth. A very beautiful morning is everywhere around me 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_062313.jpg)
 
-*	My plan is to stop at Karnal. Which i will cover in around 90 minutes from here
-*	I am riding below 70, owing to engine break in period limitation of my motorcycle
-*	I am not used to new engine, which is apt to quick acceleration 
+*	Keeping the throttle below 70, owing to motorcycle's engine break in limitation 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_083247.jpg)
 
