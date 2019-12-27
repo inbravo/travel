@@ -42,16 +42,22 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_141617.jpg)
 
-*	Passing through scenic cliff-hanging drive through the Baspa river in Sangla Valley
+*	Entered into Kinnaur famous for its serenity and beauty of the lush green and rocky mountain scape having Satluj, Baspa and Spiti river snaking through it
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_144924.jpg)
+
+*	Passing through scenic cliff-hanging drive through the Baspa river in Sangla Valley
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_154229.jpg)
+
+*	Passing through scenic cliff-hanging drive through the Baspa river in Sangla Valley
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_170354.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_211704.jpg)
 
-*	Passing through scenic cliff-hanging drive through the Baspa river in Sangla Valley
-*	My planned destination is one hour away and i am at Spillow
+*	Arrived at Spillow and its 7 PM. My planned destination is one hour away from here
 *	There is a risky patch immediately after Spillow, locals suggested to pass the stretch in day time
+*	Decided to stay at Spillow after talking to a gentleman, who later became a good friend of mine
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_104836.jpg)
