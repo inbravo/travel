@@ -98,7 +98,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_150834.jpg)
 
 *	After spending some time here and there, arrived at Dhankar monestry
-*	Spend sometime there clicking pictures and talking to fellow travelers 
+*	Spend sometime in monestry premises clicking pictures and talking to fellow travelers 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_155955.jpg)
 
@@ -109,12 +109,32 @@
 *	Its almost evening now, next stop is Kaza, which is just half an hour away from here
 
 ##  Kaza
+*	City is packed with travelers. Found a home stay which is in front of famous Himalayan Cafe
+*	Next day will be a little bit relaxing while roaming around the places nearby
+*	Next morning after refueling the worlds highest fuel station, headed towards Langza
 
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_161614.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_094321.jpg)
+
+*	Langza is famous for the tall Buddha statue, overlooking the valley
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191004_151006.jpg)
+
+*	From Langza headed towards Hikkim and Komik, which are the highest villages of world 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_095308.jpg)
+
+*	Komic is a high altitude village in Spiti. Komic is a heaven for nature and peace lovers
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_103626.jpg)
+
+*	Komic has a monastery known as Tangyud Monastery. The monastery is one of only two monasteries in Spiti, belonging to the Sakya sect
+*	Tangyud monastery is one of the highest and oldest monasteries in India
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_104457.jpg)
+
+*	After spending some time there and gazing the wast meadows for almost an hour, started descending towards Hikkim village
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_113011.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_121315.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_121439.jpg)
@@ -123,7 +143,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_150145.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_195925.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_160240.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_161614.jpg)
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191011_190433.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_095552.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_114845.jpg)
