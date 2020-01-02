@@ -9,8 +9,7 @@
 
 ##  Ghaziabad
 *	This time Universe has chosen Spiti valley for me
-*	It 5 o'clock morning and this time i planned to ride in day light
-*	"You see what you carry in your heart" and i see a very beautiful morning around me 
+*	It 5 o'clock and i see a very beautiful morning around me, it reminds me of "You see what you carry in your heart" 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_062313.jpg)
 
@@ -55,18 +54,50 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_170354.jpg)
 
-*	Arrived at Spillow by 7 PM. My planned destination is one hour away from here
+*	Arrived at Spillow by 7 PM. My planned destination Nako is one hour away from here
 *	There is a risky stone shooting zone immediately after Spillow, locals suggested to pass it in day time
 *	Decided to stay at Spillow after talking to a gentleman, who later became a good friend of mine
+*	During the dinner had talks co-travelers. Received lot of respect after they recognized that i am a solo traveler
+*	Post the dinner the hotel owner offered me a local wine called Chulli, made of apricots
+*	Enjoyed every sip of Chulli with lots of loud laughs with restaurant staff before going to sleep
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
+
+*	Its 7 o'clock and i am back on road. Passed the risky shooting zone behind a military cavalcade 
+*	Within 1 hour, arrived at Khab-Sangam, which is confluence of Satluj and Spiti rivers
+*	A mettle bridge helps cross the rivers and ride into cliff-hanging narrow road	
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_104836.jpg)
+
+*	The elevation starts from Khab-Sangam which goes towards Leo and Nako villages
+*	I decided not to go towards Leo, but clicked a picture of the village
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_105214.jpg)
+
+*	I am back on road towards Nako, which is famous for its thousand years old monestry 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112741.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112852.jpg)
+
+*	After spending some time at the monestry and talking a young monk about their meditation techniques, i left for next destination 
+*	During the way arrived the famous dreaded Malling Nala, which is notorious for its deadly water flow during the rains
+*	Post Malling arrives famous loops which are breathtaking. Took a pause here and spend a lot of time here and kept starring the serenity 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_120415.jpg)
+
+*	After riding more towards Tabo, arrived in village Chango. Chango has several apple orchards and a monestry
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_123731.jpg)
+
+*	After spending some time in Chango and talking with local kids, headed towards Tabo village
+*	Tabo is famous for its old monestry and a heliport. I decided not to click pictures as its forbidden in monestry
+*	Took pause at Tabo bridge and ate fresh apples from orchards
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_144851.jpg)
+
+*	Immediately after passing the Tabo, come this long stretch passing through the beautiful mountains
+*	Stopped again and sit on the road in state of complete thoughtlessness, thinking about how small is my existence in front of the nature 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_150834.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_155955.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_162019.jpg)
