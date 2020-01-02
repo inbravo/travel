@@ -9,14 +9,13 @@
 
 ##  Ghaziabad
 *	This time Universe has chosen Spiti valley for me
-*	These days i don't need to prepare much for the rides, most of my gears are complete
 *	It 5 o'clock morning and this time i planned to ride in day light
 *	"You see what you carry in your heart" and i see a very beautiful morning around me 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_062313.jpg)
 
 *	Keeping the throttle below 70, owing to motorcycle's engine break in limitation
-*	Taking more pauses to avoid stressing new engine, clicking pictures here and there 
+*	Taking more pauses to avoid stressing the new engine, clicking pictures here and there 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_083247.jpg)
 
@@ -42,7 +41,8 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_141617.jpg)
 
-*	Entered into Kinnaur famous for its serenity and beauty of the lush green and rocky mountain scape having Satluj, Baspa and Spiti river snaking through it
+*	Entered into Kinnaur, famous for its serenity and beauty of the lush green and rocky mountain scape
+*	This region has three rivers Satluj, Baspa and Spiti, snaking through it
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_144924.jpg)
 
@@ -50,13 +50,13 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_154229.jpg)
 
-*	Passing through scenic cliff-hanging drive through the Baspa river in Sangla Valley
+*	This region has several hydro power plants on rivers of this region.
+*	Baspa powerhouse is located near village Karcham and it has a generating capacity of 300 MW
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_170354.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_211704.jpg)
 
-*	Arrived at Spillow and its 7 PM. My planned destination is one hour away from here
-*	There is a risky patch immediately after Spillow, locals suggested to pass the stretch in day time
+*	Arrived at Spillow by 7 PM. My planned destination is one hour away from here
+*	There is a risky stone shooting zone immediately after Spillow, locals suggested to pass it in day time
 *	Decided to stay at Spillow after talking to a gentleman, who later became a good friend of mine
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
