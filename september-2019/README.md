@@ -77,27 +77,39 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112852.jpg)
 
 *	After spending some time at the monestry and talking a young monk about their meditation techniques, i left for next destination 
-*	During the way arrived the famous dreaded Malling Nala, which is notorious for its deadly water flow during the rains
+*	During the way arrived the dreaded Malling Nala, which is notorious for its deadly water flow
 *	Post Malling arrives famous loops which are breathtaking. Took a pause here and spend a lot of time here and kept starring the serenity 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_120415.jpg)
 
-*	After riding more towards Tabo, arrived in village Chango. Chango has several apple orchards and a monestry
+*	After riding towards Tabo, arrived in village Chango. It has apple orchards and a monestry
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_123731.jpg)
 
 *	After spending some time in Chango and talking with local kids, headed towards Tabo village
 *	Tabo is famous for its old monestry and a heliport. I decided not to click pictures as its forbidden in monestry
-*	Took pause at Tabo bridge and ate fresh apples from orchards
+*	Took pause at Tabo bridge and ate fresh apples from nearby orchard
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_144851.jpg)
 
 *	Immediately after passing the Tabo, come this long stretch passing through the beautiful mountains
-*	Stopped again and sit on the road in state of complete thoughtlessness, thinking about how small is my existence in front of the nature 
+*	Stopped again and sit on the road in state of complete thoughtlessness, realizing about how small is my existence in front of the nature 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_150834.jpg)
+
+*	After spending some time here and there, arrived at Dhankar monestry
+*	Spend sometime there clicking pictures and talking to fellow travelers 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_155955.jpg)
+
+*	Dhankar also has a heliport, enjoyed some time there and waved towards foreign riders, heading towards the monestry 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_162019.jpg)
+
+*	Its almost evening now, next stop is Kaza, which is just half an hour away from here
+
+##  Kaza
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_094321.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191004_151006.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_095308.jpg)
