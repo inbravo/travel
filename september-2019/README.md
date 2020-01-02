@@ -178,8 +178,8 @@
 
 *	Back to the home stay and now time to relax and enjoy the small town delicacies and culture
 *	Went to bed early so that next days ride can be started early. Tomorrows i will ride through worlds most treacherous and isolated region
-*	Road from Kaza to Manali is open only 4 months per year. Can go close anytime during the first few days of October
-*	I am not expecting anyone to assist me on this difficult zone, so i am better prepared to pass it alone
+*	Road from Kaza to Manali is open only June to October. It can be closed anytime now because its October
+*	I am not expecting anyone to assist me in this difficult zone, so i am better prepared to pass it alone
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191011_190433.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_095552.jpg)
