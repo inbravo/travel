@@ -110,11 +110,9 @@
 
 ##  Kaza
 *	City is packed with travelers. Found a home stay which is in front of famous Himalayan Cafe
-*	Next day will be a little bit relaxing while roaming around the places nearby
 *	Next morning after refueling the worlds highest fuel station, headed towards Langza
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_161614.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_094321.jpg)
 
 *	Langza is famous for the tall Buddha statue, overlooking the valley
 
@@ -135,14 +133,53 @@
 
 *	After spending some time there and gazing the wast meadows for almost an hour, started descending towards Hikkim village
 
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_094321.jpg)
+
+*	Hikkim village has worlds highest post office. This entire valley is famous for fossils 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_113011.jpg)
+
+*	Spend a good time there, talking with a Lama (Buddhist spiritual person) in depth about their rituals and values
+*	It was nice to observing the fossils and imaging the entire area during the historical times
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_121315.jpg)
+
+*	Its sunny day and sky is so clear which a city dweller like me can never experience
+*	I want to sit here idle and do nothing, not even talks
+*	Finally after spending a good amount there i am going towards Key monastery
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_121439.jpg)
+
+*	The route takes us back to Kaza city and then we ascend towards Key, Kibber and Chicham villages
+*	Key monestry ) is a Tibetan Buddhist monastery located on top of a hill at an altitude of 13,668 ft 
+*	It is the biggest monastery of Spiti Valley and a religious training center for Lamas 
+*	It was some festival going on in monestry, when i arrived there. Some traditional ceremonies to take the blessings of religious leaders
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_132601.jpg)
+
+*	Next stop is Kibber village, Kibber Wildlife Sanctuary starts from Key and spawned up to the road to Chandartaal 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_140534.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_150145.jpg)
+
+*	After crossing the entire Kibber village and riding for another 10 minutes, arrived at Chicham bridge
+*	Chicham Bridge is said to be the Asia's seconds highest bridge from sea level at 13,244 ft. It connects Kibber village to Chicham village
+*	The bridge is situated above a deep gorge about 1000 feet high. Before this bridge the villagers of Chicham used a dangerous rope-way to cross
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_195925.jpg)
+
+*	After passing the bridge, another 5 minutes of ride takes to reach Chicham village
+
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_150145.jpg)
+
+*	Spend some time there talking to local people. Its getting dark so started riding towards Kaza
+*	Arrived near Kaza and found a beautiful message made by the plastic bottles, to highlight the significance of not using single use plastic
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_160240.jpg)
+
+*	Back to the home stay and now time to relax and enjoy the small town delicacies and culture
+*	Went to bed early so that next days ride can be started early. Tomorrows i will ride through worlds most treacherous and isolated region
+*	Road from Kaza to Manali is open only 4 months per year. Can go close anytime during the first few days of October
+*	I am not expecting anyone to assist me on this difficult zone, so i am better prepared to pass it alone
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191011_190433.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_095552.jpg)
