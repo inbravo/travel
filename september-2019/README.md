@@ -54,7 +54,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_170354.jpg)
 
 *	Arrived at Spillow by 7 PM. My planned destination Nako is one hour away from here
-*	There is a risky stone shooting zone immediately after Spillow, locals suggested to pass this zone during the day time
+*	There is a risky stone shooting zone immediately after Spillow, locals suggested to pass it during the day time
 *	Decided to stay at Spillow after talking to a gentleman, who later became a good friend of mine
 *	During the dinner had talks co-travelers. Received lot of respect after they recognized that i am a solo traveler
 *	Post the dinner the hotel owner offered me a local wine called Chulli, made of apricots
@@ -140,24 +140,23 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_113011.jpg)
 
 *	Spend a good time there, talking with a Lama (Buddhist spiritual person) in depth about their rituals and values
-*	It was nice to observing the fossils and imaging the entire area during the historical times
+*	It was nice to observe the fossils and imaging the historical value of the entire region
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_121315.jpg)
 
-*	Its sunny day and sky is so clear which a city dweller like me can never experience
-*	I want to sit here idle and do nothing, not even talks
+*	Its sunny and sky is so clear which a city dweller like me will rarely experience. I want to sit idle and do nothing, not even talks
 *	Finally after spending a good amount there i am going towards Key monastery
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_121439.jpg)
 
-*	The route takes us back to Kaza city and then we ascend towards Key, Kibber and Chicham villages
+*	The route takes us back towards Kaza city and then we ascend towards Key, Kibber and Chicham villages
 *	Key monestry ) is a Tibetan Buddhist monastery located on top of a hill at an altitude of 13,668 ft 
 *	It is the biggest monastery of Spiti Valley and a religious training center for Lamas 
-*	It was some festival going on in monestry, when i arrived there. Some traditional ceremonies to take the blessings of religious leaders
+*	It was some festival going on in monestry. A traditional ceremonies to take the blessings of religious leaders
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_132601.jpg)
 
-*	Next stop is Kibber village, Kibber Wildlife Sanctuary starts from Key and spawned up to the road to Chandartaal 
+*	Next stop is Kibber village, Kibber Wildlife Sanctuary starts from Key and spawns up to the road to Chandartaal 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_140534.jpg)
 
