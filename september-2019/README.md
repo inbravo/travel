@@ -49,29 +49,26 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_154229.jpg)
 
-*	This region has several hydro power plants on rivers of this region.
-*	Baspa powerhouse is located near village Karcham and it has a generating capacity of 300 MW
+*	This region has several hydro power plants. 300 MW capacity Baspa plant is located near village Karcham 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_170354.jpg)
 
 *	Arrived at Spillow by 7 PM. My planned destination Nako is one hour away from here
-*	There is a risky stone shooting zone immediately after Spillow, locals suggested to pass it in day time
+*	There is a risky stone shooting zone immediately after Spillow, locals suggested to pass this zone during the day time
 *	Decided to stay at Spillow after talking to a gentleman, who later became a good friend of mine
 *	During the dinner had talks co-travelers. Received lot of respect after they recognized that i am a solo traveler
 *	Post the dinner the hotel owner offered me a local wine called Chulli, made of apricots
 *	Enjoyed every sip of Chulli with lots of loud laughs with restaurant staff before going to sleep
-
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
-
 *	Its 7 o'clock and i am back on road. Passed the risky shooting zone behind a military cavalcade 
 *	Within 1 hour, arrived at Khab-Sangam, which is confluence of Satluj and Spiti rivers
 *	A mettle bridge helps cross the rivers and ride into cliff-hanging narrow road	
 
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_104836.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
 
 *	The elevation starts from Khab-Sangam which goes towards Leo and Nako villages
 *	I decided not to go towards Leo, but clicked a picture of the village
 
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_104836.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_105214.jpg)
 
 *	I am back on road towards Nako, which is famous for its thousand years old monestry 
