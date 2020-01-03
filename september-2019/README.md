@@ -86,13 +86,14 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_120415.jpg)
 
-*	After riding towards Tabo, arrived in village Chango. It has apple orchards and a monestry at a minor hight
+*	While riding towards Tabo, arrived in village Chango. It has apple orchards and a monestry at some hight
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_123731.jpg)
 
 *	After spending some time in Chango and talking with local kids, headed towards Tabo village
-*	Tabo is famous for its old monestry and a heliport. I decided not to click pictures as its forbidden in Tabo monestry
-*	Took pause at Tabo bridge and ate fresh apples from nearby orchard
+*	Tabo is famous for its old monestry and a heliport. I clicked no pictures as its forbidden in Tabo monestry
+*	Took pause at Tabo bridge and ate fresh apples from nearby orchard after washing them in the water stream
+*	While munching the fresh apple, i felt like how people in history use to feel when nature was the only source of food
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_144851.jpg)
 
