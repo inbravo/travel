@@ -34,8 +34,7 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_160004.jpg)
 
 ##  Narkanda
-*	Next morning its still raining and no sign of sun
-*	Stuck in hotel and thinking about how farthest i can go today. Plan is to reach Nako
+*	Next morning its still raining and no sign of sun. Stuck in hotel and thinking about how farthest i can go today. Plan is to reach Nako
 *	Finally i left hotel at around 11 AM and spent entire day riding at slow speed in intermittent rains
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_141617.jpg)
@@ -82,7 +81,7 @@
 
 *	After spending some time at the monestry and talking a young monk about their meditation techniques, i left for next destination 
 *	During the way arrived the dreaded Malling Nala, which is notorious for its deadly water flow
-*	After passing the Malling, arrives famous loops which are breathtaking. Took a pause here and kept starring the serenity and depth of nature
+*	Stopped at the famous loops which are breathtaking. Took a pause there and kept starring the serene depth of nature
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_120415.jpg)
 
@@ -219,7 +218,7 @@
 *	Didn't stopped at Batal and rather decided to reach Manali as soon as possible
 *	There is no sign of tarmac on this route, pebbles everywhere, which wont let you go beyond second or third gear
 *	From Batal starts the famous water crossings, which are very dangerous when you alone, as there is no one if you fall
-*	At one crossing, i stuck into stones and came our after a careful utilization of physical strength along with the power of motorcycle
+*	At one crossing, my tyre stuck into pebbles but came out after a careful utilization of physical strength along with the power of motorcycle
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_135621.jpg)
 
