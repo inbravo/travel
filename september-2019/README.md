@@ -101,8 +101,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_150834.jpg)
 
-*	After stopping and clicking pictures, arrived at Dhankar monestry
-*	Spend sometime in monestry premises, taking pictures and talking to fellow travelers 
+*	After stopping and clicking pictures, arrived at Dhankar monestry. Spend sometime in monestry, taking pictures and talking to fellow travelers 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_155955.jpg)
 
