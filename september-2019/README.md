@@ -53,6 +53,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_170354.jpg)
 
+##	Spillow
 *	Arrived at Spillow by 7 PM. My planned destination Nako is one hour away from here
 *	There is a risky stone shooting zone immediately after Spillow, locals suggested to pass it during the day time
 *	Decided to stay at Spillow after talking to a gentleman, who later became a good friend of mine
@@ -65,6 +66,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
 
+##	Nako (Khab, Leo, Tabo, Sumdo, Geu and Dhankar)
 *	The elevation starts from Khab-Sangam which goes towards Leo and Nako villages
 *	I decided not to go towards Leo, but clicked a picture of the village
 
@@ -108,7 +110,7 @@
 
 *	Its almost evening now, next stop is Kaza, which is just half an hour away from here
 
-##  Kaza
+##  Kaza (Langza, Komic, Hikkim, Key, Kibber and Chicham)
 *	City is packed with travelers. Found a home stay which is in front of famous Himalayan Cafe
 *	Next morning after refueling the worlds highest fuel station, headed towards Langza
 
@@ -176,12 +178,14 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_160240.jpg)
 
 *	Back to the home stay and now time to relax and enjoy the small town delicacies and culture
-*	Checked with locals about the tomorrows route Kaza to Manali, which is one of the most difficult in entire journey
+*	Checked with locals about the Kaza-Manali route, which is one of the most difficult in entire region
 *	Locals suggested to start as early as possible, Its only 200 kilometers but its one the offroad heaven
 *	Road from Kaza to Manali is open only June to October. It can be closed anytime now because its October
 *	Not expecting anyone to assist me in this difficult zone, so i am better prepared to pass it alone
-*	Bought a pair of long gum boots, helpful to cross to water streams. Also scrounged a pack of bread and few packs of butter for tomorrows
-*	Went to bed early so that next days ride can be started early
+*	Bought a pair of long gum boots, helpful to cross to water streams. Also scrounged some bread and butter for tomorrow
+*	Went to bed at around 10 PM so that next days ride can be started early 
+
+##	Kaza to Manali (Rangrik, Losar, Kunzum pass, Batal, Chota Dara, Chatru, Gramphu, Rohtang pass)
 *	Its 7 o'clock in the morning and today i will ride through worlds most treacherous and isolated region
 *	Almost 70% of my luggage is tools, spares and everything that is required me to get out of any hell safely
 *	Wear all my safety gears: polyester thermals, level 2 riding jacket and pant, kidney belt, hydration pack, warm gloves, balaclava and helmet
