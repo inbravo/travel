@@ -216,7 +216,7 @@
 
 *	Didn't stopped at Batal and rather decided to reach Manali as soon as possible
 *	There is no sign of tarmac on this route, pebbles everywhere, which wont let you go beyond second or third gear
-*	From Batal starts the famous water crossings, which are very dangerous when you alone, as there is no one if you fall
+*	From Batal starts the water crossings, which are very dangerous when you alone, as there is no one if you fall
 *	At one crossing, my tyre stuck into pebbles but came out after a careful utilization of physical strength along with the power of motorcycle
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_135621.jpg)
