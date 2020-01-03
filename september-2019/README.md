@@ -148,13 +148,14 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_121315.jpg)
 
-*	Its sunny and sky is so clear which a city dweller like me will rarely experience. I want to sit idle and do nothing, not even talks
+*	Its sunny and sky is so clear which a city dweller like me will rarely experience
+*	Took a pause and sit there in peace while trying to think nothing
 *	Finally after spending a good amount there i am going towards Key monastery
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_121439.jpg)
 
 *	The route takes us back towards Kaza city and then we ascend towards Key, Kibber and Chicham villages
-*	Key monestry ) is a Tibetan Buddhist monastery located on top of a hill at an altitude of 13,668 ft 
+*	Key monestry is a Tibetan Buddhist monastery located on top of a hill at an altitude of 13,668 ft 
 *	It is the biggest monastery of Spiti Valley and a religious training center for Lamas 
 *	It was some festival going on in monestry. A traditional ceremonies to take the blessings of religious leaders
 
@@ -189,10 +190,9 @@
 
 ##	Kaza to Manali (Rangrik, Losar, Kunzum, Batal, Chota Dara and Rohtang)
 *	Its 7 o'clock in the morning and today i will ride through worlds most treacherous and isolated region
-*	Almost 70% of my luggage is tools, spares and everything that is required me to get out of any hell safely
+*	Almost 70% of my luggage is tools, spares and everything that is required to take me out of any hell
 *	Wear all my safety gears: polyester thermals, level 2 riding jacket and pant, kidney belt, hydration pack, warm gloves, balaclava and helmet
-*	Today is the day to test my physical and mental efficiency
-*	With a larger then life attitude, i said to myself before heading out from Kaza "What doesn't kill you Makes your Stronger!"    
+*	Today is the day to test my physical and mental efficiency. With a larger then life attitude, i said to myself "What doesn't kill you Makes your Stronger!"    
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191011_190433.jpg)
 
@@ -218,7 +218,7 @@
 *	Didn't stopped at Batal and rather decided to reach Manali as soon as possible
 *	There is not sign of road on this route, pebbles everywhere, which wont let you go beyond third gear
 *	From Batal starts the famous water crossings, which are very dangerous when you alone
-*	At one crossing, i stuck into a ditch and came our after a careful utilization of physical strength along with the power of motorcycle
+*	At one crossing, i stuck into stones and came our after a careful utilization of physical strength along with the power of motorcycle
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_135621.jpg)
 
