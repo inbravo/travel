@@ -61,7 +61,7 @@
 *	Post the dinner the hotel owner offered me a local wine called Chulli, made of apricots
 *	Enjoyed every sip of Chulli with lots of loud laughs with restaurant staff before going to sleep
 *	Its 7 o'clock and i am back on road. Passed the risky shooting zone behind a military cavalcade 
-*	Within 1 hour, arrived at Khab-Sangam, which is confluence of Satluj and Spiti rivers
+*	Within 1 hour, arrived at Khab-Sangam, which is the confluence of Satluj and Spiti rivers
 *	A mettle bridge helps cross the rivers and ride into cliff-hanging narrow road	
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
@@ -82,31 +82,31 @@
 
 *	After spending some time at the monestry and talking a young monk about their meditation techniques, i left for next destination 
 *	During the way arrived the dreaded Malling Nala, which is notorious for its deadly water flow
-*	Post Malling arrives famous loops which are breathtaking. Took a pause here and spend a lot of time here and kept starring the serenity 
+*	After passing the Malling, arrives famous loops which are breathtaking. Took a pause here and kept starring the serenity and depth of nature
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_120415.jpg)
 
-*	After riding towards Tabo, arrived in village Chango. It has apple orchards and a monestry
+*	After riding towards Tabo, arrived in village Chango. It has apple orchards and a monestry at a minor hight
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_123731.jpg)
 
 *	After spending some time in Chango and talking with local kids, headed towards Tabo village
-*	Tabo is famous for its old monestry and a heliport. I decided not to click pictures as its forbidden in monestry
+*	Tabo is famous for its old monestry and a heliport. I decided not to click pictures as its forbidden in Tabo monestry
 *	Took pause at Tabo bridge and ate fresh apples from nearby orchard
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_144851.jpg)
 
-*	Immediately after passing the Tabo, come this long stretch passing through the beautiful mountains
-*	Stopped again and sit on the road in state of complete thoughtlessness, realizing about how small is my existence in front of the nature 
+*	Immediately after passing the Tabo, come this long stretch, passing through the beautiful mountains
+*	Stopped again and while sitting on the road in state of complete thoughtlessness, realized about how small is my existence in front of the nature 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_150834.jpg)
 
-*	After spending some time here and there, arrived at Dhankar monestry
-*	Spend sometime in monestry premises clicking pictures and talking to fellow travelers 
+*	After stopping and clicking pictures, arrived at Dhankar monestry
+*	Spend sometime in monestry premises, taking pictures and talking to fellow travelers 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_155955.jpg)
 
-*	Dhankar also has a heliport, enjoyed some time there and waved towards foreign riders, heading towards the monestry 
+*	Dhankar also has a heliport, enjoyed some time there and waved towards riders, heading towards the monestry 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_162019.jpg)
 
@@ -187,7 +187,7 @@
 *	Bought a pair of long gum boots, helpful to cross to water streams. Also scrounged some bread and butter for tomorrow
 *	Went to bed at around 10 PM so that next days ride can be started early 
 
-##	Kaza to Manali (Rangrik, Losar, Kunzum, Batal, Chota Dara, Chatru, Gramphu, Rohtang)
+##	Kaza to Manali (Rangrik, Losar, Kunzum, Batal, Chota Dara and Rohtang)
 *	Its 7 o'clock in the morning and today i will ride through worlds most treacherous and isolated region
 *	Almost 70% of my luggage is tools, spares and everything that is required me to get out of any hell safely
 *	Wear all my safety gears: polyester thermals, level 2 riding jacket and pant, kidney belt, hydration pack, warm gloves, balaclava and helmet
