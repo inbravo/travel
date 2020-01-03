@@ -190,8 +190,8 @@
 ##	Kaza to Manali (Rangrik, Losar, Kunzum, Batal, Chota Dara and Rohtang)
 *	Its 7 o'clock in the morning and today i will ride through worlds most treacherous and isolated region
 *	Almost 70% of my luggage is tools, spares and everything that is required to take me out of any hell
-*	Wear all my safety gears: polyester thermals, level 2 riding jacket and pant, kidney belt, hydration pack, warm gloves, balaclava and helmet
-*	Today is the day to test my physical and mental efficiency. With a larger then life attitude, i said to myself "What doesn't kill you Makes your Stronger!"    
+*	Worn all my safety gears: polyester thermals, level 2 riding jacket and pant, kidney belt, hydration pack, warm gloves, balaclava and helmet
+*	Today is the day to test my physical and mental efficiency. With a larger then life attitude, i said to myself "What doesn't kill you, makes you stronger"    
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191011_190433.jpg)
 
