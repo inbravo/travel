@@ -171,7 +171,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_195925.jpg)
 
-*	After passing the bridge, another 5 minutes of ride takes to reach Chicham village
+*	After passing the bridge, another 5 minutes of ride takes to Chicham village
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_150145.jpg)
 
@@ -183,9 +183,9 @@
 *	Back to the home stay and now time to relax and enjoy the small town delicacies and culture
 *	Checked with locals about the Kaza-Manali route, which is one of the most difficult in entire region
 *	Locals suggested to start as early as possible, Its only 200 kilometers but its one the offroad heaven
-*	Road from Kaza to Manali is open only June to October. It can be closed anytime now because its October
-*	Not expecting anyone to assist me in this difficult zone, so i am better prepared to pass it alone
-*	Bought a pair of long gum boots, helpful to cross to water streams. Also scrounged some bread and butter for tomorrow
+*	Road from Kaza to Manali is open only June to October. It can be closed anytime now because its already October
+*	Not expecting anyone to assist me in during tomorrows ride, so i am better prepared to pass it alone
+*	Bought a pair of long gum boots, helpful to cross the water streams. Also scrounged some bread and butter for tomorrows breakfast
 *	Went to bed at around 10 PM so that next days ride can be started early 
 
 ##	Kaza to Manali (Rangrik, Losar, Kunzum, Batal, Chota Dara and Rohtang)
@@ -196,15 +196,15 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191011_190433.jpg)
 
-*	One fine morning around me, heading towards Rangrik and Losar
+*	Realizing the significance of a fine morning around me, while heading towards Losar from Rangrik
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_095552.jpg)
 
-*	Before Losar clicked picture of stones with message "Om Mani Padme Hum"
+*	Before Losar clicked picture of stones with message "Om Mani Padme Hum". Entire Spiti and Laddakh region is full of such engraved stones
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_114845.jpg)
 
-*	Losar has a police check post, which requires verification before crossing
+*	Losar has a police check post, which requires verification before heading further towards Manali
 *	After riding for around 2 hours from Losar, reached at famous Kunzum pass and temple
 *	One of the highest pass famous for its altitude and difficult surroundings, spend sometime there and headed towards Batal 
 
