@@ -185,7 +185,7 @@
 *	Bought a pair of long gum boots, helpful to cross to water streams. Also scrounged some bread and butter for tomorrow
 *	Went to bed at around 10 PM so that next days ride can be started early 
 
-##	Kaza to Manali (Rangrik, Losar, Kunzum pass, Batal, Chota Dara, Chatru, Gramphu, Rohtang pass)
+##	Kaza to Manali (Rangrik, Losar, Kunzum, Batal, Chota Dara, Chatru, Gramphu, Rohtang)
 *	Its 7 o'clock in the morning and today i will ride through worlds most treacherous and isolated region
 *	Almost 70% of my luggage is tools, spares and everything that is required me to get out of any hell safely
 *	Wear all my safety gears: polyester thermals, level 2 riding jacket and pant, kidney belt, hydration pack, warm gloves, balaclava and helmet
