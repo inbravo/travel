@@ -9,7 +9,7 @@
 
 ##  Ghaziabad
 *	This time Universe has chosen Spiti valley for me
-*	It 5 o'clock and i see a very beautiful morning around me, it reminds me of "You see what you carry in your heart" 
+*	It 5 o'clock and the beautiful morning reminds me of famous quote "You see what you carry in your heart" 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_062313.jpg)
 
@@ -18,7 +18,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_083247.jpg)
 
-*	By noon i am riding in clouds towards Chail, bypassing Simla. Passing through plush greenery and intermittent showers 
+*	Its noon and i am riding in clouds towards Chail, bypassing Simla. Passing through plush greenery and intermittent showers 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_140706.jpg)
 
@@ -26,15 +26,15 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_151939.jpg)
 
-*	It is raining cats of dogs now and free riding has turned into hide and seek
+*	By the time i arrived in Kufri, it is raining cats of dogs and my free riding has turned into hide and seek
 *	Thinking about what if i miss my todays plan to reach Narkanda
-*	Its dark and i am completely drenched and shivering. My hands are numb 
+*	Its dark and i am completely drenched and shivering. My hands are numb and turned wrinkly
 *	After almost 3 hours of complete wetness, i reached outskirts of Narkanda. Billeted into a lodge at around 7 PM
 	
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190928_160004.jpg)
 
 ##  Narkanda
-*	Next morning its still raining and no sign of sun and clear sky
+*	Next morning its still raining and no sign of sun
 *	Stuck in hotel and thinking about how farthest i can go today. Plan is to reach Nako
 *	Finally i left hotel at around 11 AM and spent entire day riding at slow speed in intermittent rains
 
@@ -171,21 +171,62 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_150145.jpg)
 
 *	Spend some time there talking to local people. Its getting dark so started riding towards Kaza
-*	Arrived near Kaza and found a beautiful message made by the plastic bottles, to highlight the significance of not using single use plastic
+*	Arrived near Kaza and stopped at this beautiful message made of waste plastic bottles, to highlight the significance of not using single use plastic
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_160240.jpg)
 
 *	Back to the home stay and now time to relax and enjoy the small town delicacies and culture
-*	Went to bed early so that next days ride can be started early. Tomorrows i will ride through worlds most treacherous and isolated region
+*	Checked with locals about the tomorrows route Kaza to Manali, which is one of the most difficult in entire journey
+*	Locals suggested to start as early as possible, Its only 200 kilometers but its one the offroad heaven
 *	Road from Kaza to Manali is open only June to October. It can be closed anytime now because its October
-*	I am not expecting anyone to assist me in this difficult zone, so i am better prepared to pass it alone
+*	Not expecting anyone to assist me in this difficult zone, so i am better prepared to pass it alone
+*	Bought a pair of long gum boots, helpful to cross to water streams. Also scrounged a pack of bread and few packs of butter for tomorrows
+*	Went to bed early so that next days ride can be started early
+*	Its 7 o'clock in the morning and today i will ride through worlds most treacherous and isolated region
+*	Almost 70% of my luggage is tools, spares and everything that is required me to get out of any hell safely
+*	Wear all my safety gears: polyester thermals, level 2 riding jacket and pant, kidney belt, hydration pack, warm gloves, balaclava and helmet
+*	Today is the day to test my physical and mental efficiency
+*	With a larger then life attitude, i said to myself before heading out from Kaza "What doesn't kill you Makes your Stronger!"    
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191011_190433.jpg)
+
+*	One fine morning around me, heading towards Rangrik and Losar
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_095552.jpg)
+
+*	Before Losar clicked picture of stones with message "Om Mani Padme Hum"
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_114845.jpg)
+
+*	Losar has a police check post, which requires verification before crossing
+*	After riding for around 2 hours from Losar, reached at famous Kunzum pass and temple
+*	One of the highest pass famous for its altitude and difficult surroundings, spend sometime there and headed towards Batal 
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_125348.jpg)
+
+*	Batal is nothing but 2 makeshift huts, which are shops run by famous gaddi people of this region
+*	Gaddi people run these shops for around 4 months a year and they are the only source of survival on this route
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_131348.jpg)
+
+*	Didn't stopped at Batal and rather decided to reach Manali as soon as possible
+*	There is not sign of road on this route, pebbles everywhere, which wont let you go beyond third gear
+*	From Batal starts the famous water crossings, which are very dangerous when you alone
+*	At one crossing, i stuck into a ditch and came our after a careful utilization of physical strength along with the power of motorcycle
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_135621.jpg)
+
+*	Arrived at Chota Dara, which has some buildings but found no one there
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_141201.jpg)
+
+*	Arrived at Chatru at around 4 PM, which has some makeshift arrangements for food and stay
+*	Took my lunch there and met some other fellow riders from foreign region, heading towards Kaza
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_152246.jpg)
+
+*	The dhaba owner discouraged me to go further. I laughed and offered him a ride to Kullu
+*	The next stop was Rohtang Pass, which is another high altitude pass
+*	It was very cold there, was barely able to click a picture, because its getting dark and i plan to pass Manali today
+
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_193113.jpg)
