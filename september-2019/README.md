@@ -53,7 +53,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190929_170354.jpg)
 
-##	Spillow
+##	Spillow (Khab and Leo)
 *	Arrived at Spillow by 7 PM. My planned destination Nako is one hour away from here
 *	There is a risky stone shooting zone immediately after Spillow, locals suggested to pass it during the day time
 *	Decided to stay at Spillow after talking to a gentleman, who later became a good friend of mine
@@ -66,14 +66,16 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_031906.jpg)
 
-##	Nako (Khab, Leo, Tabo, Sumdo, Geu and Dhankar)
 *	The elevation starts from Khab-Sangam which goes towards Leo and Nako villages
+
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_105214.jpg)
+
 *	I decided not to go towards Leo, but clicked a picture of the village
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_104836.jpg)
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_105214.jpg)
 
-*	I am back on road towards Nako, which is famous for its thousand years old monestry 
+##	Nako (Tabo, Sumdo, Geu and Dhankar)
+*	Arrived in Nako, which is famous for its thousand years old monestry 
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112741.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112852.jpg)
