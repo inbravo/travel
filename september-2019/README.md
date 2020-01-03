@@ -114,7 +114,7 @@
 
 ##  Kaza (Langza, Komic, Hikkim, Key, Kibber and Chicham)
 *	City is packed with travelers. Found a home stay which is in front of famous Himalayan Cafe
-*	Next morning after refueling the worlds highest fuel station, headed towards Langza
+*	Next morning after refueling at the worlds highest fuel station, headed towards Langza
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191001_161614.jpg)
 
@@ -216,8 +216,8 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_131348.jpg)
 
 *	Didn't stopped at Batal and rather decided to reach Manali as soon as possible
-*	There is not sign of road on this route, pebbles everywhere, which wont let you go beyond third gear
-*	From Batal starts the famous water crossings, which are very dangerous when you alone
+*	There is no sign of tarmac on this route, pebbles everywhere, which wont let you go beyond second or third gear
+*	From Batal starts the famous water crossings, which are very dangerous when you alone, as there is no one if you fall
 *	At one crossing, i stuck into stones and came our after a careful utilization of physical strength along with the power of motorcycle
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_135621.jpg)
@@ -226,8 +226,9 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_141201.jpg)
 
-*	Arrived at Chatru at around 4 PM, which has some makeshift arrangements for food and stay
-*	Took my lunch there and met some other fellow riders from foreign region, heading towards Kaza
+*	Arrived at Chatru at around 4 PM, which has some makeshift arrangements in tents for food and stay
+*	Took my lunch there and met some other fellow foreign riders, heading towards Kaza
+*	Also met a famous you tuber, later i was surprised to find that he published me in his video
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_152246.jpg)
 
