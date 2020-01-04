@@ -226,15 +226,15 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_141201.jpg)
 
-*	Arrived at Chatru at around 4 PM, which has some makeshift arrangements in tents for food and stay
-*	Took my lunch there and met some other fellow foreign riders, heading towards Kaza
+*	Reached Chatru at around 4 PM, which has some makeshift arrangements in tents for food and stay
+*	Took my lunch there and met some other fellow foreign origin riders, heading towards Kaza
 *	Also met a famous you tuber, later i was surprised to find that he published me in his video
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_152246.jpg)
 
 *	The dhaba owner discouraged me to go further. I laughed and offered him a ride to Kullu
 *	The next stop is Rohtang Pass, which is another high altitude pass
-*	It was very cold at Rohtang, was barely able to click a picture, because its getting dark and i plan to pass Manali today
+*	It was very cold at Rohtang, was barely able to click a picture. Its getting dark and i plan to pass Manali today
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_193113.jpg)
 
