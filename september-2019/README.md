@@ -79,8 +79,9 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112741.jpg)
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_112852.jpg)
 
-*	After spending some time at the monestry and talking a young monk about their meditation techniques, i left for next destination 
+*	After spending some time at the monestry and talking with a young monk about on meditation, i left for next destination 
 *	During the way arrived the dreaded Malling Nala, which is notorious for its deadly water flow
+*	I am lucky to visit Spiti during October, water streams are at the lowest level during this time
 *	Stopped at the famous loops which are breathtaking. Took a pause there and kept starring the serene depth of nature
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_120415.jpg)
@@ -209,7 +210,7 @@
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_125348.jpg)
 
-*	Batal is nothing but 2 makeshift huts, which are shops run by famous gaddi people of this region
+*	Batal is nothing but few makeshift huts, which are shops run by famous gaddi people of this region
 *	Gaddi people run these shops for around 4 months a year and they are the only source of survival on this route
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_131348.jpg)
@@ -232,7 +233,14 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_152246.jpg)
 
 *	The dhaba owner discouraged me to go further. I laughed and offered him a ride to Kullu
-*	The next stop was Rohtang Pass, which is another high altitude pass
-*	It was very cold there, was barely able to click a picture, because its getting dark and i plan to pass Manali today
+*	The next stop is Rohtang Pass, which is another high altitude pass
+*	It was very cold at Rohtang, was barely able to click a picture, because its getting dark and i plan to pass Manali today
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_193113.jpg)
+
+*	Passed Rohtang and its notorious fog which is really dangerous, when its dark and you on motorcycle
+*	Reached Manali by 8 PM, took a pause at a small shop and devoured noodles, which i generally avoid
+*	I am thinking about riding as much as i can so that tomorrows ride can be shorter
+*	After riding for almost 2 hours, arrived at the outskirts of Kullu and found a decent hotel
+*	Realized that my entire ride today was around 14 hours and i have passed worlds most treacherous route
+*	With a peaceful heart, i went into a small session of meditation before a good night sleep
