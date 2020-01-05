@@ -108,7 +108,7 @@
 
 *	Dhankar also has a heliport, enjoyed some time there and waved towards riders, heading towards the monestry 
 
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20190930_162019.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20200105_092533.jpg)
 
 *	Its almost evening now, next stop is Kaza, which is just half an hour away from here
 
@@ -202,7 +202,7 @@
 
 *	Before Losar clicked picture of stones with message "Om Mani Padme Hum". Entire Spiti and Laddakh region is full of such engraved stones
 
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_114845.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_115712-01.jpg)
 
 *	Losar has a police check post, which requires verification before heading further towards Manali
 *	After riding for around 2 hours from Losar, reached at famous Kunzum pass and temple
@@ -233,7 +233,11 @@
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_152246.jpg)
 
 *	The dhaba owner discouraged me to go further. I laughed and offered him a ride to Kullu
-*	The next stop is Rohtang Pass, which is another high altitude pass
+*	Arrived at Gramphu where this route merges into Manali-Leh highway. Feel relaxed after realizing that the difficult stretch is over
+*	The next stop is Rohtang Pass after a ride for almost an hour, which is another high altitude pass
+
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_164409-01.jpg)
+
 *	It was very cold at Rohtang, was barely able to click a picture. Its getting dark and i plan to pass Manali today
 
 ![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_193113.jpg)
