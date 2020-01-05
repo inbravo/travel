@@ -202,7 +202,7 @@
 
 *	Before Losar clicked picture of stones with message "Om Mani Padme Hum". Entire Spiti and Laddakh region is full of such engraved stones
 
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_115712-01.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_115712-01.jpeg)
 
 *	Losar has a police check post, which requires verification before heading further towards Manali
 *	After riding for around 2 hours from Losar, reached at famous Kunzum pass and temple
@@ -236,7 +236,7 @@
 *	Arrived at Gramphu where this route merges into Manali-Leh highway. Feel relaxed after realizing that the difficult stretch is over
 *	The next stop is Rohtang Pass after a ride for almost an hour, which is another high altitude pass
 
-![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_164409-01.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/IMG_20191002_164409-01.jpeg)
 
 *	It was very cold at Rohtang, was barely able to click a picture. Its getting dark and i plan to pass Manali today
 
