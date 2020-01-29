@@ -1,10 +1,6 @@
 
 ---
-
-| |
-| :--- |
-| This is the story of my motorcycle ride to Khardungla Leh J&K, India|
-
+This is the story of my motorcycle ride to Khardungla Leh J&K, India
 ---
 
 ##  Ghaziabad
