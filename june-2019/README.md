@@ -283,4 +283,4 @@ This is the story of my motorcycle ride to Khardungla Leh J&K, India
 
 *	Some of my favorite pictures from this ride
 
-![](https://github.com/inbravo/travel/raw/master/june-2019/images/1.JPG)
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/1.jpg)
