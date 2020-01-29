@@ -244,3 +244,9 @@ This is the story of my motorcycle ride to Spiti Valley HP India
 *	After riding for almost 2 hours, arrived at the outskirts of Kullu and found a decent hotel
 *	Realized that my entire ride today was around 14 hours and i have passed worlds most treacherous route
 *	With a peaceful heart, i went into a small session of meditation before a good night sleep
+
+*	Some of my favorite pictures from this ride
+
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/1.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/2.jpg)
+![](https://github.com/inbravo/travel/raw/master/september-2019/images/3.jpg)
