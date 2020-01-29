@@ -284,3 +284,7 @@
 *	Within 1 hour from south pullu, i reached at the Worlds highest motorable pass: Khardungla
 
 ![](https://github.com/inbravo/travel/raw/master/june-2019/images/IMG_20190604_152915.jpg)
+
+*	Some of my favorite pictures from this ride
+
+![](https://github.com/inbravo/travel/raw/master/june-2019/images/1.JPG)
