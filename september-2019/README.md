@@ -1,10 +1,6 @@
 
 ---
-
-| |
-| :--- |
-| This is the story of my motorcycle ride to Spiti Valley HP India|
-
+This is the story of my motorcycle ride to Spiti Valley HP India
 ---
 
 ##  Ghaziabad
