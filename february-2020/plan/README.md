@@ -1,9 +1,7 @@
 
 ---
 
-|  |
-| :---  |
-| This is the plan of motorcycle ride to Spiti in winters, India during February 2020 |
+This is the plan of motorcycle ride to Spiti in winters, India during February 2020 
 
 ---
 
@@ -30,13 +28,13 @@
 * Avoid accelerating with half clutch for long
 * Take small pauses every 1-2 hours to cool down
 * Honk on every turn and never drive in wrong lane
-* Never skip any checkpoint, always register with them
 * Fog light at fronts and reflecting tapes at the back
 * Stay friendly with everyone, you encounter while riding
 * Early start at around 9 AM. Avoid riding beyond 5:30 PM
 * In high altitude regions, avoid staying long or sleeping
 * Remember the cold starting your motorcycle every morning 
 * Water and food are the key to health, drink and eat wisely
+* Never skip any police checkpoint, always register with them
 * Switch off your lights to let climbing vehicles see clearly
 * Fill up your tanks every night, to avoid any delay in morning
 * Do not ride in the outer most lane, its where the animal roams
