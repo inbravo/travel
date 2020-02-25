@@ -1,9 +1,6 @@
 
 ---
-
-|  |
-| :---  |
-| This is the plan of motorcycle ride to Spiti in winters, India during February 2020 |
+This is the plan of motorcycle ride to Spiti in winters, India during February 2020 
 
 ---
 
