@@ -41,9 +41,7 @@
 * Fill up your tanks every night, to avoid any delay in morning
 * Do not ride in the outer most lane, its where the animal roams
 * Avoid making pre-bookings; planning doesn’t works mostly on this trip
-* In case of any medical emergency, contact the local military camps
-* Avoid any bravery while crossing the water streams (nala), take help
-* Avoid starting your motorcycle while crossing the water streams (nala)
+* In case of any medical emergency, contact the local government dispensary
 * Keep all necessary documents at an easily traceable place e.g. tank bag etc
 * Water streams (nala) are easier to cross in morning, owing to less water flow
 * Don't stay long at any high altitude point. Mountain sickness can kill your joy
