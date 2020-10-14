@@ -41,8 +41,16 @@
 * Riding jacket/pant or leg-arm protector
 * Riding gloves, helmet and sunglass
 
-## Hygiene
+## Camping
 * Sleeping bag
+* Insulation mat
+* Self inflatable sleeing pad and pillow
+* Tent
+* Utensils (a mug, small pan/tope with lid, knife and a small bowl)
+* Camping burner
+* Coffie, Spices for food (Salt, Sugar etc)
+
+## Hygiene
 * Personal water filter and water bottles
 * Spoon and mug
 * Lunch box
