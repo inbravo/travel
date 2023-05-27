@@ -14,3 +14,7 @@
 -	[Khardungla, Leh, J&K, India](june-2019/README.md)
 -	[Spiti, HP, India](september-2019/README.md)
 -	[Nako in Winters, Spiti, HP, India](march-2020/README.md)
+-	[Kutch, Gujarat, India](march-2021/README.md)
+-	[Umlingla, Ladakh, India](september-2021/README.md)
+-	[Mustang, Nepal, India](october-2022/README.md)
+-	[Kartik Swami, Rudrarayag, Uttarakhand, India](april-2023/README.md)
